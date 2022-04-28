@@ -12,3 +12,7 @@ To use the code, you have to install following packages.
 * energy
 * data.table
 * dplyr
+
+
+## Contact
+For questions/comments, please contact Jiawen Chen (jiawenn at email dot unc dot edu).
