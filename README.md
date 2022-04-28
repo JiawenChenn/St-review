@@ -15,4 +15,4 @@ To use the code, you have to install following packages.
 
 
 ## Contact
-For questions/comments, please contact Jiawen Chen (jiawenn at email dot unc dot edu).
+For questions/comments, please contact Jiawen Chen (jiawenn@email.unc.edu).
