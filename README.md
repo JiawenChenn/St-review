@@ -1,6 +1,7 @@
 # St-review
 This repo includes the code used to calculate evaluation metric in 
-A comprehensive comparison on cell type composition inference for spatial transcriptomics data
+
+* [A comprehensive comparison on cell type composition inference for spatial transcriptomics data](https://www.biorxiv.org/content/10.1101/2022.02.20.481171v1)
 
 ## Repository structure
 * ``evaluation_metric.R``: the code used to caluclate RMSE, distance correlation and difference.
