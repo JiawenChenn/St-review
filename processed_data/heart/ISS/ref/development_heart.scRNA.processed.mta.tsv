@@ -1,0 +1,3254 @@
+cell	bio_celltype
+AAACCTGGTGGTACAG.1	Epicardium-derived cells
+AAACGGGAGATGTAAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AAACGGGAGGCAGTCA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AAACGGGAGGTCATCT.1	Smooth muscle cells / fibroblast-like)
+AAACGGGAGTAGCCGA.1	Fibroblast-like (related to smaller vascular development)
+AAACGGGAGTTCGCGC.1	Smooth muscle cells / fibroblast-like)
+AAACGGGCAAGCCTAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AAACGGGTCATTATCC.1	Smooth muscle cells / fibroblast-like)
+AAAGATGAGCGCCTCA.1	Endothelium / pericytes / adventitia
+AAAGATGGTGTGGCTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AAAGATGTCATGCATG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AAAGATGTCCTTTCGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AAAGATGTCGCGGATC.1	Smooth muscle cells / fibroblast-like)
+AAAGCAACACGAAGCA.1	Smooth muscle cells / fibroblast-like)
+AAAGCAAGTCACTGGC.1	Myoz2-enriched cardiomyocytes
+AAAGCAAGTGCCTGGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AAAGCAATCGCCAAAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AAAGCAATCTGTCAAG.1	Endothelium / pericytes / adventitia
+AAAGTAGAGTGTACCT.1	Epicardium-derived cells
+AAATGCCAGTACGACG.1	Smooth muscle cells / fibroblast-like)
+AAATGCCCATTGCGGC.1	Capillary endothelium
+AAATGCCTCCTCTAGC.1	Smooth muscle cells / fibroblast-like)
+AAATGCCTCTTGTTTG.1	Capillary endothelium
+AACACGTCATGCGCAC.1	Fibroblast-like (related to smaller vascular development)
+AACACGTGTAAACCTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AACACGTGTGGTTTCA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AACACGTTCTGCCAGG.1	Ventricular cardiomyocytes
+AACCATGCACCAACCG.1	Capillary endothelium
+AACCATGGTACATCCA.1	Smooth muscle cells / fibroblast-like)
+AACCATGGTCGTTGTA.1	Capillary endothelium
+AACCATGGTCTGGTCG.1	Capillary endothelium
+AACCATGGTGCTAGCC.1	Smooth muscle cells / fibroblast-like)
+AACCATGTCTCCGGTT.1	Epicardium-derived cells
+AACCATGTCTTGCCGT.1	Smooth muscle cells / fibroblast-like)
+AACGTTGGTCTAAACC.1	Smooth muscle cells / fibroblast-like)
+AACTCAGGTCTCTTAT.1	Capillary endothelium
+AACTCCCCAACACGCC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AACTCCCTCTTTAGGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AACTCTTAGGCATGGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AACTCTTGTAGGCATG.1	Capillary endothelium
+AACTGGTAGTAGCGGT.1	Epicardium-derived cells
+AACTTTCGTCTAGCCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AAGACCTTCGGTCTAA.1	Capillary endothelium
+AAGCCGCCAATTGCTG.1	Capillary endothelium
+AAGCCGCGTACGACCC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AAGCCGCGTGCGATAG.1	Epicardium-derived cells
+AAGCCGCTCTTTACGT.1	Atrial cardiomyocytes
+AAGGAGCAGTGCTGCC.1	Capillary endothelium
+AAGGAGCGTCTAGTGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AAGGAGCTCACATGCA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AAGGAGCTCTAACTTC.1	Atrial cardiomyocytes
+AAGGCAGAGAGAACAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AAGGCAGAGTGTCTCA.1	Smooth muscle cells / fibroblast-like)
+AAGGCAGCACTCAGGC.1	Fibroblast-like (related to smaller vascular development)
+AAGGCAGCAGTACACT.1	Capillary endothelium
+AAGGCAGGTGCAGGTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AAGGCAGGTTCAACCA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AAGGCAGGTTCATGGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AAGGTTCAGCGACGTA.1	Atrial cardiomyocytes
+AAGGTTCCAAGCCGTC.1	Cardiac neural crest cells & Schwann progenitor cells
+AAGGTTCGTTCATGGT.1	Capillary endothelium
+AAGGTTCTCAGCACAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AAGTCTGAGTCGAGTG.1	Smooth muscle cells / fibroblast-like)
+AATCCAGAGGGTTCCC.1	Atrial cardiomyocytes
+AATCCAGAGTCTCCTC.1	Capillary endothelium
+AATCCAGCAGGCTCAC.1	Fibroblast-like (related to larger vascular development)
+AATCGGTAGAGTAATC.1	Smooth muscle cells / fibroblast-like)
+AATCGGTAGATGTCGG.1	Epicardium-derived cells
+AATCGGTGTGTTTGTG.1	Capillary endothelium
+AATCGGTTCCCAACGG.1	Fibroblast-like (related to smaller vascular development)
+ACACCAAAGATGTTAG.1	Epicardium-derived cells
+ACACCAAAGCTAGTTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACACCAAAGTTGCAGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACACCAATCAGGTTCA.1	Capillary endothelium
+ACACCAATCGTGACAT.1	Atrial cardiomyocytes
+ACACCCTAGCCGGTAA.1	Smooth muscle cells / fibroblast-like)
+ACACCCTCACATTAGC.1	Cardiac neural crest cells & Schwann progenitor cells
+ACACCCTCACGCTTTC.1	Smooth muscle cells / fibroblast-like)
+ACACCCTCATCCGTGG.1	Myoz2-enriched cardiomyocytes
+ACACCCTGTCTCATCC.1	Epicardium-derived cells
+ACACCCTGTCTGCCAG.1	Smooth muscle cells / fibroblast-like)
+ACACCCTGTTAAGTAG.1	Smooth muscle cells / fibroblast-like)
+ACACCCTGTTGAGTTC.1	Smooth muscle cells / fibroblast-like)
+ACACCGGAGATCGGGT.1	Epicardium-derived cells
+ACACCGGGTATTAGCC.1	Epicardium-derived cells
+ACACCGGGTGTTTGGT.1	Smooth muscle cells / fibroblast-like)
+ACACTGAAGAATTGTG.1	Smooth muscle cells / fibroblast-like)
+ACACTGATCTGTCTAT.1	Endothelium / pericytes / adventitia
+ACAGCCGAGGTCATCT.1	Epicardial cells
+ACAGCCGGTCTCTTTA.1	Epicardium-derived cells
+ACAGCTAAGTGTGGCA.1	Epicardium-derived cells
+ACAGCTACAGCTGGCT.1	Fibroblast-like (related to larger vascular development)
+ACAGCTAGTACCATCA.1	Cardiac neural crest cells & Schwann progenitor cells
+ACAGCTAGTCAAACTC.1	Smooth muscle cells / fibroblast-like)
+ACATACGCACCTTGTC.1	Endothelium / pericytes / adventitia
+ACATACGTCCACGTTC.1	Epicardium-derived cells
+ACATACGTCTTGCATT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACATACGTCTTGCCGT.1	Epicardium-derived cells
+ACATCAGAGTCGTACT.1	Fibroblast-like (related to smaller vascular development)
+ACATCAGGTACAAGTA.1	Myoz2-enriched cardiomyocytes
+ACATCAGGTACCAGTT.1	Capillary endothelium
+ACATCAGGTTTCGCTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACATCAGTCCCAGGTG.1	Epicardium-derived cells
+ACATCAGTCCGCATAA.1	Ventricular cardiomyocytes
+ACATGGTAGAATAGGG.1	Epicardium-derived cells
+ACATGGTAGGACGAAA.1	Smooth muscle cells / fibroblast-like)
+ACATGGTAGGGCTTCC.1	Smooth muscle cells / fibroblast-like)
+ACATGGTAGTGGAGTC.1	Capillary endothelium
+ACATGGTCAAGGTGTG.1	Fibroblast-like (related to smaller vascular development)
+ACATGGTGTCAATGTC.1	Atrial cardiomyocytes
+ACCAGTAAGTCGAGTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACCAGTACAAAGGAAG.1	Epicardium-derived cells
+ACCAGTACACAGCGTC.1	Capillary endothelium
+ACCAGTATCAGCACAT.1	Ventricular cardiomyocytes
+ACCCACTAGGTAAACT.1	Atrial cardiomyocytes
+ACCCACTGTACGCACC.1	Fibroblast-like (related to smaller vascular development)
+ACCCACTGTATAGTAG.1	Ventricular cardiomyocytes
+ACCGTAACACGAGGTA.1	Atrial cardiomyocytes
+ACCTTTACAAGCGTAG.1	Epicardial cells
+ACCTTTACAGTCCTTC.1	Cardiac neural crest cells & Schwann progenitor cells
+ACCTTTAGTTTGCATG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACCTTTATCTCCTATA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACGAGCCAGGGTTCCC.1	Atrial cardiomyocytes
+ACGAGCCCAAGTTAAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACGAGCCGTAGCAAAT.1	Epicardium-derived cells
+ACGAGCCGTCTCCCTA.1	Atrial cardiomyocytes
+ACGAGGAAGTACGCGA.1	Smooth muscle cells / fibroblast-like)
+ACGAGGACATACGCCG.1	Capillary endothelium
+ACGAGGAGTCGCTTTC.1	Smooth muscle cells / fibroblast-like)
+ACGATACGTCCCTTGT.1	Smooth muscle cells / fibroblast-like)
+ACGATACGTCGCATCG.1	Fibroblast-like (related to smaller vascular development)
+ACGATACTCAGAGCTT.1	Atrial cardiomyocytes
+ACGATGTGTCGAACAG.1	Cardiac neural crest cells & Schwann progenitor cells
+ACGATGTTCACCTCGT.1	Epicardial cells
+ACGATGTTCGGTGTCG.1	Fibroblast-like (related to larger vascular development)
+ACGCAGCAGTCCCACG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACGCAGCAGTGAATTG.1	Fibroblast-like (related to smaller vascular development)
+ACGCAGCGTGATGCCC.1	Ventricular cardiomyocytes
+ACGCCAGGTCCAACTA.1	Atrial cardiomyocytes
+ACGCCAGGTTTGGCGC.1	Fibroblast-like (related to smaller vascular development)
+ACGCCGACATGCGCAC.1	Capillary endothelium
+ACGCCGAGTTATCGGT.1	Capillary endothelium
+ACGGAGAAGATGGGTC.1	Atrial cardiomyocytes
+ACGGAGAAGTTAGCGG.1	Epicardial cells
+ACGGAGACATATGGTC.1	Smooth muscle cells / fibroblast-like)
+ACGGAGAGTGCACTTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACGGAGAGTGGTTTCA.1	Cardiac neural crest cells & Schwann progenitor cells
+ACGGCCAAGCTATGCT.1	Atrial cardiomyocytes
+ACGGCCAAGGTGTTAA.1	Smooth muscle cells / fibroblast-like)
+ACGGCCAAGTCGATAA.1	Cardiac neural crest cells & Schwann progenitor cells
+ACGGCCAGTCTAGAGG.1	Epicardium-derived cells
+ACGGCCAGTGAAATCA.1	Smooth muscle cells / fibroblast-like)
+ACGGGCTGTACGCACC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACGGGTCTCATCATTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACGGGTCTCTTCTGGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACGTCAACAGGAATGC.1	Epicardium-derived cells
+ACGTCAAGTGGAAAGA.1	Capillary endothelium
+ACGTCAAGTGTTAAGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACTATCTCAAGTACCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACTATCTCATTAGGCT.1	Capillary endothelium
+ACTATCTGTGACGGTA.1	Smooth muscle cells / fibroblast-like)
+ACTATCTGTTCAGGCC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACTGAACCAGTTCCCT.1	Capillary endothelium
+ACTGAACGTATCAGTC.1	Smooth muscle cells / fibroblast-like)
+ACTGAACGTTACTGAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACTGAACTCGAACGGA.1	Smooth muscle cells / fibroblast-like)
+ACTGAACTCTACCTGC.1	Fibroblast-like (related to smaller vascular development)
+ACTGAGTAGCTAAGAT.1	Capillary endothelium
+ACTGAGTGTACCGCTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACTGAGTGTCGCCATG.1	Epicardial cells
+ACTGAGTGTTGAGGTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACTGATGGTCCGTGAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACTGATGTCACCATAG.1	Capillary endothelium
+ACTGATGTCGTTTAGG.1	Atrial cardiomyocytes
+ACTGCTCAGCGATAGC.1	Smooth muscle cells / fibroblast-like)
+ACTGCTCCAGGTCTCG.1	Epicardial cells
+ACTGTCCCAAGCCCAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACTGTCCTCTCTGAGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACTTACTTCAGCATGT.1	Ventricular cardiomyocytes
+ACTTACTTCATAGCAC.1	Smooth muscle cells / fibroblast-like)
+ACTTACTTCCATGAAC.1	Smooth muscle cells / fibroblast-like)
+ACTTACTTCTCTGCTG.1	Capillary endothelium
+ACTTGTTAGCTAGTGG.1	Capillary endothelium
+ACTTGTTAGCTCCCAG.1	Atrial cardiomyocytes
+ACTTGTTCAGTTCATG.1	Smooth muscle cells / fibroblast-like)
+ACTTGTTGTACTTCTT.1	Smooth muscle cells / fibroblast-like)
+ACTTTCAGTGTTCTTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AGAATAGAGCTCCTCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AGAATAGTCTCTAAGG.1	Atrial cardiomyocytes
+AGACGTTCAATTCCTT.1	Myoz2-enriched cardiomyocytes
+AGACGTTCAGGAATGC.1	Fibroblast-like (related to larger vascular development)
+AGAGCGAAGGGCTTCC.1	Smooth muscle cells / fibroblast-like)
+AGAGCGAGTGTGTGCC.1	Capillary endothelium
+AGAGCGATCAACGGGA.1	Epicardium-derived cells
+AGAGCGATCAGAGGTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AGAGCGATCTCCGGTT.1	Ventricular cardiomyocytes
+AGAGCTTAGCCGCCTA.1	Epicardium-derived cells
+AGAGCTTCAAGTTAAG.1	Smooth muscle cells / fibroblast-like)
+AGAGCTTCACCGTTGG.1	Atrial cardiomyocytes
+AGAGCTTGTCACACGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AGAGCTTTCAGAGACG.1	Smooth muscle cells / fibroblast-like)
+AGAGCTTTCAGGTTCA.1	Smooth muscle cells / fibroblast-like)
+AGAGTGGAGTTACGGG.1	Fibroblast-like (related to smaller vascular development)
+AGAGTGGCACGGTAGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AGAGTGGCATAAAGGT.1	Smooth muscle cells / fibroblast-like)
+AGAGTGGTCGGAAATA.1	Smooth muscle cells / fibroblast-like)
+AGATCTGAGCATCATC.1	Endothelium / pericytes / adventitia
+AGATTGCAGGCAGGTT.1	Atrial cardiomyocytes
+AGATTGCAGGCATGTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AGATTGCAGTGGTAAT.1	Epicardium-derived cells
+AGATTGCGTGGTGTAG.1	Capillary endothelium
+AGCAGCCAGAGACTTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AGCAGCCCAAGCCCAC.1	Epicardium-derived cells
+AGCAGCCCAGTTAACC.1	Myoz2-enriched cardiomyocytes
+AGCAGCCGTGCGCTTG.1	Capillary endothelium
+AGCATACAGTTACCCA.1	Fibroblast-like (related to smaller vascular development)
+AGCATACGTTGTACAC.1	Epicardium-derived cells
+AGCCTAAAGTTCGCGC.1	Smooth muscle cells / fibroblast-like)
+AGCGGTCAGACAGGCT.1	Smooth muscle cells / fibroblast-like)
+AGCGGTCCATTGGTAC.1	Smooth muscle cells / fibroblast-like)
+AGCGGTCGTCATCGGC.1	Epicardial cells
+AGCGGTCGTGTGGTTT.1	Atrial cardiomyocytes
+AGCGGTCGTTCACCTC.1	Epicardium-derived cells
+AGCGGTCGTTGACGTT.1	Fibroblast-like (related to smaller vascular development)
+AGCGTATAGTGCTGCC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AGCGTATGTACACCGC.1	Capillary endothelium
+AGCGTATGTGTGTGCC.1	Ventricular cardiomyocytes
+AGCGTATTCAACACCA.1	Smooth muscle cells / fibroblast-like)
+AGCGTATTCGCGATCG.1	Epicardium-derived cells
+AGCGTATTCGGTTAAC.1	Epicardium-derived cells
+AGCGTCGCACCCATTC.1	Epicardium-derived cells
+AGCGTCGGTACCGTAT.1	Capillary endothelium
+AGCGTCGGTTCGCTAA.1	Epicardial cells
+AGCGTCGTCCCAGGTG.1	Capillary endothelium
+AGCTCCTCATCAGTAC.1	Atrial cardiomyocytes
+AGCTCCTGTGGCCCTA.1	Smooth muscle cells / fibroblast-like)
+AGCTCCTGTTCATGGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AGCTCTCCAAACGTGG.1	Fibroblast-like (related to smaller vascular development)
+AGCTTGAAGTATTGGA.1	Cardiac neural crest cells & Schwann progenitor cells
+AGCTTGACAAGTCTAC.1	Smooth muscle cells / fibroblast-like)
+AGCTTGACACGCATCG.1	Smooth muscle cells / fibroblast-like)
+AGCTTGACAGGGTACA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AGCTTGAGTCTTTCAT.1	Fibroblast-like (related to smaller vascular development)
+AGGCCACAGTCCCACG.1	Epicardial cells
+AGGCCACTCATTTGGG.1	Fibroblast-like (related to larger vascular development)
+AGGCCGTAGTGACTCT.1	Cardiac neural crest cells & Schwann progenitor cells
+AGGCCGTCACTGAAGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AGGCCGTCAGCGTTCG.1	Smooth muscle cells / fibroblast-like)
+AGGCCGTGTAAGGGCT.1	Ventricular cardiomyocytes
+AGGCCGTGTAGCAAAT.1	Epicardial cells
+AGGGAGTAGTCAAGCG.1	Epicardium-derived cells
+AGGGAGTGTGCCTGGT.1	Smooth muscle cells / fibroblast-like)
+AGGGAGTTCTGATTCT.1	Myoz2-enriched cardiomyocytes
+AGGGATGCACCGATAT.1	Capillary endothelium
+AGGGATGTCGATCCCT.1	Epicardium-derived cells
+AGGGTGAAGGACGAAA.1	Atrial cardiomyocytes
+AGGGTGACAGTGAGTG.1	Epicardium-derived cells
+AGGGTGAGTTTCCACC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AGGGTGATCCGTACAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AGGTCATGTCTAGTGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AGGTCATTCAGGATCT.1	Myoz2-enriched cardiomyocytes
+AGGTCCGAGTGCCAGA.1	Epicardium-derived cells
+AGGTCCGCAATGGATA.1	Atrial cardiomyocytes
+AGGTCCGGTAAATGTG.1	Capillary endothelium
+AGGTCCGTCGACCAGC.1	Epicardial cells
+AGGTCCGTCGGAAACG.1	Fibroblast-like (related to larger vascular development)
+AGTAGTCAGCTAGTGG.1	Myoz2-enriched cardiomyocytes
+AGTAGTCAGGCTATCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+AGTAGTCAGGTAGCTG.1	Smooth muscle cells / fibroblast-like)
+AGTAGTCGTCGAACAG.1	Smooth muscle cells / fibroblast-like)
+AGTAGTCTCACGATGT.1	Fibroblast-like (related to larger vascular development)
+AGTAGTCTCAGCATGT.1	Endothelium / pericytes / adventitia
+AGTAGTCTCTGCCAGG.1	Smooth muscle cells / fibroblast-like)
+AGTCTTTCAAGCCGCT.1	Epicardium-derived cells
+AGTGAGGTCTCAAGTG.1	Capillary endothelium
+AGTGGGAAGACCACGA.1	Capillary endothelium
+AGTGGGAAGAGTCGGT.1	Epicardium-derived cells
+AGTGGGACAGATTGCT.1	Epicardial cells
+AGTGTCAGTATAGGTA.1	Epicardium-derived cells
+AGTGTCATCTTATCTG.1	Capillary endothelium
+ATAACGCAGCCATCGC.1	Smooth muscle cells / fibroblast-like)
+ATAACGCGTGTTGGGA.1	Endothelium / pericytes / adventitia
+ATAACGCTCCAACCAA.1	Atrial cardiomyocytes
+ATAGACCGTCGGCATC.1	Capillary endothelium
+ATAGACCTCAGTTTGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATAGACCTCGGTGTTA.1	Atrial cardiomyocytes
+ATCACGAAGATGCCTT.1	Endothelium / pericytes / adventitia
+ATCACGAAGGGCTCTC.1	Epicardium-derived cells
+ATCACGAGTCTCTTAT.1	Capillary endothelium
+ATCACGATCCTGCTTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATCACGATCGAATGGG.1	Smooth muscle cells / fibroblast-like)
+ATCATCTGTGACAAAT.1	Atrial cardiomyocytes
+ATCATCTGTGGCGAAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATCATCTGTTTACTCT.1	Capillary endothelium
+ATCATCTTCAGCAACT.1	Atrial cardiomyocytes
+ATCATCTTCATGTGGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATCATGGAGCGAGAAA.1	Atrial cardiomyocytes
+ATCATGGGTCACCCAG.1	Atrial cardiomyocytes
+ATCCACCCAGGGTACA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATCCACCGTTGGTAAA.1	Epicardium-derived cells
+ATCCACCTCTGCCAGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATCCGAAAGCGTTCCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATCCGAACACGGATAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATCCGAAGTCTTGTCC.1	Capillary endothelium
+ATCGAGTCACCGCTAG.1	Fibroblast-like (related to smaller vascular development)
+ATCGAGTCACGCTTTC.1	Atrial cardiomyocytes
+ATCGAGTCAGCGTTCG.1	Capillary endothelium
+ATCGAGTGTTAGGGTG.1	Ventricular cardiomyocytes
+ATCGAGTTCAGGCAAG.1	Epicardium-derived cells
+ATCTACTAGGCCCGTT.1	Ventricular cardiomyocytes
+ATCTACTAGGGTGTTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATCTACTAGTACGTAA.1	Capillary endothelium
+ATCTACTCATCCCATC.1	Capillary endothelium
+ATCTACTGTTCCTCCA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATCTGCCCAAGCCGTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATCTGCCCAGACGTAG.1	Smooth muscle cells / fibroblast-like)
+ATCTGCCCAGTGGGAT.1	Fibroblast-like (related to larger vascular development)
+ATCTGCCCATCGGTTA.1	Epicardium-derived cells
+ATCTGCCGTAGGCATG.1	Capillary endothelium
+ATGAGGGAGCACGCCT.1	Epicardium-derived cells
+ATGAGGGCACGAAGCA.1	Smooth muscle cells / fibroblast-like)
+ATGAGGGCAGGCTGAA.1	Epicardium-derived cells
+ATGAGGGTCAAGGCTT.1	Endothelium / pericytes / adventitia
+ATGAGGGTCATCGCTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATGAGGGTCGCCAAAT.1	Myoz2-enriched cardiomyocytes
+ATGCGATCAAACAACA.1	Atrial cardiomyocytes
+ATGCGATGTACTTCTT.1	Atrial cardiomyocytes
+ATGCGATGTATATGAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATGCGATGTTCCATGA.1	Smooth muscle cells / fibroblast-like)
+ATGGGAGAGACAAGCC.1	Capillary endothelium
+ATGGGAGCATTCACTT.1	Epicardial cells
+ATTACTCAGGACGAAA.1	Epicardial cells
+ATTACTCAGTGAAGTT.1	Endothelium / pericytes / adventitia
+ATTACTCCAACACCCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATTACTCCAAGGGTCA.1	Capillary endothelium
+ATTACTCCATTATCTC.1	Smooth muscle cells / fibroblast-like)
+ATTACTCGTGGTGTAG.1	Ventricular cardiomyocytes
+ATTACTCTCAAACGGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATTACTCTCCAAGCCG.1	Epicardial cells
+ATTACTCTCCTCGCAT.1	Smooth muscle cells / fibroblast-like)
+ATTATCCAGGAGTACC.1	Fibroblast-like (related to smaller vascular development)
+ATTATCCTCCCAGGTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATTATCCTCTTGAGGT.1	Myoz2-enriched cardiomyocytes
+ATTCTACAGACTAGAT.1	Smooth muscle cells / fibroblast-like)
+ATTCTACGTAAACGCG.1	Epicardial cells
+ATTCTACGTTCACGGC.1	Fibroblast-like (related to larger vascular development)
+ATTCTACTCTAACTTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATTGGACCAGTGACAG.1	Epicardium-derived cells
+ATTGGACCATAGTAAG.1	Smooth muscle cells / fibroblast-like)
+ATTGGTGCACTGAAGG.1	Ventricular cardiomyocytes
+ATTGGTGCAGATCTGT.1	Fibroblast-like (related to larger vascular development)
+ATTGGTGCAGCCTTGG.1	Epicardial cells
+ATTTCTGCATAGAAAC.1	Myoz2-enriched cardiomyocytes
+ATTTCTGGTCTCGTTC.1	Epicardial cells
+ATTTCTGTCGTCCAGG.1	Fibroblast-like (related to larger vascular development)
+CAACCAAAGCAGATCG.1	Endothelium / pericytes / adventitia
+CAACCAACAGGGCATA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CAACCAAGTAAAGTCA.1	Epicardium-derived cells
+CAACCAAGTCATGCCG.1	Myoz2-enriched cardiomyocytes
+CAACCAATCAACGCTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CAACCAATCTTGCAAG.1	Smooth muscle cells / fibroblast-like)
+CAACCTCAGGCACATG.1	Atrial cardiomyocytes
+CAACCTCGTCGCGGTT.1	Smooth muscle cells / fibroblast-like)
+CAACTAGCATATGAGA.1	Epicardium-derived cells
+CAAGAAAAGCTAGTTC.1	Endothelium / pericytes / adventitia
+CAAGAAACAGTCGATT.1	Epicardial cells
+CAAGAAAGTCACCTAA.1	Atrial cardiomyocytes
+CAAGAAATCGCTGATA.1	Epicardium-derived cells
+CAAGATCAGGAACTGC.1	Ventricular cardiomyocytes
+CAAGATCCAGACAAGC.1	Capillary endothelium
+CAAGATCGTTCGCGAC.1	Capillary endothelium
+CAAGATCTCTCTTGAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CAAGGCCAGGACATTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CAAGGCCCAGACAAAT.1	Capillary endothelium
+CAAGTTGAGGCCGAAT.1	Atrial cardiomyocytes
+CAAGTTGAGTACTTGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CAAGTTGGTACAGCAG.1	Epicardium-derived cells
+CACAAACAGAGGTTGC.1	Myoz2-enriched cardiomyocytes
+CACAAACAGCCGGTAA.1	Capillary endothelium
+CACAAACCACTATCTT.1	Fibroblast-like (related to smaller vascular development)
+CACAAACCAGGAACGT.1	Epicardial cells
+CACAAACTCTGGAGCC.1	Atrial cardiomyocytes
+CACACAAAGGCGCTCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CACACAAAGGCTCATT.1	Atrial cardiomyocytes
+CACACAATCATTTGGG.1	Smooth muscle cells / fibroblast-like)
+CACACAATCGAACGGA.1	Smooth muscle cells / fibroblast-like)
+CACACCTAGACTAGGC.1	Capillary endothelium
+CACACCTAGCTGCCCA.1	Epicardium-derived cells
+CACACCTAGGACAGCT.1	Fibroblast-like (related to smaller vascular development)
+CACACCTAGTGGGATC.1	Capillary endothelium
+CACACCTAGTGTCTCA.1	Capillary endothelium
+CACACCTCATATGGTC.1	Smooth muscle cells / fibroblast-like)
+CACACCTTCAAACGGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CACACTCAGTAGGTGC.1	Capillary endothelium
+CACACTCGTGCTGTAT.1	Capillary endothelium
+CACACTCTCCGAATGT.1	Fibroblast-like (related to larger vascular development)
+CACACTCTCTCTTATG.1	Cardiac neural crest cells & Schwann progenitor cells
+CACAGGCAGAAGGACA.1	Endothelium / pericytes / adventitia
+CACAGGCCATAGGATA.1	Epicardium-derived cells
+CACAGGCCATTCACTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CACAGTAAGCGTAATA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CACAGTAAGGACAGCT.1	Fibroblast-like (related to smaller vascular development)
+CACAGTAGTTGGTGGA.1	Capillary endothelium
+CACAGTATCAGCTCTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CACATAGAGCCACCTG.1	Cardiac neural crest cells & Schwann progenitor cells
+CACATAGGTGCGATAG.1	Smooth muscle cells / fibroblast-like)
+CACATTTCAGCTGGCT.1	Fibroblast-like (related to larger vascular development)
+CACATTTCAGGCGATA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CACATTTGTCCAACTA.1	Capillary endothelium
+CACATTTTCACGAAGG.1	Capillary endothelium
+CACCACTGTCTTCTCG.1	Capillary endothelium
+CACCACTTCGCCTGAG.1	Atrial cardiomyocytes
+CACCAGGAGCGGCTTC.1	Smooth muscle cells / fibroblast-like)
+CACCAGGCATATGCTG.1	Capillary endothelium
+CACCAGGGTTCAACCA.1	Smooth muscle cells / fibroblast-like)
+CACCTTGCAATTGCTG.1	Epicardium-derived cells
+CACCTTGCATATACCG.1	Ventricular cardiomyocytes
+CACCTTGGTAGAGGAA.1	Ventricular cardiomyocytes
+CACTCCAAGCGTTGCC.1	Epicardial cells
+CACTCCACACATGTGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CACTCCACAGTCTTCC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CACTCCATCCGAACGC.1	Myoz2-enriched cardiomyocytes
+CAGAATCGTGGACGAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CAGAATCGTGTGCGTC.1	Cardiac neural crest cells & Schwann progenitor cells
+CAGAATCGTTCAGGCC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CAGAATCTCTGTCTCG.1	Myoz2-enriched cardiomyocytes
+CAGAGAGCAATGACCT.1	Atrial cardiomyocytes
+CAGAGAGGTGCAGTAG.1	Epicardium-derived cells
+CAGAGAGTCTGGTATG.1	Smooth muscle cells / fibroblast-like)
+CAGATCATCCGAGCCA.1	Atrial cardiomyocytes
+CAGATCATCTTGAGAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CAGCAGCAGCTGTCTA.1	Ventricular cardiomyocytes
+CAGCAGCAGGACAGCT.1	Myoz2-enriched cardiomyocytes
+CAGCAGCAGGGTATCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CAGCAGCGTCGAAAGC.1	Myoz2-enriched cardiomyocytes
+CAGCATAAGACGACGT.1	Epicardial cells
+CAGCATACAGTACACT.1	Epicardium-derived cells
+CAGCATAGTACCATCA.1	Epicardium-derived cells
+CAGCCGAAGTGAATTG.1	Smooth muscle cells / fibroblast-like)
+CAGCCGACATGCTAGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CAGCGACTCGGACAAG.1	Epicardium-derived cells
+CAGCTAAGTATAGTAG.1	Epicardial cells
+CAGCTGGTCAGTTGAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CAGCTGGTCGATCCCT.1	Epicardium-derived cells
+CAGGTGCCAAGGGTCA.1	Fibroblast-like (related to smaller vascular development)
+CAGGTGCGTGAGTATA.1	Smooth muscle cells / fibroblast-like)
+CAGGTGCTCACCTCGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CAGGTGCTCGCTTGTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CAGGTGCTCGTGGTCG.1	Smooth muscle cells / fibroblast-like)
+CAGTAACCAGCTCCGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CAGTAACGTTAGATGA.1	Smooth muscle cells / fibroblast-like)
+CAGTCCTCAGGAATGC.1	Smooth muscle cells / fibroblast-like)
+CAGTCCTTCCACGTGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CATATGGGTATAGTAG.1	Epicardial cells
+CATATGGGTGTGAAAT.1	Capillary endothelium
+CATATGGTCACCCTCA.1	Epicardium-derived cells
+CATATTCAGGTGCACA.1	Endothelium / pericytes / adventitia
+CATATTCCACAGAGGT.1	Capillary endothelium
+CATCAAGAGCTTCGCG.1	Atrial cardiomyocytes
+CATCAAGCAAGCGCTC.1	Fibroblast-like (related to smaller vascular development)
+CATCAAGCACCAGGCT.1	Capillary endothelium
+CATCAAGCACCATCCT.1	Capillary endothelium
+CATCAAGCAGGAACGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CATCAAGGTAGCGCAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CATCAGAGTCAAACTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CATCAGAGTCGCTTTC.1	Smooth muscle cells / fibroblast-like)
+CATCCACGTGAGGGAG.1	Fibroblast-like (related to smaller vascular development)
+CATCGAAAGAAAGTGG.1	Capillary endothelium
+CATCGAAAGGATGGAA.1	Smooth muscle cells / fibroblast-like)
+CATCGAATCCAATGGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CATCGAATCCTAGTGA.1	Endothelium / pericytes / adventitia
+CATCGGGAGAAGGTGA.1	Capillary endothelium
+CATCGGGAGACGCAAC.1	Atrial cardiomyocytes
+CATCGGGGTGCGATAG.1	Myoz2-enriched cardiomyocytes
+CATCGGGGTTGATTCG.1	Epicardium-derived cells
+CATCGGGTCCTATTCA.1	Ventricular cardiomyocytes
+CATCGGGTCGCCAAAT.1	Epicardium-derived cells
+CATCGGGTCTAACGGT.1	Fibroblast-like (related to larger vascular development)
+CATGACAGTGACCAAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CATGCCTAGCAATATG.1	Capillary endothelium
+CATGCCTCACCGTTGG.1	Capillary endothelium
+CATGCCTCATTCTTAC.1	Fibroblast-like (related to smaller vascular development)
+CATGCCTTCTCCTATA.1	Ventricular cardiomyocytes
+CATGGCGAGATCTGAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CATGGCGAGGGATCTG.1	Fibroblast-like (related to smaller vascular development)
+CATGGCGCAGTCTTCC.1	Epicardium-derived cells
+CATGGCGGTCCAGTTA.1	Smooth muscle cells / fibroblast-like)
+CATGGCGTCGTCTGAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CATTATCGTAAACACA.1	Cardiac neural crest cells & Schwann progenitor cells
+CATTATCGTTGCGTTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CATTATCTCAACGGCC.1	Atrial cardiomyocytes
+CATTATCTCCAGATCA.1	Epicardial cells
+CATTCGCCAGGATTGG.1	Capillary endothelium
+CATTCGCGTACCTACA.1	Smooth muscle cells / fibroblast-like)
+CATTCGCGTTTAGGAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCAATCCGTAAGGATT.1	Capillary endothelium
+CCAATCCGTGACTCAT.1	Capillary endothelium
+CCAATCCGTTTGACTG.1	Capillary endothelium
+CCAATCCTCTTCAACT.1	Epicardial cells
+CCACCTACAGCTGTAT.1	Cardiac neural crest cells & Schwann progenitor cells
+CCACCTACAGTGACAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCACCTAGTATGGTTC.1	Atrial cardiomyocytes
+CCACGGAAGATATGCA.1	Epicardial cells
+CCACGGAGTAGCGTCC.1	Capillary endothelium
+CCACGGAGTTGCGCAC.1	Capillary endothelium
+CCACGGATCCACGACG.1	Capillary endothelium
+CCACTACCACATTCGA.1	Endothelium / pericytes / adventitia
+CCACTACCAGGACCCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCAGCGACAAACGTGG.1	Smooth muscle cells / fibroblast-like)
+CCAGCGACATGTAAGA.1	Epicardium-derived cells
+CCAGCGAGTACTCAAC.1	Capillary endothelium
+CCAGCGATCTCTGTCG.1	Smooth muscle cells / fibroblast-like)
+CCATGTCCAGCTGCTG.1	Smooth muscle cells / fibroblast-like)
+CCATGTCGTAAGAGAG.1	Epicardial cells
+CCATGTCGTCTTGTCC.1	Endothelium / pericytes / adventitia
+CCATGTCTCATGTAGC.1	Capillary endothelium
+CCATTCGAGCGTTGCC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCATTCGCAACACCTA.1	Endothelium / pericytes / adventitia
+CCATTCGCACTGTTAG.1	Smooth muscle cells / fibroblast-like)
+CCATTCGGTATATGGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCATTCGTCGCATGAT.1	Epicardium-derived cells
+CCCAATCAGAAGGGTA.1	Ventricular cardiomyocytes
+CCCAATCAGTTTGCGT.1	Fibroblast-like (related to smaller vascular development)
+CCCAGTTCACAACGTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCCAGTTCACTTACGA.1	Epicardium-derived cells
+CCCAGTTGTCTTCTCG.1	Smooth muscle cells / fibroblast-like)
+CCCATACAGATGCCAG.1	Endothelium / pericytes / adventitia
+CCCATACCAATCAGAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCCATACCAGCTGTAT.1	Ventricular cardiomyocytes
+CCCATACCATTGGCGC.1	Epicardial cells
+CCCATACGTAGGAGTC.1	Fibroblast-like (related to smaller vascular development)
+CCCATACTCTCGAGTA.1	Epicardium-derived cells
+CCCTCCTAGTAACCCT.1	Smooth muscle cells / fibroblast-like)
+CCCTCCTCACCGATAT.1	Fibroblast-like (related to smaller vascular development)
+CCCTCCTCACGAAAGC.1	Epicardium-derived cells
+CCCTCCTGTGCAGGTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCCTCCTGTGGGTATG.1	Capillary endothelium
+CCCTCCTGTTATCGGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCCTCCTGTTCAGACT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCCTCCTTCAACACAC.1	Endothelium / pericytes / adventitia
+CCGGGATAGACAGACC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCGGGATGTGTGAAAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCGGTAGAGAGCTGCA.1	Endothelium / pericytes / adventitia
+CCGGTAGAGCTCCTCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCGGTAGCAGGCTCAC.1	Epicardium-derived cells
+CCGGTAGCATGTCTCC.1	Fibroblast-like (related to smaller vascular development)
+CCGGTAGGTATGGTTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCGGTAGGTGTGTGCC.1	Capillary endothelium
+CCGGTAGTCCAAAGTC.1	Epicardium-derived cells
+CCGTACTCAGGACGTA.1	Smooth muscle cells / fibroblast-like)
+CCGTACTTCACCACCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCGTGGACAAACTGTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCGTGGACATGTTCCC.1	Myoz2-enriched cardiomyocytes
+CCGTGGATCGCGATCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCGTTCAGTCTTTCAT.1	Atrial cardiomyocytes
+CCTAAAGCACACCGCA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCTAAAGCACGAGAGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCTAAAGCAGTGGGAT.1	Smooth muscle cells / fibroblast-like)
+CCTAAAGGTCGCTTCT.1	Fibroblast-like (related to smaller vascular development)
+CCTAAAGGTCTGCCAG.1	Epicardium-derived cells
+CCTAAAGTCAGCTCTC.1	Fibroblast-like (related to smaller vascular development)
+CCTACACAGATCCCGC.1	Myoz2-enriched cardiomyocytes
+CCTACACAGGGCACTA.1	Smooth muscle cells / fibroblast-like)
+CCTACACGTAGCTCCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCTACACGTATAGTAG.1	Epicardium-derived cells
+CCTACACGTCCTGCTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCTACACTCGAACTGT.1	Atrial cardiomyocytes
+CCTACCAGTGCGATAG.1	Epicardium-derived cells
+CCTACCATCTGACCTC.1	Epicardium-derived cells
+CCTAGCTAGATGTAAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCTAGCTCACGACGAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCTATTAAGTACGTTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCTATTACATGAGCGA.1	Fibroblast-like (related to larger vascular development)
+CCTATTAGTGCATCTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCTATTATCGCCATAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCTATTATCTGCGACG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCTCAGTAGCCGGTAA.1	Smooth muscle cells / fibroblast-like)
+CCTCAGTCAGTTTACG.1	Smooth muscle cells / fibroblast-like)
+CCTCAGTGTTGATTCG.1	Smooth muscle cells / fibroblast-like)
+CCTCTGACACTACAGT.1	Epicardium-derived cells
+CCTCTGACAGCTTCGG.1	Smooth muscle cells / fibroblast-like)
+CCTTACGAGTCCAGGA.1	Epicardium-derived cells
+CCTTACGCAAGTTAAG.1	Capillary endothelium
+CCTTACGCACCAGGTC.1	Smooth muscle cells / fibroblast-like)
+CCTTACGCAGCCTTGG.1	Capillary endothelium
+CCTTACGGTCATGCAT.1	Epicardium-derived cells
+CCTTACGGTCGCATCG.1	Endothelium / pericytes / adventitia
+CCTTACGGTGCGGTAA.1	Capillary endothelium
+CCTTACGTCCATGAAC.1	Epicardium-derived cells
+CCTTCCCAGGTGCTTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCTTCCCCACCCATTC.1	Cardiac neural crest cells & Schwann progenitor cells
+CCTTCCCGTTACGACT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCTTCCCTCAAAGTAG.1	Atrial cardiomyocytes
+CCTTCCCTCAGCTCTC.1	Epicardial cells
+CCTTCGAAGGCTCTTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCTTCGAGTGTCTGAT.1	Ventricular cardiomyocytes
+CCTTCGAGTTAAGGGC.1	Atrial cardiomyocytes
+CCTTCGATCCGCGTTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCTTCGATCGTACGGC.1	Epicardium-derived cells
+CCTTCGATCGTCCGTT.1	Smooth muscle cells / fibroblast-like)
+CCTTTCTTCCACGTGG.1	Epicardium-derived cells
+CCTTTCTTCTGCCAGG.1	Atrial cardiomyocytes
+CGAATGTAGCAATCTC.1	Epicardium-derived cells
+CGAATGTAGTTAACGA.1	Fibroblast-like (related to larger vascular development)
+CGAATGTCAGTTAACC.1	Smooth muscle cells / fibroblast-like)
+CGACCTTCATCCCACT.1	Epicardium-derived cells
+CGACCTTTCTCTAGGA.1	Fibroblast-like (related to smaller vascular development)
+CGACTTCCATGCAACT.1	Capillary endothelium
+CGACTTCGTGAGGCTA.1	Epicardial cells
+CGAGAAGGTACAGTGG.1	Smooth muscle cells / fibroblast-like)
+CGAGAAGGTTATCCGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGAGAAGTCAGTCAGT.1	Ventricular cardiomyocytes
+CGAGAAGTCATAAAGG.1	Smooth muscle cells / fibroblast-like)
+CGAGAAGTCCCATTAT.1	Smooth muscle cells / fibroblast-like)
+CGAGAAGTCCTCAACC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGAGCACCACGGATAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGAGCACCAGCATGAG.1	Capillary endothelium
+CGAGCACTCGACCAGC.1	Capillary endothelium
+CGAGCCAGTGACGCCT.1	Capillary endothelium
+CGAGCCAGTGCTTCTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGAGCCAGTTCACCTC.1	Smooth muscle cells / fibroblast-like)
+CGAGCCATCTAGAGTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGAGCCATCTCGTATT.1	Ventricular cardiomyocytes
+CGATGGCAGACACGAC.1	Smooth muscle cells / fibroblast-like)
+CGATGGCAGACTTTCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGATGGCGTCTCGTTC.1	Epicardium-derived cells
+CGATGGCTCAAACGGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGATGGCTCATTCACT.1	Smooth muscle cells / fibroblast-like)
+CGATGGCTCCAGGGCT.1	Capillary endothelium
+CGATGGCTCGCGTAGC.1	Smooth muscle cells / fibroblast-like)
+CGATGTAAGCCGATTT.1	Epicardium-derived cells
+CGATGTACACAGAGGT.1	Ventricular cardiomyocytes
+CGATGTATCTAACCGA.1	Capillary endothelium
+CGATGTATCTCTTGAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGATTGACAGGCTCAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGATTGAGTAGCCTAT.1	Epicardium-derived cells
+CGATTGATCAACGGGA.1	Smooth muscle cells / fibroblast-like)
+CGATTGATCCATGAGT.1	Ventricular cardiomyocytes
+CGATTGATCGGTGTCG.1	Capillary endothelium
+CGCCAAGAGGTGGGTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGCCAAGCAAGACACG.1	Ventricular cardiomyocytes
+CGCCAAGCACGTTGGC.1	Fibroblast-like (related to smaller vascular development)
+CGCGGTACACATTCGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGCGGTACAGGCTCAC.1	Atrial cardiomyocytes
+CGCGGTAGTGACGGTA.1	Capillary endothelium
+CGCGGTATCCTGCTTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGCGGTATCTGGCGTG.1	Fibroblast-like (related to larger vascular development)
+CGCGTTTGTGTGAAAT.1	Smooth muscle cells / fibroblast-like)
+CGCGTTTTCATGCAAC.1	Smooth muscle cells / fibroblast-like)
+CGCGTTTTCGGCGGTT.1	Capillary endothelium
+CGCTATCGTGCGCTTG.1	Smooth muscle cells / fibroblast-like)
+CGCTATCGTGGCCCTA.1	Smooth muscle cells / fibroblast-like)
+CGCTGGAGTCACCTAA.1	Smooth muscle cells / fibroblast-like)
+CGCTTCACATATGGTC.1	Epicardial cells
+CGCTTCAGTCAACATC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGCTTCAGTGGTCCGT.1	Atrial cardiomyocytes
+CGCTTCATCACAATGC.1	Smooth muscle cells / fibroblast-like)
+CGCTTCATCACCACCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGCTTCATCTAACTTC.1	Smooth muscle cells / fibroblast-like)
+CGGACACCAGTATGCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGGACACCATAGGATA.1	Epicardial cells
+CGGACACGTTCATGGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGGACACGTTCGTCTC.1	Epicardium-derived cells
+CGGACACGTTGAGTTC.1	Capillary endothelium
+CGGACACGTTGATTCG.1	Capillary endothelium
+CGGACACTCACCCTCA.1	Smooth muscle cells / fibroblast-like)
+CGGACGTGTGATAAGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGGACGTGTTCCAACA.1	Fibroblast-like (related to larger vascular development)
+CGGACTGAGGGTGTGT.1	Cardiac neural crest cells & Schwann progenitor cells
+CGGACTGTCCTCATTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGGACTGTCCTTAATC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGGACTGTCTCGTTTA.1	Capillary endothelium
+CGGAGCTTCCCGACTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGGAGTCAGAGGTTGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGGCTAGAGATAGTCA.1	Capillary endothelium
+CGGCTAGAGTGTGAAT.1	Ventricular cardiomyocytes
+CGGCTAGCATACGCCG.1	Epicardial cells
+CGGCTAGTCGGAATCT.1	Capillary endothelium
+CGGGTCAAGTGGGTTG.1	Epicardial cells
+CGGGTCACAAGGACTG.1	Smooth muscle cells / fibroblast-like)
+CGGGTCACACCTTGTC.1	Epicardial cells
+CGGTTAACAAGAGTCG.1	Endothelium / pericytes / adventitia
+CGGTTAACAGCCTATA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGGTTAACAGTACACT.1	Capillary endothelium
+CGTAGCGAGCAGGCTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGTAGCGAGTACGACG.1	Smooth muscle cells / fibroblast-like)
+CGTAGCGCATGCCTAA.1	Myoz2-enriched cardiomyocytes
+CGTAGCGGTAGAGTGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGTAGCGGTTAAAGAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGTAGCGGTTCACGGC.1	Epicardium-derived cells
+CGTAGGCTCAGATAAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGTAGGCTCTTGACGA.1	Capillary endothelium
+CGTCACTAGGCAAAGA.1	Ventricular cardiomyocytes
+CGTCACTGTTACGCGC.1	Capillary endothelium
+CGTCACTTCTAACCGA.1	Fibroblast-like (related to smaller vascular development)
+CGTCAGGCAAGCCATT.1	Capillary endothelium
+CGTCAGGCAATAGAGT.1	Capillary endothelium
+CGTCAGGCATGGGACA.1	Ventricular cardiomyocytes
+CGTCAGGGTATGAAAC.1	Epicardium-derived cells
+CGTCAGGGTGGTAACG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGTCAGGTCATCGCTC.1	Capillary endothelium
+CGTCAGGTCGCAGGCT.1	Cardiac neural crest cells & Schwann progenitor cells
+CGTCCATAGGTTCCTA.1	Epicardium-derived cells
+CGTCCATGTAAGTTCC.1	Epicardium-derived cells
+CGTCCATGTAGTGAAT.1	Epicardium-derived cells
+CGTCCATGTGATAAAC.1	Capillary endothelium
+CGTCCATGTGTGTGCC.1	Atrial cardiomyocytes
+CGTCTACCATGACGGA.1	Epicardial cells
+CGTCTACGTATCTGCA.1	Ventricular cardiomyocytes
+CGTCTACGTGATAAAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGTCTACTCCGGCACA.1	Atrial cardiomyocytes
+CGTCTACTCCGTTGCT.1	Fibroblast-like (related to smaller vascular development)
+CGTGAGCCAAGTTCTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGTGAGCGTGCTAGCC.1	Fibroblast-like (related to smaller vascular development)
+CGTGAGCTCACATGCA.1	Fibroblast-like (related to smaller vascular development)
+CGTGTAAAGCGCCTCA.1	Atrial cardiomyocytes
+CGTGTAAAGGGTGTGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGTGTAACATGCCACG.1	Atrial cardiomyocytes
+CGTGTAAGTAAATGTG.1	Atrial cardiomyocytes
+CGTGTAAGTATCAGTC.1	Capillary endothelium
+CGTGTAAGTCGCATCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGTGTCTAGCGTCAAG.1	Atrial cardiomyocytes
+CGTGTCTTCATGCAAC.1	Smooth muscle cells / fibroblast-like)
+CGTTAGACACATTCGA.1	Capillary endothelium
+CGTTAGACATAGTAAG.1	Smooth muscle cells / fibroblast-like)
+CGTTCTGCACGGACAA.1	Atrial cardiomyocytes
+CGTTCTGCACTTACGA.1	Atrial cardiomyocytes
+CGTTCTGTCTGGTTCC.1	Cardiac neural crest cells & Schwann progenitor cells
+CGTTGGGTCTACCAGA.1	Cardiac neural crest cells & Schwann progenitor cells
+CGTTGGGTCTTAGCCC.1	Capillary endothelium
+CTAACTTGTCAGTGGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTAACTTGTGCAGTAG.1	Capillary endothelium
+CTAAGACCATACGCTA.1	Epicardium-derived cells
+CTAATGGCACATCCGG.1	Myoz2-enriched cardiomyocytes
+CTACACCAGAGGTACC.1	Epicardial cells
+CTACACCAGCGCCTTG.1	Smooth muscle cells / fibroblast-like)
+CTACACCAGGGTTTCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTACATTGTTTGGGCC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTACATTTCTCGTATT.1	Capillary endothelium
+CTACCCAAGAGCTGCA.1	Smooth muscle cells / fibroblast-like)
+CTACCCACACGAAAGC.1	Smooth muscle cells / fibroblast-like)
+CTACCCAGTAGCGATG.1	Fibroblast-like (related to larger vascular development)
+CTACCCATCGCCTGAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTACCCATCGTGTAGT.1	Capillary endothelium
+CTACGTCAGGCAGGTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTACGTCAGGCATTGG.1	Epicardium-derived cells
+CTACGTCGTATATGAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTAGAGTAGTACTTGC.1	Epicardium-derived cells
+CTAGAGTCAGATCCAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTAGAGTCATTAGGCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTAGAGTGTCCGAAGA.1	Smooth muscle cells / fibroblast-like)
+CTAGAGTTCCACGCAG.1	Atrial cardiomyocytes
+CTAGCCTCACCATCCT.1	Epicardium-derived cells
+CTAGCCTCATATACGC.1	Smooth muscle cells / fibroblast-like)
+CTAGCCTTCTATCCTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTAGTGAGTAAGAGAG.1	Capillary endothelium
+CTAGTGATCAGTGTTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTCACACAGTAGCCGA.1	Smooth muscle cells / fibroblast-like)
+CTCACACGTTGCTCCT.1	Epicardial cells
+CTCAGAAAGACTGGGT.1	Smooth muscle cells / fibroblast-like)
+CTCAGAAAGTCACGCC.1	Epicardial cells
+CTCAGAAAGTTGAGAT.1	Epicardium-derived cells
+CTCAGAACAAATACAG.1	Smooth muscle cells / fibroblast-like)
+CTCAGAACAACTTGAC.1	Myoz2-enriched cardiomyocytes
+CTCAGAACAGTGGGAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTCAGAAGTATGAAAC.1	Ventricular cardiomyocytes
+CTCATTAAGACCACGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTCATTAAGACCTTTG.1	Atrial cardiomyocytes
+CTCATTAAGAGTGACC.1	Smooth muscle cells / fibroblast-like)
+CTCATTAAGTGTCCAT.1	Epicardial cells
+CTCATTAGTTCCCGAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTCATTAGTTCGCGAC.1	Smooth muscle cells / fibroblast-like)
+CTCATTATCTTCCTTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTCGAAATCCAGAAGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTCGAAATCCATTCTA.1	Fibroblast-like (related to smaller vascular development)
+CTCGAGGAGGCTCATT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTCGAGGCAAACCTAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTCGGAGAGGAACTGC.1	Atrial cardiomyocytes
+CTCGGAGCACAAGCCC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTCGGAGCACCAGGTC.1	Capillary endothelium
+CTCGGAGCACTGAAGG.1	Capillary endothelium
+CTCGGAGGTCGACTGC.1	Smooth muscle cells / fibroblast-like)
+CTCGGGACAGATCCAT.1	Smooth muscle cells / fibroblast-like)
+CTCGGGAGTGCACTTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTCGGGATCCCGACTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTCGTACCAATCCGAT.1	Endothelium / pericytes / adventitia
+CTCGTCAAGGCAATTA.1	Atrial cardiomyocytes
+CTCGTCACATTCCTCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTCGTCATCGGAAACG.1	Fibroblast-like (related to smaller vascular development)
+CTCTAATCATCCGGGT.1	Epicardium-derived cells
+CTCTAATTCTCCCTGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTCTACGAGGTGTTAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTCTACGCAACTGCGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTCTACGCATATACCG.1	Smooth muscle cells / fibroblast-like)
+CTCTACGGTTGTTTGG.1	Epicardial cells
+CTCTGGTGTAGCGCAA.1	Epicardial cells
+CTCTGGTTCTCAACTT.1	Epicardium-derived cells
+CTGAAACCACAGCCCA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTGAAGTCAGCTGTTA.1	Capillary endothelium
+CTGAAGTCATCGGAAG.1	Smooth muscle cells / fibroblast-like)
+CTGAAGTTCCCTTGCA.1	Smooth muscle cells / fibroblast-like)
+CTGAAGTTCCTAGTGA.1	Smooth muscle cells / fibroblast-like)
+CTGAAGTTCTGGAGCC.1	Epicardium-derived cells
+CTGATAGAGTGAACAT.1	Smooth muscle cells / fibroblast-like)
+CTGATAGCACTTACGA.1	Capillary endothelium
+CTGATCCAGCCCAGCT.1	Epicardium-derived cells
+CTGATCCAGTCGATAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTGATCCCAAACGTGG.1	Epicardium-derived cells
+CTGCCTACAACCGCCA.1	Fibroblast-like (related to smaller vascular development)
+CTGCCTACAAGCCGTC.1	Smooth muscle cells / fibroblast-like)
+CTGCGGAAGGAATCGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTGCGGACAATGGAAT.1	Cardiac neural crest cells & Schwann progenitor cells
+CTGCGGATCGAACGGA.1	Epicardial cells
+CTGCTGTAGGCAATTA.1	Smooth muscle cells / fibroblast-like)
+CTGCTGTCAGCGATCC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTGCTGTCAGTGAGTG.1	Ventricular cardiomyocytes
+CTGCTGTCATGCATGT.1	Epicardium-derived cells
+CTGCTGTGTATCACCA.1	Smooth muscle cells / fibroblast-like)
+CTGCTGTTCTCATTCA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTGGTCTAGTGAAGAG.1	Smooth muscle cells / fibroblast-like)
+CTGGTCTGTGGCAAAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTGGTCTGTTATCGGT.1	Capillary endothelium
+CTGGTCTTCTGTACGA.1	Epicardium-derived cells
+CTGTTTAAGTATCTCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTGTTTAGTAAGCACG.1	Capillary endothelium
+CTGTTTAGTAAGTAGT.1	Atrial cardiomyocytes
+CTGTTTAGTTCAGCGC.1	Smooth muscle cells / fibroblast-like)
+CTTAACTCAAGTTCTG.1	Smooth muscle cells / fibroblast-like)
+CTTAACTGTACAGTGG.1	Smooth muscle cells / fibroblast-like)
+CTTAACTGTAGCGTCC.1	Myoz2-enriched cardiomyocytes
+CTTAACTGTCTTGATG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTTACCGCAAGCCGCT.1	Capillary endothelium
+CTTCTCTAGATGCCTT.1	Fibroblast-like (related to smaller vascular development)
+CTTCTCTCATTACGAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTTCTCTCATTCTTAC.1	Smooth muscle cells / fibroblast-like)
+CTTCTCTTCAATACCG.1	Smooth muscle cells / fibroblast-like)
+CTTGGCTAGTCTCGGC.1	Fibroblast-like (related to smaller vascular development)
+CTTGGCTCATCACGAT.1	Atrial cardiomyocytes
+CTTGGCTTCCCTTGCA.1	Capillary endothelium
+CTTGGCTTCTAGCACA.1	Capillary endothelium
+CTTTGCGAGCGTAATA.1	Fibroblast-like (related to larger vascular development)
+CTTTGCGTCATAAAGG.1	Smooth muscle cells / fibroblast-like)
+CTTTGCGTCCCTCTTT.1	Epicardium-derived cells
+CTTTGCGTCTATCCCG.1	Atrial cardiomyocytes
+GAAACTCAGGTGTGGT.1	Smooth muscle cells / fibroblast-like)
+GAAATGACAGCTGCTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GAAATGAGTCCGAAGA.1	Epicardium-derived cells
+GAACATCAGATAGCAT.1	Endothelium / pericytes / adventitia
+GAACATCAGTCGTACT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GAACATCCAAGGTGTG.1	Capillary endothelium
+GAACATCCACGGCGTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GAACATCCAGAGTGTG.1	Fibroblast-like (related to larger vascular development)
+GAACATCTCAGGCAAG.1	Smooth muscle cells / fibroblast-like)
+GAACCTATCCGCAGTG.1	Smooth muscle cells / fibroblast-like)
+GAACCTATCGTATCAG.1	Smooth muscle cells / fibroblast-like)
+GAACGGAAGACAAAGG.1	Capillary endothelium
+GAACGGACATACAGCT.1	Smooth muscle cells / fibroblast-like)
+GAACGGAGTAATCACC.1	Capillary endothelium
+GAACGGATCACAACGT.1	Fibroblast-like (related to larger vascular development)
+GAAGCAGAGCCACCTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GAATAAGAGATATACG.1	Epicardium-derived cells
+GAATAAGCAATGGATA.1	Capillary endothelium
+GAATAAGCATGGTCAT.1	Fibroblast-like (related to smaller vascular development)
+GAATAAGGTAAGTAGT.1	Cardiac neural crest cells & Schwann progenitor cells
+GAATAAGGTAGTACCT.1	Fibroblast-like (related to smaller vascular development)
+GAATAAGGTCAGTGGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GAATAAGGTTCAGCGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GAATAAGTCCAGTATG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GAATGAAAGCTATGCT.1	Smooth muscle cells / fibroblast-like)
+GAATGAAGTCCGAATT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GACACGCGTCTAGAGG.1	Capillary endothelium
+GACACGCGTGTGGCTC.1	Fibroblast-like (related to smaller vascular development)
+GACACGCTCCCTCTTT.1	Capillary endothelium
+GACACGCTCTGCCAGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GACAGAGAGCAGGTCA.1	Epicardium-derived cells
+GACAGAGAGTGTTTGC.1	Epicardium-derived cells
+GACAGAGAGTTCGATC.1	Atrial cardiomyocytes
+GACAGAGGTAAAGTCA.1	Atrial cardiomyocytes
+GACAGAGGTCAGAATA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GACAGAGTCCTCAACC.1	Smooth muscle cells / fibroblast-like)
+GACAGAGTCTTACCTA.1	Smooth muscle cells / fibroblast-like)
+GACCAATAGCGTAATA.1	Epicardium-derived cells
+GACCAATTCATGCAAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GACCTGGAGACAAAGG.1	Epicardium-derived cells
+GACCTGGCACTTAAGC.1	Atrial cardiomyocytes
+GACCTGGTCCGGCACA.1	Capillary endothelium
+GACGCGTAGCAATATG.1	Capillary endothelium
+GACGCGTCAAACTGCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GACGCGTCACTTACGA.1	Fibroblast-like (related to larger vascular development)
+GACGCGTCATAGACTC.1	Epicardial cells
+GACGCGTGTAAGGGAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GACGCGTGTACCGCTG.1	Capillary endothelium
+GACGCGTGTACGAAAT.1	Epicardial cells
+GACGCGTTCAGGTTCA.1	Capillary endothelium
+GACGGCTAGAGTACCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GACGGCTAGCGATGAC.1	Smooth muscle cells / fibroblast-like)
+GACGGCTCACTTCGAA.1	Smooth muscle cells / fibroblast-like)
+GACGGCTTCCGTAGGC.1	Epicardium-derived cells
+GACGTGCCAGTAAGCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GACGTGCTCCTTTCTC.1	Fibroblast-like (related to smaller vascular development)
+GACGTGCTCTGCAAGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GACGTTAAGAATTGTG.1	Ventricular cardiomyocytes
+GACGTTACACATTTCT.1	Myoz2-enriched cardiomyocytes
+GACGTTAGTAAGTTCC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GACGTTATCGGATGGA.1	Smooth muscle cells / fibroblast-like)
+GACGTTATCGTGGTCG.1	Endothelium / pericytes / adventitia
+GACGTTATCTCAAGTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GACTAACAGAACAACT.1	Epicardial cells
+GACTACAAGCCGCCTA.1	Epicardium-derived cells
+GACTACACAGCTCGAC.1	Epicardial cells
+GACTACAGTCTCAACA.1	Fibroblast-like (related to smaller vascular development)
+GACTACAGTTAAGTAG.1	Epicardium-derived cells
+GACTGCGGTGAGTGAC.1	Smooth muscle cells / fibroblast-like)
+GACTGCGTCCTGCAGG.1	Epicardium-derived cells
+GAGCAGAAGCTCCTCT.1	Fibroblast-like (related to smaller vascular development)
+GAGCAGACAATCTACG.1	Ventricular cardiomyocytes
+GAGCAGATCAACACAC.1	Endothelium / pericytes / adventitia
+GAGGTGAAGATGTAAC.1	Smooth muscle cells / fibroblast-like)
+GAGGTGACACCACCAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GAGGTGAGTATATGAG.1	Fibroblast-like (related to larger vascular development)
+GAGGTGATCAACCATG.1	Smooth muscle cells / fibroblast-like)
+GAGGTGATCACAGTAC.1	Capillary endothelium
+GAGTCCGAGTTCGCAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GAGTCCGGTTCCACAA.1	Smooth muscle cells / fibroblast-like)
+GAGTCCGTCAACCATG.1	Fibroblast-like (related to smaller vascular development)
+GATCAGTCAGTAGAGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GATCAGTTCAACACTG.1	Fibroblast-like (related to smaller vascular development)
+GATCGATCAAGGTTTC.1	Ventricular cardiomyocytes
+GATCGATGTGAAATCA.1	Myoz2-enriched cardiomyocytes
+GATCGATTCGAACTGT.1	Ventricular cardiomyocytes
+GATCGATTCTGCTGCT.1	Smooth muscle cells / fibroblast-like)
+GATCGCGTCACGCATA.1	Atrial cardiomyocytes
+GATCGCGTCGGTTAAC.1	Capillary endothelium
+GATCGTAAGATCTGCT.1	Smooth muscle cells / fibroblast-like)
+GATCGTAAGCCCTAAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GATCTAGAGACGCTTT.1	Atrial cardiomyocytes
+GATCTAGAGATAGGAG.1	Cardiac neural crest cells & Schwann progenitor cells
+GATCTAGCAATCAGAA.1	Epicardium-derived cells
+GATCTAGGTTCAGCGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GATGAAACAGCAGTTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GATGAAAGTAGCCTCG.1	Epicardium-derived cells
+GATGAGGCAATGGTCT.1	Atrial cardiomyocytes
+GATGAGGCAGATTGCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GATGCTAGTAATCACC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GATGCTATCTAAGCCA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GATGCTATCTGTCTCG.1	Fibroblast-like (related to larger vascular development)
+GATTCAGAGCAGGCTA.1	Myoz2-enriched cardiomyocytes
+GATTCAGAGTGAAGTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GATTCAGGTAAATGTG.1	Capillary endothelium
+GCAAACTAGTCGTACT.1	Smooth muscle cells / fibroblast-like)
+GCAAACTTCTGAGTGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCAATCAAGGTGCAAC.1	Fibroblast-like (related to smaller vascular development)
+GCAATCAGTCAACTGT.1	Capillary endothelium
+GCACATACAGGCGATA.1	Smooth muscle cells / fibroblast-like)
+GCACATAGTTTAGCTG.1	Epicardium-derived cells
+GCACATATCAGCATGT.1	Capillary endothelium
+GCACTCTAGCAGCCTC.1	Smooth muscle cells / fibroblast-like)
+GCACTCTAGCGCCTTG.1	Capillary endothelium
+GCACTCTCAGACGCAA.1	Atrial cardiomyocytes
+GCACTCTCAGGTCGTC.1	Ventricular cardiomyocytes
+GCAGCCACATTTCAGG.1	Myoz2-enriched cardiomyocytes
+GCAGCCAGTCCTCCAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCAGCCATCAACACCA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCAGCCATCATCGGAT.1	Atrial cardiomyocytes
+GCAGCCATCGCTGATA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCAGCCATCGTTTGCC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCAGTTAAGTGCCAGA.1	Capillary endothelium
+GCAGTTAGTAAGAGAG.1	Atrial cardiomyocytes
+GCAGTTAGTAGCCTAT.1	Endothelium / pericytes / adventitia
+GCAGTTAGTTGTTTGG.1	Smooth muscle cells / fibroblast-like)
+GCATACACAAGCTGAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCATACACATCATCCC.1	Capillary endothelium
+GCATACATCTGGTATG.1	Fibroblast-like (related to smaller vascular development)
+GCATGATCACAGTCGC.1	Fibroblast-like (related to smaller vascular development)
+GCATGATCATGGTTGT.1	Epicardium-derived cells
+GCATGATGTAAACGCG.1	Cardiac neural crest cells & Schwann progenitor cells
+GCATGATTCGACGGAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCATGCGAGGCCCTTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCATGCGGTTCACCTC.1	Myoz2-enriched cardiomyocytes
+GCATGTACACCTTGTC.1	Cardiac neural crest cells & Schwann progenitor cells
+GCATGTACATGCAATC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCATGTAGTCAGAATA.1	Atrial cardiomyocytes
+GCATGTAGTGTCTGAT.1	Capillary endothelium
+GCATGTATCAAGCCTA.1	Capillary endothelium
+GCCAAATGTGAAAGAG.1	Epicardium-derived cells
+GCCTCTAAGCCTTGAT.1	Fibroblast-like (related to smaller vascular development)
+GCCTCTAGTGCGATAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCCTCTATCAACGGGA.1	Capillary endothelium
+GCGACCAAGTACGTAA.1	Epicardium-derived cells
+GCGACCAGTTTGTGTG.1	Epicardium-derived cells
+GCGAGAAAGATATACG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCGAGAACACCAGGTC.1	Ventricular cardiomyocytes
+GCGAGAATCAGAAATG.1	Capillary endothelium
+GCGCAACAGATGGCGT.1	Fibroblast-like (related to larger vascular development)
+GCGCAACAGCCTCGTG.1	Smooth muscle cells / fibroblast-like)
+GCGCAACCATATGCTG.1	Smooth muscle cells / fibroblast-like)
+GCGCAGTCACATGGGA.1	Cardiac neural crest cells & Schwann progenitor cells
+GCGCAGTCAGGTGGAT.1	Atrial cardiomyocytes
+GCGCGATAGGTGCACA.1	Capillary endothelium
+GCGCGATAGTCAAGGC.1	Capillary endothelium
+GCGCGATCACGGTAAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCGCGATTCATCATTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCGCGATTCTCCAGGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCGCGATTCTTATCTG.1	Ventricular cardiomyocytes
+GCGGGTTAGATGAGAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCGGGTTAGCAGCGTA.1	Atrial cardiomyocytes
+GCGGGTTCACGCATCG.1	Capillary endothelium
+GCGGGTTGTCCGAAGA.1	Atrial cardiomyocytes
+GCTCCTAGTGCAGACA.1	Epicardium-derived cells
+GCTGCAGAGCTGATAA.1	Atrial cardiomyocytes
+GCTGCAGCAGCGTTCG.1	Smooth muscle cells / fibroblast-like)
+GCTGCAGCAGCTCGAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCTGCAGGTTACCAGT.1	Fibroblast-like (related to smaller vascular development)
+GCTGCAGTCCGCAAGC.1	Epicardial cells
+GCTGCGACACTTAACG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCTGCGATCTTGTTTG.1	Smooth muscle cells / fibroblast-like)
+GCTGCTTAGGAGTAGA.1	Epicardium-derived cells
+GCTGCTTGTACTCAAC.1	Cardiac neural crest cells & Schwann progenitor cells
+GCTGCTTGTATAAACG.1	Epicardium-derived cells
+GCTGCTTTCAACGGGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCTGCTTTCTGGAGCC.1	Smooth muscle cells / fibroblast-like)
+GCTGGGTGTCGTTGTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCTGGGTTCAATAAGG.1	Fibroblast-like (related to smaller vascular development)
+GCTGGGTTCATGTGGT.1	Epicardium-derived cells
+GCTGGGTTCCTACAGA.1	Epicardium-derived cells
+GCTGGGTTCGTCCAGG.1	Capillary endothelium
+GCTTCCAAGGGCTTGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCTTCCAAGTGTCTCA.1	Ventricular cardiomyocytes
+GCTTCCACAAGGTTCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCTTCCACAAGTAATG.1	Smooth muscle cells / fibroblast-like)
+GCTTCCACACAACGTT.1	Atrial cardiomyocytes
+GCTTCCACATTCCTCG.1	Epicardium-derived cells
+GCTTCCAGTTCCTCCA.1	Atrial cardiomyocytes
+GCTTCCAGTTTACTCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCTTCCATCGTACCGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCTTCCATCGTCGTTC.1	Cardiac neural crest cells & Schwann progenitor cells
+GCTTGAAAGAGAGCTC.1	Epicardium-derived cells
+GCTTGAACATGACATC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCTTGAATCGCTGATA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGAAAGCCATGTCTCC.1	Ventricular cardiomyocytes
+GGAAAGCGTGCAGGTA.1	Myoz2-enriched cardiomyocytes
+GGAAAGCTCCGCTGTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGAACTTGTTGGGACA.1	Smooth muscle cells / fibroblast-like)
+GGAACTTGTTTACTCT.1	Ventricular cardiomyocytes
+GGAATAACACACTGCG.1	Capillary endothelium
+GGACAAGGTCATCCCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGACAGACACTCAGGC.1	Epicardial cells
+GGACATTGTATAGGGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGACATTGTCGTCTTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGACATTGTTCAACCA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGACATTTCAACGAAA.1	Epicardium-derived cells
+GGACGTCCAAACGTGG.1	Smooth muscle cells / fibroblast-like)
+GGACGTCGTCTGATCA.1	Ventricular cardiomyocytes
+GGAGCAAAGAGGTAGA.1	Atrial cardiomyocytes
+GGAGCAAAGGACTGGT.1	Smooth muscle cells / fibroblast-like)
+GGAGCAACAACACCCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGAGCAACATGTCGAT.1	Endothelium / pericytes / adventitia
+GGAGCAACATGTTCCC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGAGCAAGTCCGAACC.1	Atrial cardiomyocytes
+GGATGTTAGCGCTTAT.1	Atrial cardiomyocytes
+GGATGTTAGGGTCGAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGATGTTAGGTTACCT.1	Atrial cardiomyocytes
+GGATGTTCAAATCCGT.1	Capillary endothelium
+GGATGTTCATTAGCCA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGATTACAGGGCATGT.1	Atrial cardiomyocytes
+GGATTACCAAGCCTAT.1	Capillary endothelium
+GGATTACCAGCCTGTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGATTACCAGTGACAG.1	Capillary endothelium
+GGATTACTCAGCTCTC.1	Epicardium-derived cells
+GGCAATTAGAGAACAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGCAATTAGGCGTACA.1	Endothelium / pericytes / adventitia
+GGCAATTAGTCTCCTC.1	Capillary endothelium
+GGCAATTCATTAACCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGCAATTGTGAAAGAG.1	Endothelium / pericytes / adventitia
+GGCAATTTCGCTTAGA.1	Epicardium-derived cells
+GGCAATTTCTCTGAGA.1	Smooth muscle cells / fibroblast-like)
+GGCCGATAGGCATGTG.1	Smooth muscle cells / fibroblast-like)
+GGCGACTTCCCGACTT.1	Atrial cardiomyocytes
+GGCGTGTTCAGAGCTT.1	Epicardium-derived cells
+GGCTCGATCCAAGTAC.1	Cardiac neural crest cells & Schwann progenitor cells
+GGCTCGATCCAGTAGT.1	Fibroblast-like (related to larger vascular development)
+GGCTCGATCCGCAGTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGCTCGATCTATCCTA.1	Epicardium-derived cells
+GGCTGGTCAGGAACGT.1	Capillary endothelium
+GGCTGGTGTAGCCTCG.1	Epicardium-derived cells
+GGCTGGTTCCTATTCA.1	Ventricular cardiomyocytes
+GGGAATGAGGTGCACA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGGAATGAGTCATGCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGGAATGGTGCGATAG.1	Capillary endothelium
+GGGAATGGTTCGGCAC.1	Smooth muscle cells / fibroblast-like)
+GGGACCTAGCTAGCCC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGGAGATCACCTCGGA.1	Ventricular cardiomyocytes
+GGGAGATCATCCGCGA.1	Epicardium-derived cells
+GGGAGATGTTGTACAC.1	Capillary endothelium
+GGGATGACAGCAGTTT.1	Smooth muscle cells / fibroblast-like)
+GGGATGAGTTCGCGAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGGCACTAGGGAACGG.1	Myoz2-enriched cardiomyocytes
+GGGCACTCACTAGTAC.1	Ventricular cardiomyocytes
+GGGCACTGTGCACTTA.1	Myoz2-enriched cardiomyocytes
+GGGCACTTCACGGTTA.1	Ventricular cardiomyocytes
+GGGCATCAGACACGAC.1	Epicardium-derived cells
+GGGCATCAGACAGAGA.1	Fibroblast-like (related to larger vascular development)
+GGGCATCCAACCGCCA.1	Atrial cardiomyocytes
+GGGCATCGTAAAGTCA.1	Smooth muscle cells / fibroblast-like)
+GGGTCTGAGCACCGCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGGTCTGAGTCTCGGC.1	Smooth muscle cells / fibroblast-like)
+GGGTCTGCAAATACAG.1	Cardiac neural crest cells & Schwann progenitor cells
+GGGTCTGCATGGTCAT.1	Epicardial cells
+GGGTTGCAGACTACAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGGTTGCGTAGAGCTG.1	Epicardium-derived cells
+GGGTTGCGTATCTGCA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGTATTGAGGCGATAC.1	Epicardial cells
+GGTATTGGTTAGTGGG.1	Endothelium / pericytes / adventitia
+GGTGAAGTCTCGTTTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGTGCGTCACCGGAAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGTGCGTGTCAGAATA.1	Atrial cardiomyocytes
+GGTGCGTTCACATGCA.1	Smooth muscle cells / fibroblast-like)
+GGTGCGTTCACGAAGG.1	Ventricular cardiomyocytes
+GGTGTTAAGAGAGCTC.1	Ventricular cardiomyocytes
+GGTGTTAGTACACCGC.1	Atrial cardiomyocytes
+GGTGTTAGTGTTTGTG.1	Capillary endothelium
+GTAACGTAGAGCTTCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTAACGTAGTAGGCCA.1	Fibroblast-like (related to smaller vascular development)
+GTAACGTGTCGACTAT.1	Smooth muscle cells / fibroblast-like)
+GTAACTGCAATCCAAC.1	Smooth muscle cells / fibroblast-like)
+GTAACTGTCAAGATCC.1	Epicardial cells
+GTACGTAAGATAGCAT.1	Capillary endothelium
+GTACGTAAGATCCCGC.1	Epicardium-derived cells
+GTACGTAAGTAAGTAC.1	Smooth muscle cells / fibroblast-like)
+GTACGTACATATGAGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTACGTAGTAATTGGA.1	Epicardium-derived cells
+GTACTCCAGCTGTCTA.1	Smooth muscle cells / fibroblast-like)
+GTACTTTCACATTTCT.1	Smooth muscle cells / fibroblast-like)
+GTACTTTCAGCGTTCG.1	Myoz2-enriched cardiomyocytes
+GTACTTTCATCCAACA.1	Epicardium-derived cells
+GTACTTTTCGAGCCCA.1	Ventricular cardiomyocytes
+GTAGGCCCACAGAGGT.1	Smooth muscle cells / fibroblast-like)
+GTAGGCCGTAAGCACG.1	Atrial cardiomyocytes
+GTAGGCCTCAACGGGA.1	Cardiac neural crest cells & Schwann progenitor cells
+GTAGTCAAGGCTATCT.1	Epicardial cells
+GTAGTCAAGTGGAGTC.1	Capillary endothelium
+GTAGTCACACGTCTCT.1	Capillary endothelium
+GTAGTCACATGCTGGC.1	Smooth muscle cells / fibroblast-like)
+GTAGTCACATTCACTT.1	Fibroblast-like (related to smaller vascular development)
+GTAGTCATCCTAGAAC.1	Epicardium-derived cells
+GTATCTTAGCCTATGT.1	Smooth muscle cells / fibroblast-like)
+GTATCTTGTCTCACCT.1	Epicardium-derived cells
+GTATTCTAGAAGGACA.1	Epicardium-derived cells
+GTATTCTCAAGCGCTC.1	Fibroblast-like (related to smaller vascular development)
+GTATTCTTCTGTCCGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTCAAGTAGGACCACA.1	Smooth muscle cells / fibroblast-like)
+GTCAAGTAGGAGTCTG.1	Cardiac neural crest cells & Schwann progenitor cells
+GTCAAGTAGTCGTTTG.1	Epicardium-derived cells
+GTCACAAAGAATGTTG.1	Epicardial cells
+GTCACAAAGCCATCGC.1	Atrial cardiomyocytes
+GTCACAATCCTGTACC.1	Atrial cardiomyocytes
+GTCACGGAGCGAGAAA.1	Atrial cardiomyocytes
+GTCACGGCAGCTGTGC.1	Cardiac neural crest cells & Schwann progenitor cells
+GTCACGGCAGGATTGG.1	Capillary endothelium
+GTCACGGCATGCATGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTCACGGGTGCAACTT.1	Smooth muscle cells / fibroblast-like)
+GTCACGGTCACGCATA.1	Fibroblast-like (related to larger vascular development)
+GTCACGGTCTCTGTCG.1	Capillary endothelium
+GTCATTTAGAGTGACC.1	Smooth muscle cells / fibroblast-like)
+GTCATTTAGGAACTGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTCATTTCACTCAGGC.1	Smooth muscle cells / fibroblast-like)
+GTCATTTTCGTGGGAA.1	Capillary endothelium
+GTCCTCAAGGGATACC.1	Smooth muscle cells / fibroblast-like)
+GTCGGGTGTCTACCTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTCGTAAAGTTACGGG.1	Epicardium-derived cells
+GTCGTAAAGTTTCCTT.1	Smooth muscle cells / fibroblast-like)
+GTCGTAACAGACGCTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTCGTAAGTAGCGTAG.1	Atrial cardiomyocytes
+GTCGTAAGTCTTGATG.1	Capillary endothelium
+GTCTCGTAGCGAGAAA.1	Capillary endothelium
+GTCTCGTAGTCTCGGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTCTCGTAGTTAAGTG.1	Capillary endothelium
+GTCTCGTGTATATGAG.1	Capillary endothelium
+GTCTCGTGTGTGCCTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTCTCGTTCACCGTAA.1	Epicardial cells
+GTCTCGTTCTGGTTCC.1	Smooth muscle cells / fibroblast-like)
+GTCTCGTTCTTAGAGC.1	Atrial cardiomyocytes
+GTGCAGCCAATGGACG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTGCAGCTCATGTGGT.1	Smooth muscle cells / fibroblast-like)
+GTGCAGCTCGATAGAA.1	Smooth muscle cells / fibroblast-like)
+GTGCATAAGCGTCAAG.1	Smooth muscle cells / fibroblast-like)
+GTGCATAAGGCACATG.1	Fibroblast-like (related to smaller vascular development)
+GTGCATAGTCTGCAAT.1	Smooth muscle cells / fibroblast-like)
+GTGCGGTAGATCTGAA.1	Smooth muscle cells / fibroblast-like)
+GTGCGGTCACTGCCAG.1	Smooth muscle cells / fibroblast-like)
+GTGCGGTCAGTATAAG.1	Smooth muscle cells / fibroblast-like)
+GTGCGGTCATTGAGCT.1	Ventricular cardiomyocytes
+GTGCTTCCAGGGTACA.1	Myoz2-enriched cardiomyocytes
+GTGCTTCCAGTGAGTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTGGGTCAGAACTCGG.1	Capillary endothelium
+GTGGGTCGTACATGTC.1	Epicardium-derived cells
+GTGGGTCGTCCCTACT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTGGGTCTCGGTGTCG.1	Atrial cardiomyocytes
+GTGTGCGAGACCTAGG.1	Fibroblast-like (related to smaller vascular development)
+GTGTGCGCACGGTAGA.1	Smooth muscle cells / fibroblast-like)
+GTGTGCGGTCAATGTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTGTTAGAGATCCGAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTGTTAGAGGAGCGAG.1	Atrial cardiomyocytes
+GTGTTAGCAGCTCGAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTGTTAGTCGCCCTTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTTAAGCAGTCATCCA.1	Fibroblast-like (related to larger vascular development)
+GTTAAGCAGTGTTGAA.1	Capillary endothelium
+GTTAAGCCACAGAGGT.1	Smooth muscle cells / fibroblast-like)
+GTTAAGCGTGCGATAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTTAAGCTCAAACAAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTTAAGCTCATAGCAC.1	Cardiac neural crest cells & Schwann progenitor cells
+GTTAAGCTCGGTTCGG.1	Atrial cardiomyocytes
+GTTACAGAGCAGCGTA.1	Smooth muscle cells / fibroblast-like)
+GTTACAGAGGAATGGA.1	Myoz2-enriched cardiomyocytes
+GTTACAGCATGGTCAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTTACAGGTAGCGTAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTTACAGGTGGACGAT.1	Epicardial cells
+GTTCATTAGGGTATCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTTCATTGTGGCGAAT.1	Myoz2-enriched cardiomyocytes
+GTTCATTGTTGAGTTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTTCGGGAGAGACTTA.1	Epicardium-derived cells
+GTTCTCGAGGAGTACC.1	Atrial cardiomyocytes
+GTTCTCGCATCACCCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTTCTCGGTATCACCA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTTCTCGGTCATCGGC.1	Epicardium-derived cells
+GTTCTCGTCCACGCAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTTTCTACAAACGTGG.1	Capillary endothelium
+GTTTCTACATCCAACA.1	Smooth muscle cells / fibroblast-like)
+GTTTCTATCAGTCCCT.1	Epicardium-derived cells
+GTTTCTATCCTAGTGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TAAACCGCACGGCCAT.1	Capillary endothelium
+TAAACCGCATCGGACC.1	Capillary endothelium
+TAAACCGGTGGGTATG.1	Atrial cardiomyocytes
+TAAGAGAAGAGTACCG.1	Cardiac neural crest cells & Schwann progenitor cells
+TAAGAGAAGTCCGTAT.1	Atrial cardiomyocytes
+TAAGTGCTCCAGTATG.1	Epicardial cells
+TAAGTGCTCCTATGTT.1	Capillary endothelium
+TAAGTGCTCTTCGAGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TACACGAAGTACGTTC.1	Epicardial cells
+TACACGACAGCTCGCA.1	Atrial cardiomyocytes
+TACACGATCTTAGAGC.1	Fibroblast-like (related to larger vascular development)
+TACAGTGCACACAGAG.1	Fibroblast-like (related to smaller vascular development)
+TACCTATAGCGTTCCG.1	Epicardium-derived cells
+TACCTATCAAAGGTGC.1	Smooth muscle cells / fibroblast-like)
+TACCTATCAGCTGCTG.1	Smooth muscle cells / fibroblast-like)
+TACCTTAAGACGCAAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TACCTTACAGTTAACC.1	Epicardium-derived cells
+TACCTTATCCTAAGTG.1	Capillary endothelium
+TACCTTATCGGTCCGA.1	Epicardium-derived cells
+TACCTTATCGTTACGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TACGGATAGTGACATA.1	Atrial cardiomyocytes
+TACGGATCACATTAGC.1	Smooth muscle cells / fibroblast-like)
+TACGGATTCTCCGGTT.1	Ventricular cardiomyocytes
+TACGGGCAGAATTGTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TACGGGCAGCGTTCCG.1	Smooth muscle cells / fibroblast-like)
+TACGGGCCATTGCGGC.1	Epicardium-derived cells
+TACGGGCGTCCAAGTT.1	Smooth muscle cells / fibroblast-like)
+TACGGGCTCAACACGT.1	Epicardium-derived cells
+TACGGTAAGAGTCGGT.1	Fibroblast-like (related to larger vascular development)
+TACGGTAAGGTGTTAA.1	Capillary endothelium
+TACGGTAGTTGTGGCC.1	Capillary endothelium
+TACGGTATCCAGTATG.1	Smooth muscle cells / fibroblast-like)
+TACTCATAGCTTCGCG.1	Myoz2-enriched cardiomyocytes
+TACTCATCAGATGAGC.1	Smooth muscle cells / fibroblast-like)
+TACTCATGTCAGAAGC.1	Epicardium-derived cells
+TACTCATTCATCGCTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TACTCGCCAGGGTACA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TACTTACGTAACGTTC.1	Epicardium-derived cells
+TACTTACGTAGGGACT.1	Atrial cardiomyocytes
+TACTTACGTCTCTTTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TACTTGTAGCCCGAAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TACTTGTCACTTAAGC.1	Fibroblast-like (related to smaller vascular development)
+TACTTGTGTGGTTTCA.1	Epicardium-derived cells
+TACTTGTTCAAGGCTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TAGACCAAGAGAGCTC.1	Fibroblast-like (related to smaller vascular development)
+TAGACCAAGATGTAAC.1	Capillary endothelium
+TAGACCATCGCATGGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TAGAGCTGTAAGGGAA.1	Smooth muscle cells / fibroblast-like)
+TAGAGCTTCAATACCG.1	Epicardial cells
+TAGAGCTTCCGCATAA.1	Epicardium-derived cells
+TAGAGCTTCTCTAAGG.1	Smooth muscle cells / fibroblast-like)
+TAGCCGGAGAAGGTTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TAGCCGGAGGGTCGAT.1	Smooth muscle cells / fibroblast-like)
+TAGCCGGAGTGACTCT.1	Capillary endothelium
+TAGCCGGCAAAGCGGT.1	Fibroblast-like (related to larger vascular development)
+TAGCCGGCAATCCGAT.1	Smooth muscle cells / fibroblast-like)
+TAGCCGGCAGGTCCAC.1	Epicardial cells
+TAGCCGGCATTGGCGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TAGCCGGGTCTGCGGT.1	Fibroblast-like (related to smaller vascular development)
+TAGCCGGGTTAAAGTG.1	Atrial cardiomyocytes
+TAGGCATAGCTAACAA.1	Capillary endothelium
+TAGGCATCATCGATTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TAGTGGTAGAGTCGGT.1	Epicardium-derived cells
+TAGTGGTAGCGTTCCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TAGTGGTAGGACAGAA.1	Capillary endothelium
+TAGTGGTAGTCCATAC.1	Epicardial cells
+TAGTGGTCATCGTCGG.1	Capillary endothelium
+TAGTGGTCATTCCTGC.1	Atrial cardiomyocytes
+TAGTGGTTCCTAGGGC.1	Ventricular cardiomyocytes
+TAGTTGGAGTACCGGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TAGTTGGGTAGGCTGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TATCAGGAGACGCACA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TATCAGGTCCGCGGTA.1	Atrial cardiomyocytes
+TATCAGGTCGAATGCT.1	Epicardium-derived cells
+TATCAGGTCGTTTGCC.1	Ventricular cardiomyocytes
+TATCTCACATACTACG.1	Epicardium-derived cells
+TATCTCACATGTTGAC.1	Endothelium / pericytes / adventitia
+TATCTCATCAGGCCCA.1	Epicardium-derived cells
+TATCTCATCTCGATGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TATGCCCAGGCGACAT.1	Atrial cardiomyocytes
+TATGCCCAGGGAAACA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TATGCCCAGGGTCGAT.1	Cardiac neural crest cells & Schwann progenitor cells
+TATGCCCGTTGTCGCG.1	Atrial cardiomyocytes
+TATGCCCGTTTACTCT.1	Fibroblast-like (related to smaller vascular development)
+TATTACCAGTGCGTGA.1	Epicardium-derived cells
+TATTACCCAACCGCCA.1	Endothelium / pericytes / adventitia
+TATTACCCAAGGACTG.1	Epicardium-derived cells
+TATTACCCAGCCTGTG.1	Capillary endothelium
+TCAACGAAGACTGGGT.1	Epicardium-derived cells
+TCAACGAAGCTGTTCA.1	Capillary endothelium
+TCAACGACAGGATTGG.1	Myoz2-enriched cardiomyocytes
+TCAACGAGTATCAGTC.1	Epicardium-derived cells
+TCAACGAGTGCTGTAT.1	Atrial cardiomyocytes
+TCAACGATCCTGCAGG.1	Endothelium / pericytes / adventitia
+TCAATCTAGAACAATC.1	Smooth muscle cells / fibroblast-like)
+TCAATCTGTGCATCTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCACAAGAGACAGACC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCACAAGAGACCACGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCACAAGAGCGATCCC.1	Capillary endothelium
+TCACAAGCATACCATG.1	Smooth muscle cells / fibroblast-like)
+TCACAAGGTAAGTGGC.1	Atrial cardiomyocytes
+TCACAAGGTTGGTAAA.1	Cardiac neural crest cells & Schwann progenitor cells
+TCACAAGTCGCATGGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCACGAAAGTATTGGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCACGAACACTATCTT.1	Smooth muscle cells / fibroblast-like)
+TCACGAATCAACGGCC.1	Capillary endothelium
+TCAGATGAGGTAAACT.1	Epicardium-derived cells
+TCAGATGGTCAAGCGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCAGCAAGTCATATGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCAGCAATCAAAGACA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCAGCTCCAAGTAGTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCAGCTCCACTAGTAC.1	Fibroblast-like (related to larger vascular development)
+TCAGCTCCACTGTGTA.1	Epicardium-derived cells
+TCAGCTCCACTGTTAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCAGCTCGTCTTCAAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCAGCTCTCACGATGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCAGCTCTCGACCAGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCAGGTAAGGGCTTCC.1	Ventricular cardiomyocytes
+TCAGGTACAAGAGGCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCAGGTAGTGTAAGTA.1	Atrial cardiomyocytes
+TCATTACCAAGCCGCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCATTACCAGCTGTAT.1	Smooth muscle cells / fibroblast-like)
+TCATTACCAGGGCATA.1	Capillary endothelium
+TCATTACTCAGTTTGG.1	Atrial cardiomyocytes
+TCATTACTCTTGGGTA.1	Ventricular cardiomyocytes
+TCATTTGAGTTCGCGC.1	Ventricular cardiomyocytes
+TCATTTGAGTTGTAGA.1	Epicardial cells
+TCATTTGGTTACCAGT.1	Endothelium / pericytes / adventitia
+TCATTTGGTTGAGGTG.1	Epicardium-derived cells
+TCATTTGGTTGTCGCG.1	Epicardial cells
+TCCACACAGCGTTCCG.1	Cardiac neural crest cells & Schwann progenitor cells
+TCCACACCATCACGAT.1	Smooth muscle cells / fibroblast-like)
+TCCACACTCTTACCGC.1	Epicardial cells
+TCCCGATCAGACGCAA.1	Epicardial cells
+TCCCGATCAGTATGCT.1	Capillary endothelium
+TCGAGGCAGCCGTCGT.1	Smooth muscle cells / fibroblast-like)
+TCGAGGCCAAACAACA.1	Capillary endothelium
+TCGAGGCGTAGCGCAA.1	Epicardium-derived cells
+TCGAGGCGTGACCAAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCGAGGCGTGTGAATA.1	Capillary endothelium
+TCGAGGCTCCTGTAGA.1	Fibroblast-like (related to larger vascular development)
+TCGAGGCTCGGCTTGG.1	Smooth muscle cells / fibroblast-like)
+TCGAGGCTCTTTACAC.1	Endothelium / pericytes / adventitia
+TCGCGAGTCAAACCAC.1	Epicardial cells
+TCGCGAGTCATTGCGA.1	Atrial cardiomyocytes
+TCGCGTTCACACCGCA.1	Epicardium-derived cells
+TCGCGTTCATTTCAGG.1	Ventricular cardiomyocytes
+TCGCGTTGTTTCCACC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCGCGTTTCCTATTCA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCGCGTTTCGGCATCG.1	Atrial cardiomyocytes
+TCGCGTTTCTTTAGTC.1	Myoz2-enriched cardiomyocytes
+TCGGGACCAACAACCT.1	Smooth muscle cells / fibroblast-like)
+TCGGGACGTTGAACTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCGGGACTCCGCAGTG.1	Smooth muscle cells / fibroblast-like)
+TCGGTAAAGTGTACTC.1	Atrial cardiomyocytes
+TCGGTAAGTAGCCTAT.1	Capillary endothelium
+TCGGTAAGTGCGATAG.1	Fibroblast-like (related to smaller vascular development)
+TCGGTAAGTTAAGATG.1	Cardiac neural crest cells & Schwann progenitor cells
+TCGTACCAGGGTATCG.1	Myoz2-enriched cardiomyocytes
+TCGTACCGTGGGTCAA.1	Smooth muscle cells / fibroblast-like)
+TCGTACCGTTTGACAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCGTAGAAGATCCCGC.1	Smooth muscle cells / fibroblast-like)
+TCGTAGAAGCAATATG.1	Cardiac neural crest cells & Schwann progenitor cells
+TCGTAGACAAGTCTGT.1	Epicardium-derived cells
+TCGTAGACATCGTCGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCGTAGAGTATAATGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCGTAGAGTTCAGCGC.1	Epicardium-derived cells
+TCGTAGAGTTCAGGCC.1	Epicardium-derived cells
+TCTATTGAGGAGCGAG.1	Epicardial cells
+TCTATTGAGGCTCTTA.1	Smooth muscle cells / fibroblast-like)
+TCTATTGCAGTGGAGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCTATTGCATCGATGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCTATTGCATGAGCGA.1	Epicardial cells
+TCTATTGGTTACGCGC.1	Smooth muscle cells / fibroblast-like)
+TCTATTGTCCTTCAAT.1	Fibroblast-like (related to smaller vascular development)
+TCTATTGTCTGATTCT.1	Capillary endothelium
+TCTCATACAATGGATA.1	Ventricular cardiomyocytes
+TCTCATACATATGAGA.1	Atrial cardiomyocytes
+TCTCATAGTATGAATG.1	Smooth muscle cells / fibroblast-like)
+TCTCATAGTATGGTTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCTCATAGTCTCATCC.1	Myoz2-enriched cardiomyocytes
+TCTCTAAGTGCAACTT.1	Capillary endothelium
+TCTCTAATCAAGATCC.1	Atrial cardiomyocytes
+TCTGAGAAGTCGCCGT.1	Epicardium-derived cells
+TCTGAGACAAGTTGTC.1	Cardiac neural crest cells & Schwann progenitor cells
+TCTGAGACATACAGCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCTGAGAGTCCGTGAC.1	Epicardium-derived cells
+TCTGAGATCTGGCGTG.1	Capillary endothelium
+TCTGGAAAGAATTCCC.1	Epicardium-derived cells
+TCTGGAAAGACAATAC.1	Fibroblast-like (related to smaller vascular development)
+TCTGGAACATCCCATC.1	Epicardium-derived cells
+TCTGGAACATCCGCGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCTTCGGTCCGCATAA.1	Smooth muscle cells / fibroblast-like)
+TCTTTCCCAGCTCGCA.1	Capillary endothelium
+TCTTTCCTCATACGGT.1	Capillary endothelium
+TGAAAGAAGTAGTGCG.1	Epicardium-derived cells
+TGAAAGACAATGGACG.1	Fibroblast-like (related to smaller vascular development)
+TGAAAGAGTAGCGTGA.1	Capillary endothelium
+TGAAAGATCGTACCGG.1	Ventricular cardiomyocytes
+TGACAACGTGATGATA.1	Capillary endothelium
+TGACAACTCAATACCG.1	Smooth muscle cells / fibroblast-like)
+TGACGGCAGACACGAC.1	Cardiac neural crest cells & Schwann progenitor cells
+TGACGGCAGAGCTGCA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGACGGCCACTCAGGC.1	Epicardial cells
+TGACGGCGTCTAGCCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGACGGCGTGTTCTTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGACGGCTCTTGCAAG.1	Ventricular cardiomyocytes
+TGACTAGAGTGCCATT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGACTAGAGTGGGCTA.1	Atrial cardiomyocytes
+TGACTAGCATCTCGCT.1	Atrial cardiomyocytes
+TGACTTTAGCTCCTCT.1	Epicardium-derived cells
+TGACTTTGTAAATACG.1	Smooth muscle cells / fibroblast-like)
+TGACTTTTCGGCTTGG.1	Atrial cardiomyocytes
+TGAGAGGAGAGCTTCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGAGAGGAGGGAACGG.1	Capillary endothelium
+TGAGAGGCACAGCCCA.1	Epicardium-derived cells
+TGAGAGGCACAGGTTT.1	Capillary endothelium
+TGAGAGGCATCCAACA.1	Capillary endothelium
+TGAGAGGGTTTGACTG.1	Smooth muscle cells / fibroblast-like)
+TGAGAGGTCGCAAGCC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGAGCATCACATTTCT.1	Myoz2-enriched cardiomyocytes
+TGAGCATGTAGCAAAT.1	Epicardium-derived cells
+TGAGCATGTCTAGCGC.1	Epicardium-derived cells
+TGAGCATGTTCAGTAC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGAGCCGAGGCAGTCA.1	Epicardium-derived cells
+TGAGCCGAGGTAAACT.1	Smooth muscle cells / fibroblast-like)
+TGAGCCGAGTGTTGAA.1	Epicardium-derived cells
+TGAGCCGTCAGTTTGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGAGGGACAAGCCTAT.1	Epicardium-derived cells
+TGAGGGACACCAGGCT.1	Capillary endothelium
+TGAGGGAGTGTGCCTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGATTTCAGGGTGTTG.1	Atrial cardiomyocytes
+TGATTTCGTAGATTAG.1	Cardiac neural crest cells & Schwann progenitor cells
+TGATTTCGTGATGCCC.1	Myoz2-enriched cardiomyocytes
+TGCACCTCACTTAACG.1	Capillary endothelium
+TGCCAAAGTAAGAGGA.1	Myoz2-enriched cardiomyocytes
+TGCCAAAGTCTGCGGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGCCAAAGTTAAAGTG.1	Smooth muscle cells / fibroblast-like)
+TGCCCATCACGGATAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGCCCATCATCCTAGA.1	Capillary endothelium
+TGCCCATTCCAAGTAC.1	Ventricular cardiomyocytes
+TGCCCTACACGGCGTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGCCCTAGTATAAACG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGCGCAGGTTAGAACA.1	Capillary endothelium
+TGCGGGTAGATGTCGG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGCGGGTAGTAGGTGC.1	Epicardial cells
+TGCGGGTCAAGGTTCT.1	Ventricular cardiomyocytes
+TGCGGGTTCAGATAAG.1	Epicardial cells
+TGCGTGGAGCCCTAAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGCGTGGAGTGGGCTA.1	Capillary endothelium
+TGCGTGGCATAGAAAC.1	Smooth muscle cells / fibroblast-like)
+TGCTACCCATCAGTAC.1	Epicardium-derived cells
+TGCTACCGTCAGGACA.1	Atrial cardiomyocytes
+TGCTACCTCGGTCCGA.1	Smooth muscle cells / fibroblast-like)
+TGCTACCTCGTAGGAG.1	Atrial cardiomyocytes
+TGCTGCTAGGCAATTA.1	Epicardium-derived cells
+TGCTGCTAGGCAGGTT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGCTGCTTCATCGGAT.1	Myoz2-enriched cardiomyocytes
+TGGACGCCAGTAAGCG.1	Ventricular cardiomyocytes
+TGGACGCGTGCTGTAT.1	Atrial cardiomyocytes
+TGGACGCTCATAGCAC.1	Myoz2-enriched cardiomyocytes
+TGGACGCTCGTAGGAG.1	Epicardial cells
+TGGCCAGAGGTGTTAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGGCCAGCAAGGCTCC.1	Atrial cardiomyocytes
+TGGCGCAAGGCTCATT.1	Fibroblast-like (related to larger vascular development)
+TGGCGCACACAGACAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGGCGCACACGTCTCT.1	Fibroblast-like (related to larger vascular development)
+TGGCGCAGTCTGCGGT.1	Smooth muscle cells / fibroblast-like)
+TGGCTGGGTTCCGGCA.1	Epicardial cells
+TGGCTGGTCAGATAAG.1	Smooth muscle cells / fibroblast-like)
+TGGCTGGTCTCACATT.1	Fibroblast-like (related to smaller vascular development)
+TGGGAAGAGTCCAGGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGGGAAGAGTGTACCT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGGGAAGGTCCCGACA.1	Atrial cardiomyocytes
+TGGGAAGGTTATCGGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGGGAAGTCTTCTGGC.1	Ventricular cardiomyocytes
+TGGGCGTAGTCTCGGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGGGCGTCAGCTGTTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGGGCGTCAGGGAGAG.1	Smooth muscle cells / fibroblast-like)
+TGGGCGTGTGATAAAC.1	Atrial cardiomyocytes
+TGGGCGTGTGTGACCC.1	Epicardium-derived cells
+TGGTTAGAGAGTGACC.1	Smooth muscle cells / fibroblast-like)
+TGGTTAGCACGACTCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGGTTAGGTAAGGATT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGGTTAGGTACCGTAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGGTTAGTCCTTGCCA.1	Smooth muscle cells / fibroblast-like)
+TGGTTCCCAACAACCT.1	Smooth muscle cells / fibroblast-like)
+TGGTTCCCATATACGC.1	Fibroblast-like (related to smaller vascular development)
+TGGTTCCCATCCCATC.1	Smooth muscle cells / fibroblast-like)
+TGGTTCCGTAAAGTCA.1	Capillary endothelium
+TGGTTCCTCAAGAAGT.1	Epicardial cells
+TGGTTCCTCAAGGCTT.1	Smooth muscle cells / fibroblast-like)
+TGGTTCCTCGCCTGAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGTATTCCAAACGTGG.1	Epicardium-derived cells
+TGTATTCCACAGTCGC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGTATTCGTATAGTAG.1	Fibroblast-like (related to smaller vascular development)
+TGTATTCTCGATCCCT.1	Fibroblast-like (related to larger vascular development)
+TGTCCCAAGCCGCCTA.1	Capillary endothelium
+TGTCCCAGTCCAGTGC.1	Epicardium-derived cells
+TGTCCCAGTCCTCCAT.1	Epicardial cells
+TGTGGTACAATGGACG.1	Epicardium-derived cells
+TGTGGTACAGTATAAG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGTGTTTAGCCTCGTG.1	Atrial cardiomyocytes
+TGTGTTTCAGTCCTTC.1	Ventricular cardiomyocytes
+TGTGTTTGTGTAACGG.1	Fibroblast-like (related to larger vascular development)
+TGTGTTTTCAGCAACT.1	Endothelium / pericytes / adventitia
+TGTGTTTTCATGTCCC.1	Atrial cardiomyocytes
+TGTGTTTTCCCTCTTT.1	Cardiac neural crest cells & Schwann progenitor cells
+TGTGTTTTCCTCAATT.1	Epicardium-derived cells
+TGTTCCGAGCGTCAAG.1	Epicardium-derived cells
+TGTTCCGAGCTAGCCC.1	Fibroblast-like (related to smaller vascular development)
+TGTTCCGCAGACAGGT.1	Smooth muscle cells / fibroblast-like)
+TTAACTCAGGACGAAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTAACTCAGTGAAGAG.1	Smooth muscle cells / fibroblast-like)
+TTAACTCCATCCGTGG.1	Atrial cardiomyocytes
+TTAACTCGTCAGTGGA.1	Atrial cardiomyocytes
+TTAACTCGTGACTACT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTAGGACAGTGTGAAT.1	Smooth muscle cells / fibroblast-like)
+TTAGGCAAGCTTATCG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTAGGCAAGTGGGCTA.1	Endothelium / pericytes / adventitia
+TTAGGCAAGTGTTTGC.1	Fibroblast-like (related to smaller vascular development)
+TTAGGCACAAGTCATC.1	Endothelium / pericytes / adventitia
+TTAGGCATCCCATTTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTAGGCATCCTATGTT.1	Atrial cardiomyocytes
+TTAGGCATCCTCAATT.1	Epicardium-derived cells
+TTAGTTCGTATGCTTG.1	Capillary endothelium
+TTAGTTCTCCACGAAT.1	Capillary endothelium
+TTATGCTAGATGTGTA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTATGCTAGGGTCGAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTATGCTAGTCTCCTC.1	Atrial cardiomyocytes
+TTATGCTGTGTCGCTG.1	Epicardium-derived cells
+TTCCCAGTCGCGTTTC.1	Capillary endothelium
+TTCGAAGAGACTTGAA.1	Smooth muscle cells / fibroblast-like)
+TTCGAAGAGTCATGCT.1	Atrial cardiomyocytes
+TTCGAAGCAAACCTAC.1	Smooth muscle cells / fibroblast-like)
+TTCGAAGGTATAAACG.1	Ventricular cardiomyocytes
+TTCGAAGGTTGGAGGT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTCGGTCCAGCCTTTC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTCGGTCCATCTCCCA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTCGGTCGTAAGTAGT.1	Capillary endothelium
+TTCGGTCTCAAACGGG.1	Atrial cardiomyocytes
+TTCGGTCTCTGGTATG.1	Endothelium / pericytes / adventitia
+TTCTACACAGTCGTGC.1	Smooth muscle cells / fibroblast-like)
+TTCTCAAAGCTAGTCT.1	Fibroblast-like (related to smaller vascular development)
+TTCTCAAAGTGGCACA.1	Capillary endothelium
+TTCTCAATCCATGAAC.1	Myoz2-enriched cardiomyocytes
+TTCTCAATCCGCATAA.1	Atrial cardiomyocytes
+TTCTCAATCTCCAACC.1	Epicardial cells
+TTCTCCTCAATGAATG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTCTTAGTCGCGTAGC.1	Capillary endothelium
+TTCTTAGTCTGGCGTG.1	Epicardium-derived cells
+TTGAACGAGAAGGTTT.1	Capillary endothelium
+TTGAACGAGCGTTGCC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTGAACGCAGACGCTC.1	Capillary endothelium
+TTGAACGTCAGCGACC.1	Smooth muscle cells / fibroblast-like)
+TTGAACGTCGCCATAA.1	Cardiac neural crest cells & Schwann progenitor cells
+TTGAACGTCGGCTACG.1	Myoz2-enriched cardiomyocytes
+TTGAACGTCTCTTATG.1	Smooth muscle cells / fibroblast-like)
+TTGACTTAGGCAAAGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTGACTTCATCCGCGA.1	Smooth muscle cells / fibroblast-like)
+TTGACTTGTGAGGCTA.1	Epicardium-derived cells
+TTGACTTTCAGATAAG.1	Smooth muscle cells / fibroblast-like)
+TTGCGTCAGTGTCTCA.1	Capillary endothelium
+TTGCGTCCATCACAAC.1	Capillary endothelium
+TTGCGTCGTGCTGTAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTGGAACAGCTGGAAC.1	Epicardium-derived cells
+TTGGAACAGTATCGAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTGGAACGTAACGACG.1	Fibroblast-like (related to smaller vascular development)
+TTGGAACGTGTTCTTT.1	Ventricular cardiomyocytes
+TTGGAACTCTTCTGGC.1	Cardiac neural crest cells & Schwann progenitor cells
+TTGGCAAAGGGCTTGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTGGCAACACGAAAGC.1	Capillary endothelium
+TTGGCAAGTAGGCTGA.1	Fibroblast-like (related to smaller vascular development)
+TTGGCAAGTGCATCTA.1	Epicardium-derived cells
+TTGGCAAGTGTGAATA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTGGCAATCACATACG.1	Fibroblast-like (related to smaller vascular development)
+TTGGCAATCCTCCTAG.1	Capillary endothelium
+TTGTAGGCATCAGTCA.1	Epicardium-derived cells
+TTGTAGGGTAAGGATT.1	Smooth muscle cells / fibroblast-like)
+TTGTAGGGTCTGCGGT.1	Ventricular cardiomyocytes
+TTGTAGGTCAACACTG.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTGTAGGTCAGCAACT.1	Ventricular cardiomyocytes
+TTGTAGGTCGTCTGAA.1	Endothelium / pericytes / adventitia
+TTGTAGGTCTGGTTCC.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTTACTGCATCCCACT.1	Fibroblast-like (related to smaller vascular development)
+TTTACTGCATTCTTAC.1	Myoz2-enriched cardiomyocytes
+TTTACTGGTCCGCTGA.1	Capillary endothelium
+TTTCCTCGTGATGTGG.1	Fibroblast-like (related to smaller vascular development)
+TTTGCGCGTGGACGAT.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTTGGTTAGACTACAA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTTGGTTAGAGGTAGA.1	Epicardium-derived cells
+TTTGGTTCACATTCGA.1	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTTGTCAAGGTGATAT.1	Atrial cardiomyocytes
+TTTGTCAAGTGACTCT.1	Capillary endothelium
+TTTGTCATCCAGTATG.1	Capillary endothelium
+TTTGTCATCTATCGCC.1	Smooth muscle cells / fibroblast-like)
+AAACCTGGTTCGGGCT.2	Ventricular cardiomyocytes
+AAACCTGTCTCTGAGA.2	Myoz2-enriched cardiomyocytes
+AAACGGGCAATCGAAA.2	Epicardium-derived cells
+AAACGGGGTCGAATCT.2	Ventricular cardiomyocytes
+AAACGGGGTCGCGTGT.2	Capillary endothelium
+AAACGGGTCGCACTCT.2	Atrial cardiomyocytes
+AAACGGGTCGCAGGCT.2	Ventricular cardiomyocytes
+AAAGATGAGACTAGAT.2	Myoz2-enriched cardiomyocytes
+AAAGCAAAGATCGGGT.2	Capillary endothelium
+AAAGCAAAGCTAACAA.2	Ventricular cardiomyocytes
+AAAGCAACATCAGTCA.2	Ventricular cardiomyocytes
+AAAGCAAGTTACAGAA.2	Epicardium-derived cells
+AAAGCAATCTTGTCAT.2	Capillary endothelium
+AAAGTAGAGACCTTTG.2	Ventricular cardiomyocytes
+AAAGTAGAGATATGCA.2	Capillary endothelium
+AAAGTAGAGGAGTACC.2	Fibroblast-like (related to smaller vascular development)
+AAAGTAGGTGTGAATA.2	Fibroblast-like (related to smaller vascular development)
+AAAGTAGGTTGTCTTT.2	Ventricular cardiomyocytes
+AAAGTAGTCATAACCG.2	Fibroblast-like (related to larger vascular development)
+AAAGTAGTCCACTCCA.2	Epicardium-derived cells
+AAAGTAGTCTCGAGTA.2	Fibroblast-like (related to larger vascular development)
+AAATGCCCACATTAGC.2	Ventricular cardiomyocytes
+AAATGCCCATGCAACT.2	Ventricular cardiomyocytes
+AAATGCCCATGCTGGC.2	Ventricular cardiomyocytes
+AAATGCCGTTCAGCGC.2	Fibroblast-like (related to larger vascular development)
+AAATGCCTCTATCGCC.2	Capillary endothelium
+AACACGTCAATCACAC.2	Ventricular cardiomyocytes
+AACACGTCACACAGAG.2	Capillary endothelium
+AACACGTTCATAAAGG.2	Capillary endothelium
+AACCATGAGACAGACC.2	Capillary endothelium
+AACCATGCACGAAAGC.2	Fibroblast-like (related to smaller vascular development)
+AACCATGGTTCTCATT.2	Fibroblast-like (related to smaller vascular development)
+AACCATGTCGGAAACG.2	Ventricular cardiomyocytes
+AACCATGTCTAACTTC.2	Capillary endothelium
+AACCGCGCAAGTTAAG.2	Capillary endothelium
+AACCGCGGTTTAGCTG.2	Myoz2-enriched cardiomyocytes
+AACCGCGTCTTTACAC.2	Fibroblast-like (related to larger vascular development)
+AACGTTGAGGAGTTGC.2	Capillary endothelium
+AACGTTGTCACCTTAT.2	Ventricular cardiomyocytes
+AACTCAGAGGCCATAG.2	Ventricular cardiomyocytes
+AACTCAGCACTAGTAC.2	Capillary endothelium
+AACTCAGTCCAAAGTC.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+AACTCAGTCGCGGATC.2	Fibroblast-like (related to smaller vascular development)
+AACTCCCAGGCAATTA.2	Capillary endothelium
+AACTCCCCAGGTGGAT.2	Capillary endothelium
+AACTCCCGTCTGATCA.2	Endothelium / pericytes / adventitia
+AACTCCCGTTCACCTC.2	Cardiac neural crest cells & Schwann progenitor cells
+AACTCCCGTTCCACGG.2	Ventricular cardiomyocytes
+AACTCTTAGTGGACGT.2	Capillary endothelium
+AACTCTTGTAAGTGGC.2	Capillary endothelium
+AACTCTTGTACCGTAT.2	Ventricular cardiomyocytes
+AACTCTTTCCGCATAA.2	Capillary endothelium
+AACTGGTCAGTATCTG.2	Capillary endothelium
+AACTGGTGTAAGGGCT.2	Ventricular cardiomyocytes
+AACTGGTGTCTCCCTA.2	Fibroblast-like (related to larger vascular development)
+AACTGGTGTTGCGCAC.2	Cardiac neural crest cells & Schwann progenitor cells
+AACTTTCAGCCACGCT.2	Epicardial cells
+AAGACCTAGTGGGCTA.2	Fibroblast-like (related to larger vascular development)
+AAGACCTCACCGATAT.2	Capillary endothelium
+AAGACCTGTGTTGAGG.2	Ventricular cardiomyocytes
+AAGACCTTCCTGTAGA.2	Ventricular cardiomyocytes
+AAGCCGCCAAGGTGTG.2	Ventricular cardiomyocytes
+AAGCCGCGTGCCTGGT.2	Ventricular cardiomyocytes
+AAGCCGCTCGCGTAGC.2	Epicardium-derived cells
+AAGGAGCAGAAGGTGA.2	Atrial cardiomyocytes
+AAGGAGCAGCGCCTCA.2	Capillary endothelium
+AAGGAGCTCACGCATA.2	Ventricular cardiomyocytes
+AAGGAGCTCCTGTACC.2	Ventricular cardiomyocytes
+AAGGTTCCAATGGAAT.2	Epicardium-derived cells
+AAGGTTCCAGCCTGTG.2	Capillary endothelium
+AAGGTTCGTGATAAAC.2	Epicardium-derived cells
+AAGGTTCGTGCTTCTC.2	Capillary endothelium
+AAGGTTCGTTACGACT.2	Ventricular cardiomyocytes
+AAGGTTCGTTATGCGT.2	Fibroblast-like (related to larger vascular development)
+AAGTCTGGTCACCCAG.2	Fibroblast-like (related to larger vascular development)
+AAGTCTGGTCGTCTTC.2	Ventricular cardiomyocytes
+AAGTCTGTCTTTAGGG.2	Fibroblast-like (related to larger vascular development)
+AATCCAGGTGAACCTT.2	Capillary endothelium
+AATCGGTAGATCACGG.2	Capillary endothelium
+AATCGGTAGCCCAATT.2	Epicardium-derived cells
+AATCGGTGTCACCTAA.2	Ventricular cardiomyocytes
+AATCGGTGTCACTTCC.2	Capillary endothelium
+AATCGGTGTCTGCGGT.2	Epicardium-derived cells
+AATCGGTGTTAAAGTG.2	Epicardium-derived cells
+AATCGGTTCGAACGGA.2	Epicardium-derived cells
+ACACCAAGTTCATGGT.2	Fibroblast-like (related to larger vascular development)
+ACACCAATCGTAGGAG.2	Capillary endothelium
+ACACCAATCTCTGCTG.2	Myoz2-enriched cardiomyocytes
+ACACCCTAGTTACGGG.2	Endothelium / pericytes / adventitia
+ACACCCTGTCATATGC.2	Ventricular cardiomyocytes
+ACACCCTTCCTTGCCA.2	Fibroblast-like (related to smaller vascular development)
+ACACCGGCAATAGCGG.2	Ventricular cardiomyocytes
+ACACCGGCATAACCTG.2	Epicardium-derived cells
+ACACCGGCATACTACG.2	Capillary endothelium
+ACACCGGCATTCCTGC.2	Epicardium-derived cells
+ACACCGGGTGAGTGAC.2	Fibroblast-like (related to larger vascular development)
+ACACTGAAGCTGTCTA.2	Capillary endothelium
+ACACTGAGTTGCCTCT.2	Fibroblast-like (related to smaller vascular development)
+ACACTGATCTTGTCAT.2	Endothelium / pericytes / adventitia
+ACAGCCGAGTGGTAGC.2	Endothelium / pericytes / adventitia
+ACAGCCGCAATCTACG.2	Fibroblast-like (related to smaller vascular development)
+ACAGCTAAGCCACGCT.2	Fibroblast-like (related to smaller vascular development)
+ACAGCTAAGTATTGGA.2	Epicardial cells
+ACAGCTACAAAGTCAA.2	Fibroblast-like (related to smaller vascular development)
+ACAGCTACAGTCGTGC.2	Ventricular cardiomyocytes
+ACAGCTAGTGGCTCCA.2	Ventricular cardiomyocytes
+ACATACGAGGGCACTA.2	Endothelium / pericytes / adventitia
+ACATACGAGTCCTCCT.2	Capillary endothelium
+ACATACGCACCAGATT.2	Ventricular cardiomyocytes
+ACATACGTCCAGAAGG.2	Fibroblast-like (related to smaller vascular development)
+ACATACGTCTTCATGT.2	Ventricular cardiomyocytes
+ACATCAGAGGACATTA.2	Endothelium / pericytes / adventitia
+ACATCAGCACCAGGCT.2	Epicardium-derived cells
+ACATCAGCACCTTGTC.2	Epicardium-derived cells
+ACATCAGTCATTGCGA.2	Ventricular cardiomyocytes
+ACATCAGTCCCATTAT.2	Capillary endothelium
+ACATCAGTCTAACTGG.2	Capillary endothelium
+ACATGGTCACGCGAAA.2	Fibroblast-like (related to larger vascular development)
+ACCAGTAGTCAATGTC.2	Ventricular cardiomyocytes
+ACCAGTAGTCACCTAA.2	Capillary endothelium
+ACCCACTGTCTCCCTA.2	Endothelium / pericytes / adventitia
+ACCCACTTCATGCATG.2	Capillary endothelium
+ACCGTAACACGCCAGT.2	Fibroblast-like (related to smaller vascular development)
+ACCGTAACATATGCTG.2	Ventricular cardiomyocytes
+ACCGTAAGTTGTCGCG.2	Ventricular cardiomyocytes
+ACCGTAATCATGCTCC.2	Epicardium-derived cells
+ACCGTAATCGTTTATC.2	Fibroblast-like (related to larger vascular development)
+ACCTTTACACCCATGG.2	Capillary endothelium
+ACCTTTACAGCTGCAC.2	Ventricular cardiomyocytes
+ACCTTTATCTTTACAC.2	Epicardium-derived cells
+ACGAGCCAGTTGAGTA.2	Fibroblast-like (related to larger vascular development)
+ACGAGCCCAAGCTGAG.2	Capillary endothelium
+ACGAGCCTCGCATGAT.2	Ventricular cardiomyocytes
+ACGAGCCTCTTCATGT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACGAGGATCCCATTTA.2	Cardiac neural crest cells & Schwann progenitor cells
+ACGATACCATCCCATC.2	Ventricular cardiomyocytes
+ACGATACCATCTGGTA.2	Epicardial cells
+ACGATACGTATTACCG.2	Capillary endothelium
+ACGATACGTCGCTTTC.2	Fibroblast-like (related to larger vascular development)
+ACGATACGTCTTTCAT.2	Capillary endothelium
+ACGATGTAGACTCGGA.2	Fibroblast-like (related to smaller vascular development)
+ACGATGTAGCCAGTTT.2	Fibroblast-like (related to smaller vascular development)
+ACGATGTCATACGCTA.2	Epicardium-derived cells
+ACGATGTCATGCCCGA.2	Ventricular cardiomyocytes
+ACGCAGCAGATGGGTC.2	Myoz2-enriched cardiomyocytes
+ACGCAGCTCTGAAAGA.2	Capillary endothelium
+ACGCCAGAGGTGCTTT.2	Ventricular cardiomyocytes
+ACGCCAGGTCTCTTAT.2	Ventricular cardiomyocytes
+ACGCCAGTCGCGATCG.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACGCCGAAGCCGATTT.2	Capillary endothelium
+ACGCCGACACTGTTAG.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACGCCGAGTTGTGGCC.2	Fibroblast-like (related to smaller vascular development)
+ACGCCGATCGAACTGT.2	Ventricular cardiomyocytes
+ACGGAGACAATAGAGT.2	Ventricular cardiomyocytes
+ACGGAGACACCCATTC.2	Cardiac neural crest cells & Schwann progenitor cells
+ACGGAGAGTAAGCACG.2	Capillary endothelium
+ACGGCCAAGAATCTCC.2	Capillary endothelium
+ACGGCCAAGCCACGCT.2	Fibroblast-like (related to smaller vascular development)
+ACGGCCACACAGAGGT.2	Capillary endothelium
+ACGGCCAGTATAGTAG.2	Capillary endothelium
+ACGGGCTCAAGCTGTT.2	Epicardium-derived cells
+ACGGGCTCAATAAGCA.2	Epicardium-derived cells
+ACGGGCTGTGATAAAC.2	Ventricular cardiomyocytes
+ACGGGTCAGTTTCCTT.2	Epicardial cells
+ACGGGTCCATATGGTC.2	Endothelium / pericytes / adventitia
+ACGTCAAAGCACAGGT.2	Ventricular cardiomyocytes
+ACGTCAACACCAGCAC.2	Capillary endothelium
+ACGTCAATCGCCCTTA.2	Epicardium-derived cells
+ACTATCTAGGATGGTC.2	Capillary endothelium
+ACTATCTCACGGCCAT.2	Ventricular cardiomyocytes
+ACTATCTGTTAAGACA.2	Capillary endothelium
+ACTGAACGTACCATCA.2	Capillary endothelium
+ACTGAACGTCATATCG.2	Ventricular cardiomyocytes
+ACTGAACTCACTTATC.2	Epicardium-derived cells
+ACTGAACTCTAACTTC.2	Epicardium-derived cells
+ACTGAGTGTATAAACG.2	Endothelium / pericytes / adventitia
+ACTGAGTGTGTGACGA.2	Capillary endothelium
+ACTGAGTTCCTGCAGG.2	Fibroblast-like (related to smaller vascular development)
+ACTGAGTTCTTGTTTG.2	Capillary endothelium
+ACTGATGAGCGTTCCG.2	Fibroblast-like (related to smaller vascular development)
+ACTGATGTCAAGAAGT.2	Capillary endothelium
+ACTGATGTCCGTAGGC.2	Ventricular cardiomyocytes
+ACTGATGTCGTACGGC.2	Ventricular cardiomyocytes
+ACTGCTCAGAAACCAT.2	Capillary endothelium
+ACTGCTCCAGACAGGT.2	Ventricular cardiomyocytes
+ACTGCTCGTCCCTACT.2	Capillary endothelium
+ACTGCTCGTGCATCTA.2	Capillary endothelium
+ACTGCTCTCGGAAATA.2	Endothelium / pericytes / adventitia
+ACTGCTCTCGTAGGTT.2	Capillary endothelium
+ACTGCTCTCTATCCTA.2	Cardiac neural crest cells & Schwann progenitor cells
+ACTGTCCGTCAAGCGA.2	Fibroblast-like (related to smaller vascular development)
+ACTGTCCTCACCTCGT.2	Capillary endothelium
+ACTGTCCTCTTACCTA.2	Fibroblast-like (related to smaller vascular development)
+ACTTACTAGAAGCCCA.2	Ventricular cardiomyocytes
+ACTTACTCAGCTCGCA.2	Capillary endothelium
+ACTTACTGTGACAAAT.2	Ventricular cardiomyocytes
+ACTTACTTCCGTTGCT.2	Fibroblast-like (related to smaller vascular development)
+ACTTGTTCATACGCCG.2	Ventricular cardiomyocytes
+ACTTGTTTCAAACCAC.2	Ventricular cardiomyocytes
+ACTTGTTTCCACGTTC.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+ACTTTCAAGCAGCCTC.2	Epicardium-derived cells
+ACTTTCACAATAGCAA.2	Myoz2-enriched cardiomyocytes
+ACTTTCACACATGTGT.2	Fibroblast-like (related to larger vascular development)
+ACTTTCACAGCTGCTG.2	Fibroblast-like (related to smaller vascular development)
+ACTTTCAGTCGTTGTA.2	Ventricular cardiomyocytes
+ACTTTCATCGTAGGTT.2	Ventricular cardiomyocytes
+AGAATAGAGCGTCTAT.2	Capillary endothelium
+AGAATAGAGGACAGAA.2	Capillary endothelium
+AGAATAGGTCCTGCTT.2	Ventricular cardiomyocytes
+AGACGTTCAATCGAAA.2	Ventricular cardiomyocytes
+AGACGTTTCTTAGCCC.2	Ventricular cardiomyocytes
+AGAGCGAAGCCGCCTA.2	Capillary endothelium
+AGAGCGAAGGACGAAA.2	Fibroblast-like (related to smaller vascular development)
+AGAGCGATCGCTTAGA.2	Epicardium-derived cells
+AGAGCGATCGGATGGA.2	Capillary endothelium
+AGAGCTTAGCATGGCA.2	Endothelium / pericytes / adventitia
+AGAGCTTCACTTCGAA.2	Fibroblast-like (related to smaller vascular development)
+AGAGCTTGTATAGGGC.2	Ventricular cardiomyocytes
+AGAGCTTTCCGTAGGC.2	Fibroblast-like (related to smaller vascular development)
+AGAGCTTTCGCGATCG.2	Epicardium-derived cells
+AGAGTGGTCGTCTGAA.2	Capillary endothelium
+AGAGTGGTCTTTAGGG.2	Epicardium-derived cells
+AGATCTGAGGAGTAGA.2	Endothelium / pericytes / adventitia
+AGATCTGCATATGGTC.2	Fibroblast-like (related to smaller vascular development)
+AGATCTGTCCTTGACC.2	Cardiac neural crest cells & Schwann progenitor cells
+AGATTGCAGGGCTTGA.2	Ventricular cardiomyocytes
+AGATTGCCATCTCCCA.2	Capillary endothelium
+AGATTGCGTAAGTGGC.2	Myoz2-enriched cardiomyocytes
+AGATTGCTCGCAAGCC.2	Epicardium-derived cells
+AGCAGCCAGGTAAACT.2	Fibroblast-like (related to larger vascular development)
+AGCAGCCAGTTAACGA.2	Capillary endothelium
+AGCAGCCCAATTCCTT.2	Fibroblast-like (related to larger vascular development)
+AGCAGCCGTCCCGACA.2	Capillary endothelium
+AGCAGCCTCGCCAAAT.2	Fibroblast-like (related to smaller vascular development)
+AGCATACAGACAGACC.2	Ventricular cardiomyocytes
+AGCATACGTTGGACCC.2	Fibroblast-like (related to smaller vascular development)
+AGCCTAATCCCAGGTG.2	Fibroblast-like (related to smaller vascular development)
+AGCCTAATCGGAGCAA.2	Fibroblast-like (related to smaller vascular development)
+AGCCTAATCTCAAGTG.2	Endothelium / pericytes / adventitia
+AGCGGTCAGCCCAATT.2	Ventricular cardiomyocytes
+AGCGGTCAGCGATGAC.2	Capillary endothelium
+AGCGGTCAGGCTATCT.2	Fibroblast-like (related to larger vascular development)
+AGCGGTCCAAGCCGCT.2	Capillary endothelium
+AGCGGTCCACGGATAG.2	Capillary endothelium
+AGCGGTCGTACTTGAC.2	Capillary endothelium
+AGCGGTCTCTTGAGAC.2	Ventricular cardiomyocytes
+AGCGTATAGCACGCCT.2	Epicardium-derived cells
+AGCGTATGTCGGGTCT.2	Capillary endothelium
+AGCGTATTCGCATGAT.2	Cardiac neural crest cells & Schwann progenitor cells
+AGCGTATTCGGCCGAT.2	Epicardium-derived cells
+AGCGTATTCTAACTTC.2	Endothelium / pericytes / adventitia
+AGCGTCGTCCCTCTTT.2	Fibroblast-like (related to larger vascular development)
+AGCTCCTGTCTGATCA.2	Capillary endothelium
+AGCTCTCAGTTGAGTA.2	Fibroblast-like (related to larger vascular development)
+AGCTCTCCATGGGACA.2	Ventricular cardiomyocytes
+AGCTCTCGTGCCTGTG.2	Capillary endothelium
+AGCTTGAAGCTTATCG.2	Fibroblast-like (related to larger vascular development)
+AGCTTGATCAACTCTT.2	Epicardial cells
+AGGCCACGTCTAGAGG.2	Capillary endothelium
+AGGCCACTCCAAGCCG.2	Ventricular cardiomyocytes
+AGGCCGTGTCCTAGCG.2	Fibroblast-like (related to larger vascular development)
+AGGCCGTTCCCGGATG.2	Epicardium-derived cells
+AGGCCGTTCTCAAGTG.2	Endothelium / pericytes / adventitia
+AGGGAGTAGAAACGAG.2	Fibroblast-like (related to larger vascular development)
+AGGGAGTGTACAGTGG.2	Capillary endothelium
+AGGGAGTGTAGGGTAC.2	Ventricular cardiomyocytes
+AGGGAGTTCAATCTCT.2	Fibroblast-like (related to smaller vascular development)
+AGGGATGCAAACAACA.2	Ventricular cardiomyocytes
+AGGGATGCAACCGCCA.2	Epicardium-derived cells
+AGGGTGACATCGTCGG.2	Ventricular cardiomyocytes
+AGGGTGACATGCATGT.2	Capillary endothelium
+AGGGTGAGTTTAAGCC.2	Ventricular cardiomyocytes
+AGGTCCGAGGTGCTAG.2	Epicardium-derived cells
+AGGTCCGCAGGATTGG.2	Ventricular cardiomyocytes
+AGGTCCGCAGTTCATG.2	Ventricular cardiomyocytes
+AGGTCCGGTAAGGGAA.2	Ventricular cardiomyocytes
+AGGTCCGGTCCATCCT.2	Cardiac neural crest cells & Schwann progenitor cells
+AGTAGTCCAGCGTCCA.2	Fibroblast-like (related to smaller vascular development)
+AGTAGTCCATTTGCTT.2	Capillary endothelium
+AGTAGTCGTATTAGCC.2	Epicardium-derived cells
+AGTCTTTGTCTCGTTC.2	Epicardium-derived cells
+AGTCTTTTCGAGAGCA.2	Capillary endothelium
+AGTCTTTTCGGTTAAC.2	Capillary endothelium
+AGTGAGGCAATCAGAA.2	Capillary endothelium
+AGTGAGGTCTCTAAGG.2	Ventricular cardiomyocytes
+AGTGGGATCACCACCT.2	Fibroblast-like (related to smaller vascular development)
+AGTGGGATCAGCTCTC.2	Capillary endothelium
+AGTGTCAAGAAGGTTT.2	Capillary endothelium
+AGTGTCAAGGTGTGGT.2	Ventricular cardiomyocytes
+AGTGTCACACGAAATA.2	Capillary endothelium
+AGTGTCAGTGATAAGT.2	Ventricular cardiomyocytes
+AGTGTCAGTTAAGGGC.2	Ventricular cardiomyocytes
+AGTTGGTGTTACCAGT.2	Ventricular cardiomyocytes
+AGTTGGTTCTCGTTTA.2	Capillary endothelium
+ATAACGCAGCGTAGTG.2	Capillary endothelium
+ATAACGCCAGCGTAAG.2	Fibroblast-like (related to smaller vascular development)
+ATAACGCGTGTCCTCT.2	Ventricular cardiomyocytes
+ATAACGCTCTTAGAGC.2	Fibroblast-like (related to smaller vascular development)
+ATAAGAGAGAGCCTAG.2	Ventricular cardiomyocytes
+ATAAGAGAGCAGATCG.2	Ventricular cardiomyocytes
+ATAAGAGAGGAGTCTG.2	Ventricular cardiomyocytes
+ATAAGAGGTATAGGGC.2	Ventricular cardiomyocytes
+ATAAGAGGTCAGAGGT.2	Ventricular cardiomyocytes
+ATAGACCCATCACGTA.2	Ventricular cardiomyocytes
+ATAGACCTCATAAAGG.2	Cardiac neural crest cells & Schwann progenitor cells
+ATAGACCTCCACGACG.2	Capillary endothelium
+ATCACGATCAACGGCC.2	Epicardium-derived cells
+ATCATCTCATATGAGA.2	Capillary endothelium
+ATCATCTGTGTGGCTC.2	Epicardial cells
+ATCATCTTCCTTGCCA.2	Epicardium-derived cells
+ATCATGGAGAACTCGG.2	Ventricular cardiomyocytes
+ATCATGGGTAACGTTC.2	Fibroblast-like (related to smaller vascular development)
+ATCATGGTCAGCAACT.2	Epicardium-derived cells
+ATCCGAAAGTACGCGA.2	Ventricular cardiomyocytes
+ATCCGAATCGGATGGA.2	Atrial cardiomyocytes
+ATCGAGTCAAGCTGGA.2	Ventricular cardiomyocytes
+ATCGAGTGTCCCGACA.2	Myoz2-enriched cardiomyocytes
+ATCGAGTTCAGTCCCT.2	Fibroblast-like (related to larger vascular development)
+ATCGAGTTCGACAGCC.2	Epicardium-derived cells
+ATCTACTAGGTCATCT.2	Ventricular cardiomyocytes
+ATCTACTCAATGGAAT.2	Fibroblast-like (related to larger vascular development)
+ATCTACTGTGAAAGAG.2	Ventricular cardiomyocytes
+ATCTGCCAGGTGACCA.2	Fibroblast-like (related to smaller vascular development)
+ATCTGCCCAATGACCT.2	Fibroblast-like (related to larger vascular development)
+ATCTGCCCAGCTGTGC.2	Epicardial cells
+ATCTGCCTCAGTGTTG.2	Epicardium-derived cells
+ATCTGCCTCCAAGTAC.2	Fibroblast-like (related to larger vascular development)
+ATGAGGGAGGACAGCT.2	Fibroblast-like (related to smaller vascular development)
+ATGAGGGTCCCAAGTA.2	Ventricular cardiomyocytes
+ATGCGATGTCTTGTCC.2	Fibroblast-like (related to larger vascular development)
+ATGCGATTCTGACCTC.2	Fibroblast-like (related to larger vascular development)
+ATGGGAGAGCTCTCGG.2	Capillary endothelium
+ATGGGAGCACGAAAGC.2	Fibroblast-like (related to larger vascular development)
+ATGGGAGCAGCCTATA.2	Epicardium-derived cells
+ATGGGAGGTCAACTGT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+ATGGGAGGTGGTTTCA.2	Epicardium-derived cells
+ATGGGAGGTGTCTGAT.2	Fibroblast-like (related to smaller vascular development)
+ATGTGTGCAGTCCTTC.2	Ventricular cardiomyocytes
+ATGTGTGGTAACGACG.2	Ventricular cardiomyocytes
+ATGTGTGGTCGCGTGT.2	Fibroblast-like (related to larger vascular development)
+ATGTGTGGTTTCGCTC.2	Epicardium-derived cells
+ATGTGTGTCGAGCCCA.2	Capillary endothelium
+ATTACTCAGCGTGAAC.2	Capillary endothelium
+ATTACTCAGCTAACTC.2	Ventricular cardiomyocytes
+ATTACTCGTAAATACG.2	Fibroblast-like (related to smaller vascular development)
+ATTATCCCACGGCGTT.2	Capillary endothelium
+ATTCTACGTCTCTTTA.2	Capillary endothelium
+ATTCTACTCGGAAACG.2	Epicardium-derived cells
+ATTGGACCACTTGGAT.2	Fibroblast-like (related to smaller vascular development)
+ATTGGACGTGAAGGCT.2	Ventricular cardiomyocytes
+ATTGGACGTGATAAGT.2	Capillary endothelium
+ATTGGACGTTATGTGC.2	Capillary endothelium
+ATTGGACGTTGAGTTC.2	Fibroblast-like (related to larger vascular development)
+ATTGGTGAGGCAGTCA.2	Endothelium / pericytes / adventitia
+ATTTCTGCAAGTTCTG.2	Capillary endothelium
+ATTTCTGGTCGTGGCT.2	Ventricular cardiomyocytes
+ATTTCTGTCAGGCCCA.2	Fibroblast-like (related to smaller vascular development)
+CAACCAAGTGTCAATC.2	Ventricular cardiomyocytes
+CAACCAATCAATCTCT.2	Fibroblast-like (related to larger vascular development)
+CAACCTCAGACTAAGT.2	Ventricular cardiomyocytes
+CAACCTCAGTGACTCT.2	Ventricular cardiomyocytes
+CAACCTCCAGTAACGG.2	Ventricular cardiomyocytes
+CAACCTCGTCGACTAT.2	Fibroblast-like (related to smaller vascular development)
+CAACCTCTCTCTAAGG.2	Epicardium-derived cells
+CAACCTCTCTGCTTGC.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CAACTAGTCGCTTGTC.2	Capillary endothelium
+CAAGAAAAGGCTATCT.2	Fibroblast-like (related to smaller vascular development)
+CAAGAAACACCTCGGA.2	Ventricular cardiomyocytes
+CAAGAAATCAGGTTCA.2	Epicardium-derived cells
+CAAGATCTCGTAGGTT.2	Myoz2-enriched cardiomyocytes
+CAAGGCCTCTACCTGC.2	Fibroblast-like (related to larger vascular development)
+CAAGTTGGTTCATGGT.2	Ventricular cardiomyocytes
+CAAGTTGTCAGTGTTG.2	Capillary endothelium
+CAAGTTGTCCCGACTT.2	Ventricular cardiomyocytes
+CAAGTTGTCGCTAGCG.2	Fibroblast-like (related to smaller vascular development)
+CACAAACGTATAGTAG.2	Epicardium-derived cells
+CACAAACGTTTGTTTC.2	Capillary endothelium
+CACAAACTCGCCTGTT.2	Ventricular cardiomyocytes
+CACACAACAAACTGTC.2	Capillary endothelium
+CACACAACACACAGAG.2	Capillary endothelium
+CACACAACACAGCCCA.2	Capillary endothelium
+CACACAACACTTCTGC.2	Fibroblast-like (related to larger vascular development)
+CACACAACATAAAGGT.2	Fibroblast-like (related to larger vascular development)
+CACACAATCCTAAGTG.2	Ventricular cardiomyocytes
+CACACAATCTAACCGA.2	Fibroblast-like (related to larger vascular development)
+CACACCTCAATAGCAA.2	Capillary endothelium
+CACACCTCACCAGCAC.2	Ventricular cardiomyocytes
+CACACCTCATGCCTAA.2	Capillary endothelium
+CACACCTTCACGGTTA.2	Capillary endothelium
+CACACTCAGCTGCCCA.2	Capillary endothelium
+CACACTCGTACATGTC.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CACACTCTCTCGGACG.2	Endothelium / pericytes / adventitia
+CACAGGCAGCGTTCCG.2	Fibroblast-like (related to larger vascular development)
+CACAGGCGTAGTGAAT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CACAGGCGTCATGCAT.2	Endothelium / pericytes / adventitia
+CACAGGCGTGTGGTTT.2	Fibroblast-like (related to smaller vascular development)
+CACAGGCTCGGATGTT.2	Ventricular cardiomyocytes
+CACAGTAGTCAGCTAT.2	Ventricular cardiomyocytes
+CACAGTAGTTATTCTC.2	Capillary endothelium
+CACAGTAGTTGTTTGG.2	Epicardium-derived cells
+CACAGTATCTGGCGAC.2	Fibroblast-like (related to smaller vascular development)
+CACATAGAGCCAGAAC.2	Capillary endothelium
+CACATAGCACGGTGTC.2	Fibroblast-like (related to smaller vascular development)
+CACATAGGTAGCAAAT.2	Ventricular cardiomyocytes
+CACATAGGTATGGTTC.2	Fibroblast-like (related to larger vascular development)
+CACATTTCACTCAGGC.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CACATTTCATCGGGTC.2	Capillary endothelium
+CACATTTGTACGAAAT.2	Fibroblast-like (related to smaller vascular development)
+CACCACTAGAGTGAGA.2	Ventricular cardiomyocytes
+CACCACTCAAGGACTG.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CACCACTGTAATCGTC.2	Epicardium-derived cells
+CACCACTGTCTAGTCA.2	Cardiac neural crest cells & Schwann progenitor cells
+CACCACTGTTAGAACA.2	Fibroblast-like (related to smaller vascular development)
+CACCACTTCACCCTCA.2	Epicardial cells
+CACCACTTCTTACCGC.2	Fibroblast-like (related to smaller vascular development)
+CACCAGGCACAGGTTT.2	Epicardium-derived cells
+CACCAGGGTAGGGACT.2	Ventricular cardiomyocytes
+CACCAGGGTATGCTTG.2	Ventricular cardiomyocytes
+CACCAGGTCAACGAAA.2	Capillary endothelium
+CACCTTGCATATGCTG.2	Capillary endothelium
+CACCTTGCATCCCACT.2	Endothelium / pericytes / adventitia
+CACCTTGGTCAAAGAT.2	Capillary endothelium
+CACCTTGGTGAGTATA.2	Fibroblast-like (related to smaller vascular development)
+CACTCCAGTTCCACTC.2	Capillary endothelium
+CACTCCATCACCTCGT.2	Fibroblast-like (related to smaller vascular development)
+CAGAATCAGGATGTAT.2	Ventricular cardiomyocytes
+CAGAATCCAAGTCATC.2	Ventricular cardiomyocytes
+CAGAATCTCGGACAAG.2	Fibroblast-like (related to smaller vascular development)
+CAGAGAGGTCTCTTAT.2	Epicardium-derived cells
+CAGAGAGGTGTATGGG.2	Ventricular cardiomyocytes
+CAGATCAAGGCGATAC.2	Ventricular cardiomyocytes
+CAGATCACACTTAACG.2	Endothelium / pericytes / adventitia
+CAGATCAGTCGAATCT.2	Ventricular cardiomyocytes
+CAGATCATCACGATGT.2	Endothelium / pericytes / adventitia
+CAGATCATCTGCTTGC.2	Fibroblast-like (related to smaller vascular development)
+CAGCAGCAGGCTAGCA.2	Fibroblast-like (related to smaller vascular development)
+CAGCAGCGTAAGGGAA.2	Ventricular cardiomyocytes
+CAGCAGCGTAGGAGTC.2	Capillary endothelium
+CAGCAGCGTCAGAATA.2	Capillary endothelium
+CAGCAGCGTCTAGGTT.2	Epicardium-derived cells
+CAGCAGCTCTTCATGT.2	Ventricular cardiomyocytes
+CAGCATAAGGTGCTTT.2	Capillary endothelium
+CAGCATAAGTGCCATT.2	Epicardium-derived cells
+CAGCATAGTCCATCCT.2	Fibroblast-like (related to smaller vascular development)
+CAGCCGAAGGACTGGT.2	Endothelium / pericytes / adventitia
+CAGCCGATCGCCCTTA.2	Fibroblast-like (related to smaller vascular development)
+CAGCCGATCGGAATCT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CAGCGACAGAGTCGGT.2	Capillary endothelium
+CAGCGACCAAGCGATG.2	Capillary endothelium
+CAGCGACCAGTATCTG.2	Capillary endothelium
+CAGCGACGTTCGTGAT.2	Capillary endothelium
+CAGCGACGTTCTGTTT.2	Ventricular cardiomyocytes
+CAGCTAAAGAGTGAGA.2	Fibroblast-like (related to larger vascular development)
+CAGCTAACAGCTTAAC.2	Epicardium-derived cells
+CAGCTAAGTCTTCAAG.2	Ventricular cardiomyocytes
+CAGCTAATCGCAAACT.2	Epicardium-derived cells
+CAGCTAATCTTTAGTC.2	Fibroblast-like (related to smaller vascular development)
+CAGCTGGAGTGAAGTT.2	Capillary endothelium
+CAGCTGGCACAACGTT.2	Ventricular cardiomyocytes
+CAGCTGGGTCACACGC.2	Ventricular cardiomyocytes
+CAGCTGGGTTAGGGTG.2	Capillary endothelium
+CAGGTGCCACCCAGTG.2	Capillary endothelium
+CAGGTGCGTTTGTTTC.2	Epicardium-derived cells
+CAGTAACCACGGCGTT.2	Capillary endothelium
+CAGTAACCATGAACCT.2	Fibroblast-like (related to smaller vascular development)
+CAGTAACGTCCGCTGA.2	Capillary endothelium
+CAGTAACTCATGTCTT.2	Ventricular cardiomyocytes
+CAGTAACTCGTAGGAG.2	Capillary endothelium
+CAGTCCTCAGAGCCAA.2	Ventricular cardiomyocytes
+CAGTCCTGTCCGAAGA.2	Capillary endothelium
+CAGTCCTTCGTAGGTT.2	Epicardial cells
+CATATGGAGTAGGCCA.2	Fibroblast-like (related to smaller vascular development)
+CATATGGCAATTGCTG.2	Fibroblast-like (related to smaller vascular development)
+CATATGGCACAGGAGT.2	Fibroblast-like (related to smaller vascular development)
+CATATGGGTTCGAATC.2	Epicardium-derived cells
+CATATTCAGCATGGCA.2	Epicardium-derived cells
+CATATTCAGGGTGTGT.2	Endothelium / pericytes / adventitia
+CATATTCCAAATCCGT.2	Fibroblast-like (related to larger vascular development)
+CATATTCCAACTGCTA.2	Capillary endothelium
+CATCAAGAGTTATCGC.2	Fibroblast-like (related to larger vascular development)
+CATCAAGCAGTAAGAT.2	Myoz2-enriched cardiomyocytes
+CATCAAGGTCGCCATG.2	Ventricular cardiomyocytes
+CATCAAGTCATGGTCA.2	Capillary endothelium
+CATCAGACAAGGACTG.2	Fibroblast-like (related to larger vascular development)
+CATCAGATCATTATCC.2	Myoz2-enriched cardiomyocytes
+CATCCACCACTCAGGC.2	Fibroblast-like (related to larger vascular development)
+CATCCACCATCAGTAC.2	Fibroblast-like (related to smaller vascular development)
+CATCCACCATCTGGTA.2	Ventricular cardiomyocytes
+CATCCACTCCCGACTT.2	Ventricular cardiomyocytes
+CATCCACTCCGCATAA.2	Fibroblast-like (related to smaller vascular development)
+CATCGAAAGGCCGAAT.2	Capillary endothelium
+CATCGAACACCAGGCT.2	Fibroblast-like (related to smaller vascular development)
+CATCGAAGTATTAGCC.2	Ventricular cardiomyocytes
+CATCGAAGTTCGTTGA.2	Epicardial cells
+CATCGGGAGAATGTTG.2	Capillary endothelium
+CATCGGGTCCAAATGC.2	Epicardium-derived cells
+CATCGGGTCTTGTCAT.2	Fibroblast-like (related to smaller vascular development)
+CATGCCTAGGAGCGTT.2	Capillary endothelium
+CATGCCTTCCCTCAGT.2	Fibroblast-like (related to smaller vascular development)
+CATGGCGAGGTTACCT.2	Fibroblast-like (related to smaller vascular development)
+CATGGCGCAGTCAGAG.2	Capillary endothelium
+CATGGCGCATGTTCCC.2	Endothelium / pericytes / adventitia
+CATTATCAGGATGGTC.2	Capillary endothelium
+CATTATCCACAGGCCT.2	Fibroblast-like (related to larger vascular development)
+CATTCGCTCCGAAGAG.2	Capillary endothelium
+CCAATCCAGTTTCCTT.2	Capillary endothelium
+CCAATCCCACTGTTAG.2	Epicardial cells
+CCAATCCTCACTTACT.2	Ventricular cardiomyocytes
+CCAATCCTCTTGTACT.2	Capillary endothelium
+CCACGGAGTCGAGTTT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCACTACAGAGGTTGC.2	Cardiac neural crest cells & Schwann progenitor cells
+CCACTACAGCCCAACC.2	Capillary endothelium
+CCACTACCAATCGGTT.2	Epicardium-derived cells
+CCACTACGTACCGTAT.2	Fibroblast-like (related to larger vascular development)
+CCACTACGTACGCACC.2	Ventricular cardiomyocytes
+CCACTACTCAAAGACA.2	Fibroblast-like (related to smaller vascular development)
+CCAGCGACAGATGAGC.2	Epicardium-derived cells
+CCATGTCAGTACGTAA.2	Atrial cardiomyocytes
+CCATGTCCACGGCCAT.2	Ventricular cardiomyocytes
+CCATGTCCAGCCTTTC.2	Ventricular cardiomyocytes
+CCATGTCCATCGGAAG.2	Epicardium-derived cells
+CCATGTCGTTACGTCA.2	Ventricular cardiomyocytes
+CCATTCGTCGCCATAA.2	Cardiac neural crest cells & Schwann progenitor cells
+CCCAATCGTCCGACGT.2	Capillary endothelium
+CCCAATCGTTACGACT.2	Fibroblast-like (related to larger vascular development)
+CCCAATCTCAGCTCGG.2	Capillary endothelium
+CCCAGTTAGGAGTACC.2	Endothelium / pericytes / adventitia
+CCCAGTTAGTCCGGTC.2	Fibroblast-like (related to smaller vascular development)
+CCCAGTTCATAGTAAG.2	Epicardium-derived cells
+CCCAGTTTCTTGTCAT.2	Ventricular cardiomyocytes
+CCCATACAGGACACCA.2	Ventricular cardiomyocytes
+CCCATACCACACATGT.2	Capillary endothelium
+CCCATACCACGAAAGC.2	Capillary endothelium
+CCCATACCAGCTCGAC.2	Capillary endothelium
+CCCATACTCGTGGACC.2	Fibroblast-like (related to larger vascular development)
+CCGGGATGTAGCGCTC.2	Epicardium-derived cells
+CCGGGATGTGGCGAAT.2	Myoz2-enriched cardiomyocytes
+CCGGTAGAGCGCCTCA.2	Capillary endothelium
+CCGGTAGAGGACACCA.2	Fibroblast-like (related to smaller vascular development)
+CCGGTAGAGTTGCAGG.2	Myoz2-enriched cardiomyocytes
+CCGGTAGCACTTAAGC.2	Ventricular cardiomyocytes
+CCGGTAGCAGACAAGC.2	Ventricular cardiomyocytes
+CCGGTAGGTTCCGTCT.2	Fibroblast-like (related to larger vascular development)
+CCGGTAGTCCGCATAA.2	Fibroblast-like (related to smaller vascular development)
+CCGTACTTCCAGTAGT.2	Ventricular cardiomyocytes
+CCGTGGAAGGCACATG.2	Ventricular cardiomyocytes
+CCGTGGAGTGTGTGCC.2	Fibroblast-like (related to larger vascular development)
+CCGTGGATCGAGAGCA.2	Myoz2-enriched cardiomyocytes
+CCGTGGATCTTCAACT.2	Fibroblast-like (related to smaller vascular development)
+CCGTTCAAGCTGCCCA.2	Ventricular cardiomyocytes
+CCGTTCACACCAACCG.2	Capillary endothelium
+CCGTTCACACGGATAG.2	Capillary endothelium
+CCGTTCACATGTAAGA.2	Ventricular cardiomyocytes
+CCGTTCATCATCGGAT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCGTTCATCGGAGCAA.2	Endothelium / pericytes / adventitia
+CCTAAAGAGAAGGGTA.2	Capillary endothelium
+CCTAAAGGTGAGTATA.2	Capillary endothelium
+CCTAAAGTCGTAGGAG.2	Ventricular cardiomyocytes
+CCTAAAGTCGTGACAT.2	Ventricular cardiomyocytes
+CCTACACAGTGGAGAA.2	Capillary endothelium
+CCTACACCAATTCCTT.2	Myoz2-enriched cardiomyocytes
+CCTACACCATCAGTAC.2	Myoz2-enriched cardiomyocytes
+CCTACACGTGACTCAT.2	Myoz2-enriched cardiomyocytes
+CCTACCAAGGAGTACC.2	Ventricular cardiomyocytes
+CCTACCACACAACGCC.2	Fibroblast-like (related to smaller vascular development)
+CCTACCACACACGCTG.2	Cardiac neural crest cells & Schwann progenitor cells
+CCTACCACACCAGCAC.2	Capillary endothelium
+CCTACCACAGATCCAT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CCTACCACATCGGAAG.2	Ventricular cardiomyocytes
+CCTACCAGTCATTAGC.2	Ventricular cardiomyocytes
+CCTACCAGTCTGCAAT.2	Epicardium-derived cells
+CCTAGCTAGCCACGTC.2	Capillary endothelium
+CCTAGCTCACATTAGC.2	Fibroblast-like (related to smaller vascular development)
+CCTAGCTGTCGACTGC.2	Fibroblast-like (related to smaller vascular development)
+CCTAGCTGTGTTTGGT.2	Ventricular cardiomyocytes
+CCTAGCTGTTCTGTTT.2	Capillary endothelium
+CCTATTAGTCATACTG.2	Ventricular cardiomyocytes
+CCTATTAGTCTCCCTA.2	Ventricular cardiomyocytes
+CCTATTATCACCGTAA.2	Capillary endothelium
+CCTATTATCTGGTGTA.2	Fibroblast-like (related to smaller vascular development)
+CCTCAGTAGCTAGCCC.2	Epicardium-derived cells
+CCTCAGTAGTCTTGCA.2	Capillary endothelium
+CCTCAGTGTAAGAGGA.2	Fibroblast-like (related to smaller vascular development)
+CCTCAGTGTCATTAGC.2	Fibroblast-like (related to larger vascular development)
+CCTCAGTTCCATGAAC.2	Cardiac neural crest cells & Schwann progenitor cells
+CCTCAGTTCGAATGCT.2	Fibroblast-like (related to smaller vascular development)
+CCTCTGAAGACGACGT.2	Ventricular cardiomyocytes
+CCTCTGAAGGACAGCT.2	Epicardial cells
+CCTCTGACAACGATCT.2	Capillary endothelium
+CCTTACGAGAAGGTGA.2	Epicardium-derived cells
+CCTTACGAGGAATGGA.2	Ventricular cardiomyocytes
+CCTTACGCAAGCCGTC.2	Capillary endothelium
+CCTTACGGTCAATACC.2	Fibroblast-like (related to smaller vascular development)
+CCTTACGGTCTAAAGA.2	Endothelium / pericytes / adventitia
+CCTTACGGTTACGGAG.2	Fibroblast-like (related to smaller vascular development)
+CCTTCCCCATCAGTAC.2	Epicardium-derived cells
+CCTTCCCTCACCATAG.2	Fibroblast-like (related to smaller vascular development)
+CCTTCGACATCACGTA.2	Ventricular cardiomyocytes
+CCTTCGACATGCGCAC.2	Fibroblast-like (related to smaller vascular development)
+CCTTCGAGTACGAAAT.2	Capillary endothelium
+CCTTTCTAGACAATAC.2	Capillary endothelium
+CCTTTCTAGGAATCGC.2	Fibroblast-like (related to smaller vascular development)
+CCTTTCTGTTCGTGAT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGAACATCATCGATGT.2	Epicardium-derived cells
+CGAACATGTTGATTGC.2	Fibroblast-like (related to larger vascular development)
+CGAACATTCGTACGGC.2	Myoz2-enriched cardiomyocytes
+CGAATGTGTGAGGCTA.2	Fibroblast-like (related to smaller vascular development)
+CGAATGTTCCGAGCCA.2	Ventricular cardiomyocytes
+CGACCTTAGCCACGCT.2	Ventricular cardiomyocytes
+CGACCTTCAGGGATTG.2	Fibroblast-like (related to smaller vascular development)
+CGACCTTCATTAGGCT.2	Fibroblast-like (related to smaller vascular development)
+CGACCTTTCCGCGGTA.2	Fibroblast-like (related to smaller vascular development)
+CGACTTCCAGATGGCA.2	Epicardial cells
+CGACTTCCATACCATG.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGACTTCCATTCTCAT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGAGAAGAGTACGCCC.2	Epicardium-derived cells
+CGAGAAGGTGATAAGT.2	Capillary endothelium
+CGAGCACCAGGACCCT.2	Capillary endothelium
+CGAGCACTCCACGCAG.2	Ventricular cardiomyocytes
+CGAGCACTCGATAGAA.2	Epicardium-derived cells
+CGAGCACTCTGTTTGT.2	Ventricular cardiomyocytes
+CGAGCCAAGACAATAC.2	Ventricular cardiomyocytes
+CGAGCCAAGATAGCAT.2	Capillary endothelium
+CGAGCCACACGAGGTA.2	Capillary endothelium
+CGATCGGAGTAGTGCG.2	Capillary endothelium
+CGATCGGAGTTTAGGA.2	Fibroblast-like (related to smaller vascular development)
+CGATCGGGTAAACCTC.2	Capillary endothelium
+CGATCGGGTATATGAG.2	Fibroblast-like (related to smaller vascular development)
+CGATCGGGTCTCTCTG.2	Endothelium / pericytes / adventitia
+CGATGGCCAAATACAG.2	Ventricular cardiomyocytes
+CGATGGCTCCGCATCT.2	Capillary endothelium
+CGATGGCTCTTGCCGT.2	Cardiac neural crest cells & Schwann progenitor cells
+CGATGTAAGATGCCTT.2	Ventricular cardiomyocytes
+CGATGTACACGACGAA.2	Fibroblast-like (related to smaller vascular development)
+CGATGTACAGTTCCCT.2	Capillary endothelium
+CGATGTACATCGGAAG.2	Capillary endothelium
+CGATGTACATTCCTGC.2	Ventricular cardiomyocytes
+CGATGTATCTACTCAT.2	Epicardium-derived cells
+CGATTGACAATCTGCA.2	Fibroblast-like (related to smaller vascular development)
+CGATTGACAGAGCCAA.2	Ventricular cardiomyocytes
+CGATTGAGTGGTCCGT.2	Ventricular cardiomyocytes
+CGCCAAGCACGACGAA.2	Fibroblast-like (related to smaller vascular development)
+CGCCAAGCATCGATGT.2	Endothelium / pericytes / adventitia
+CGCGGTAAGCAGCCTC.2	Capillary endothelium
+CGCGGTAAGCTGAACG.2	Capillary endothelium
+CGCGGTAGTCTCCATC.2	Fibroblast-like (related to larger vascular development)
+CGCGGTAGTTCGGCAC.2	Epicardial cells
+CGCGGTATCTTAACCT.2	Capillary endothelium
+CGCGTTTAGACAGACC.2	Ventricular cardiomyocytes
+CGCGTTTGTGATGTGG.2	Epicardium-derived cells
+CGCGTTTTCAACACCA.2	Fibroblast-like (related to smaller vascular development)
+CGCGTTTTCGTGGACC.2	Epicardium-derived cells
+CGCTATCAGATTACCC.2	Capillary endothelium
+CGCTGGAAGAAACGAG.2	Fibroblast-like (related to smaller vascular development)
+CGCTGGACAACACCTA.2	Capillary endothelium
+CGCTGGATCCCTTGTG.2	Capillary endothelium
+CGCTTCACAATCGAAA.2	Myoz2-enriched cardiomyocytes
+CGCTTCACATCCTTGC.2	Ventricular cardiomyocytes
+CGCTTCAGTAGCGCTC.2	Fibroblast-like (related to smaller vascular development)
+CGCTTCATCCCGACTT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGCTTCATCCTTTACA.2	Epicardium-derived cells
+CGGACACAGCAGCCTC.2	Epicardial cells
+CGGACACGTGCAACGA.2	Epicardium-derived cells
+CGGACGTAGTGGTCCC.2	Ventricular cardiomyocytes
+CGGACGTCACGACGAA.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGGACGTCATCGACGC.2	Ventricular cardiomyocytes
+CGGACGTGTGCACTTA.2	Capillary endothelium
+CGGACTGGTCATATCG.2	Capillary endothelium
+CGGACTGGTCTAGTCA.2	Ventricular cardiomyocytes
+CGGACTGGTGAGTATA.2	Fibroblast-like (related to larger vascular development)
+CGGACTGGTGTTCTTT.2	Capillary endothelium
+CGGACTGTCTATCGCC.2	Atrial cardiomyocytes
+CGGAGCTAGCGTGAGT.2	Capillary endothelium
+CGGAGCTGTAATAGCA.2	Capillary endothelium
+CGGAGCTGTTCGCGAC.2	Ventricular cardiomyocytes
+CGGAGCTTCCCTTGCA.2	Myoz2-enriched cardiomyocytes
+CGGAGCTTCTCCGGTT.2	Capillary endothelium
+CGGAGTCAGATGGGTC.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGGAGTCAGCGAGAAA.2	Fibroblast-like (related to smaller vascular development)
+CGGAGTCAGGACAGCT.2	Fibroblast-like (related to smaller vascular development)
+CGGAGTCCATTCCTGC.2	Capillary endothelium
+CGGAGTCGTATTAGCC.2	Capillary endothelium
+CGGCTAGCAGATAATG.2	Epicardial cells
+CGGCTAGTCGCCGTGA.2	Ventricular cardiomyocytes
+CGGGTCACACCAGGCT.2	Ventricular cardiomyocytes
+CGGGTCATCGAATCCA.2	Fibroblast-like (related to larger vascular development)
+CGGGTCATCTTCAACT.2	Ventricular cardiomyocytes
+CGGTTAAAGTGGTCCC.2	Fibroblast-like (related to smaller vascular development)
+CGGTTAACATCGGAAG.2	Capillary endothelium
+CGGTTAATCAAGGTAA.2	Ventricular cardiomyocytes
+CGGTTAATCTGCCAGG.2	Fibroblast-like (related to smaller vascular development)
+CGTAGCGAGAGGTACC.2	Capillary endothelium
+CGTAGCGAGCACCGCT.2	Ventricular cardiomyocytes
+CGTAGCGCATACAGCT.2	Epicardial cells
+CGTAGCGTCACTCTTA.2	Ventricular cardiomyocytes
+CGTAGCGTCTGCTGTC.2	Ventricular cardiomyocytes
+CGTAGCGTCTGGTATG.2	Ventricular cardiomyocytes
+CGTAGGCGTCGACTGC.2	Ventricular cardiomyocytes
+CGTAGGCGTCTTCAAG.2	Epicardium-derived cells
+CGTAGGCGTCTTGCGG.2	Epicardium-derived cells
+CGTCACTCAGATCTGT.2	Cardiac neural crest cells & Schwann progenitor cells
+CGTCAGGAGTGCTGCC.2	Fibroblast-like (related to smaller vascular development)
+CGTCAGGCAAGCCTAT.2	Fibroblast-like (related to smaller vascular development)
+CGTCAGGCAATCCGAT.2	Capillary endothelium
+CGTCAGGGTAAGTGGC.2	Fibroblast-like (related to smaller vascular development)
+CGTCAGGTCGGCGCAT.2	Capillary endothelium
+CGTCAGGTCGGCTACG.2	Capillary endothelium
+CGTCCATAGACTTGAA.2	Fibroblast-like (related to smaller vascular development)
+CGTCCATAGCGCTCCA.2	Fibroblast-like (related to larger vascular development)
+CGTCCATTCGGAATCT.2	Capillary endothelium
+CGTCCATTCTCGGACG.2	Capillary endothelium
+CGTCTACCACGCATCG.2	Ventricular cardiomyocytes
+CGTCTACCACTATCTT.2	Fibroblast-like (related to smaller vascular development)
+CGTCTACCACTCGACG.2	Fibroblast-like (related to larger vascular development)
+CGTCTACTCACCGTAA.2	Fibroblast-like (related to smaller vascular development)
+CGTCTACTCTAACTGG.2	Ventricular cardiomyocytes
+CGTGAGCAGATGTTAG.2	Ventricular cardiomyocytes
+CGTGAGCCACGGCCAT.2	Ventricular cardiomyocytes
+CGTGAGCGTCCATCCT.2	Ventricular cardiomyocytes
+CGTGTAAAGACATAAC.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CGTGTAAAGCGTGAGT.2	Fibroblast-like (related to smaller vascular development)
+CGTGTAAAGTGTCTCA.2	Ventricular cardiomyocytes
+CGTGTAATCATCATTC.2	Fibroblast-like (related to smaller vascular development)
+CGTGTAATCCAGTAGT.2	Fibroblast-like (related to larger vascular development)
+CGTGTCTTCTGAGTGT.2	Fibroblast-like (related to larger vascular development)
+CGTTCTGAGCTGATAA.2	Endothelium / pericytes / adventitia
+CGTTCTGCACCATGTA.2	Fibroblast-like (related to smaller vascular development)
+CGTTCTGGTTGTCTTT.2	Fibroblast-like (related to larger vascular development)
+CGTTCTGTCCAGAAGG.2	Ventricular cardiomyocytes
+CGTTCTGTCCCTTGCA.2	Ventricular cardiomyocytes
+CGTTGGGAGATGTTAG.2	Ventricular cardiomyocytes
+CGTTGGGCACCTTGTC.2	Myoz2-enriched cardiomyocytes
+CGTTGGGTCTTATCTG.2	Ventricular cardiomyocytes
+CTAACTTGTCACCCAG.2	Capillary endothelium
+CTAACTTTCTAACCGA.2	Fibroblast-like (related to smaller vascular development)
+CTAAGACCAGATCGGA.2	Capillary endothelium
+CTAAGACCATGGTCAT.2	Fibroblast-like (related to smaller vascular development)
+CTAATGGCAGTCGTGC.2	Ventricular cardiomyocytes
+CTAATGGCATAAGACA.2	Capillary endothelium
+CTAATGGGTACCGCTG.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTAATGGGTCCGAACC.2	Epicardium-derived cells
+CTACACCCACGTAAGG.2	Ventricular cardiomyocytes
+CTACACCCAGCCACCA.2	Epicardium-derived cells
+CTACACCTCTCTTATG.2	Ventricular cardiomyocytes
+CTACACCTCTGCTGTC.2	Capillary endothelium
+CTACATTTCACCCTCA.2	Fibroblast-like (related to smaller vascular development)
+CTACATTTCGTTGACA.2	Ventricular cardiomyocytes
+CTACCCAGTACGAAAT.2	Capillary endothelium
+CTACCCAGTGTCAATC.2	Ventricular cardiomyocytes
+CTACCCATCCCAACGG.2	Capillary endothelium
+CTACCCATCTTGTATC.2	Epicardium-derived cells
+CTACGTCAGACAGGCT.2	Fibroblast-like (related to larger vascular development)
+CTACGTCAGTGGTAAT.2	Epicardium-derived cells
+CTACGTCCAATGGACG.2	Ventricular cardiomyocytes
+CTACGTCCACAGACAG.2	Fibroblast-like (related to larger vascular development)
+CTACGTCCATCACCCT.2	Ventricular cardiomyocytes
+CTACGTCGTATCTGCA.2	Epicardial cells
+CTACGTCGTGACCAAG.2	Ventricular cardiomyocytes
+CTACGTCTCTCTAAGG.2	Epicardium-derived cells
+CTAGAGTGTCAACTGT.2	Capillary endothelium
+CTAGAGTTCCAGATCA.2	Fibroblast-like (related to larger vascular development)
+CTAGCCTGTATTCTCT.2	Capillary endothelium
+CTAGCCTTCGAATGCT.2	Epicardium-derived cells
+CTAGCCTTCTGTTTGT.2	Capillary endothelium
+CTAGTGAAGCCACGCT.2	Ventricular cardiomyocytes
+CTAGTGAAGTGTTAGA.2	Epicardium-derived cells
+CTAGTGACACTAGTAC.2	Epicardium-derived cells
+CTAGTGAGTAGCGCTC.2	Epicardium-derived cells
+CTAGTGATCATCACCC.2	Ventricular cardiomyocytes
+CTCACACTCCAGAGGA.2	Fibroblast-like (related to smaller vascular development)
+CTCAGAAAGTGCGATG.2	Capillary endothelium
+CTCAGAACAGATCTGT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTCAGAATCTATGTGG.2	Fibroblast-like (related to larger vascular development)
+CTCATTAAGTAAGTAC.2	Cardiac neural crest cells & Schwann progenitor cells
+CTCATTACAACACCTA.2	Fibroblast-like (related to smaller vascular development)
+CTCATTAGTGTGCGTC.2	Epicardium-derived cells
+CTCCTAGCACCAGATT.2	Capillary endothelium
+CTCGAAAAGAGACGAA.2	Capillary endothelium
+CTCGAAACACTTACGA.2	Capillary endothelium
+CTCGAAACATAGTAAG.2	Capillary endothelium
+CTCGAGGAGCTATGCT.2	Fibroblast-like (related to smaller vascular development)
+CTCGAGGCACGGCGTT.2	Fibroblast-like (related to smaller vascular development)
+CTCGAGGGTAGCGTCC.2	Epicardium-derived cells
+CTCGAGGGTCTCGTTC.2	Ventricular cardiomyocytes
+CTCGGAGAGTCGTACT.2	Epicardium-derived cells
+CTCGGGAAGGTGTGGT.2	Capillary endothelium
+CTCGGGACATAGTAAG.2	Epicardium-derived cells
+CTCGGGATCAACACCA.2	Capillary endothelium
+CTCGGGATCACATACG.2	Ventricular cardiomyocytes
+CTCGTACAGCAACGGT.2	Capillary endothelium
+CTCGTACTCTTCAACT.2	Ventricular cardiomyocytes
+CTCGTCACAATGGATA.2	Epicardium-derived cells
+CTCGTCACACGGTAGA.2	Ventricular cardiomyocytes
+CTCTAATAGCTCCTCT.2	Epicardium-derived cells
+CTCTACGGTCTAACGT.2	Ventricular cardiomyocytes
+CTCTACGTCAAGAAGT.2	Capillary endothelium
+CTCTGGTCAACGATGG.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTCTGGTGTACCTACA.2	Capillary endothelium
+CTCTGGTTCGCTTGTC.2	Ventricular cardiomyocytes
+CTGAAACAGCACCGCT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTGAAACAGCCAGGAT.2	Epicardium-derived cells
+CTGAAACAGGCGTACA.2	Atrial cardiomyocytes
+CTGAAACCAAAGTGCG.2	Capillary endothelium
+CTGAAACCATGAGCGA.2	Fibroblast-like (related to smaller vascular development)
+CTGAAACTCGATGAGG.2	Capillary endothelium
+CTGAAGTAGTACATGA.2	Ventricular cardiomyocytes
+CTGAAGTCAGCGTTCG.2	Fibroblast-like (related to smaller vascular development)
+CTGAAGTGTTCCTCCA.2	Ventricular cardiomyocytes
+CTGAAGTTCCATGCTC.2	Fibroblast-like (related to smaller vascular development)
+CTGAAGTTCCTGCTTG.2	Capillary endothelium
+CTGATAGAGACGCAAC.2	Capillary endothelium
+CTGATAGAGATGTCGG.2	Capillary endothelium
+CTGATAGGTATAATGG.2	Fibroblast-like (related to smaller vascular development)
+CTGATAGTCTTACCTA.2	Epicardium-derived cells
+CTGATCCAGTGAACGC.2	Fibroblast-like (related to smaller vascular development)
+CTGATCCCACAGAGGT.2	Epicardium-derived cells
+CTGATCCCATTACCTT.2	Ventricular cardiomyocytes
+CTGATCCGTAAACGCG.2	Ventricular cardiomyocytes
+CTGATCCGTAAGTTCC.2	Endothelium / pericytes / adventitia
+CTGATCCGTAGTGAAT.2	Capillary endothelium
+CTGCCTAAGCACCGTC.2	Epicardium-derived cells
+CTGCCTAGTGCACTTA.2	Fibroblast-like (related to larger vascular development)
+CTGCCTATCTTGTTTG.2	Atrial cardiomyocytes
+CTGCTGTCACGGCCAT.2	Fibroblast-like (related to smaller vascular development)
+CTGCTGTGTAAGCACG.2	Ventricular cardiomyocytes
+CTGGTCTAGCAGGCTA.2	Epicardium-derived cells
+CTGGTCTCACCTTGTC.2	Capillary endothelium
+CTGGTCTCATCGATGT.2	Ventricular cardiomyocytes
+CTGGTCTGTTCAGGCC.2	Fibroblast-like (related to smaller vascular development)
+CTGGTCTGTTTGACAC.2	Epicardium-derived cells
+CTGTGCTAGACGCAAC.2	Ventricular cardiomyocytes
+CTGTGCTGTCTGATTG.2	Fibroblast-like (related to smaller vascular development)
+CTGTGCTTCTTAGCCC.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+CTGTTTAAGGACTGGT.2	Epicardium-derived cells
+CTGTTTACAGCTTAAC.2	Fibroblast-like (related to smaller vascular development)
+CTGTTTAGTCCGAGTC.2	Ventricular cardiomyocytes
+CTTAACTCACAGCGTC.2	Ventricular cardiomyocytes
+CTTAACTCACATGTGT.2	Ventricular cardiomyocytes
+CTTAACTCATTTCAGG.2	Ventricular cardiomyocytes
+CTTAACTGTACTTCTT.2	Ventricular cardiomyocytes
+CTTAACTGTCTCAACA.2	Fibroblast-like (related to smaller vascular development)
+CTTAACTTCGCCAAAT.2	Epicardium-derived cells
+CTTAACTTCGGTGTTA.2	Epicardium-derived cells
+CTTACCGAGAGTAAGG.2	Ventricular cardiomyocytes
+CTTACCGCACGGACAA.2	Ventricular cardiomyocytes
+CTTACCGGTGAAGGCT.2	Ventricular cardiomyocytes
+CTTACCGTCGTTTAGG.2	Ventricular cardiomyocytes
+CTTAGGAAGTGACTCT.2	Fibroblast-like (related to smaller vascular development)
+CTTAGGACACTAAGTC.2	Ventricular cardiomyocytes
+CTTAGGAGTCACTTCC.2	Capillary endothelium
+CTTAGGAGTCTTGTCC.2	Ventricular cardiomyocytes
+CTTAGGATCTTATCTG.2	Fibroblast-like (related to smaller vascular development)
+CTTCTCTCAAAGTGCG.2	Endothelium / pericytes / adventitia
+CTTGGCTAGCTCAACT.2	Capillary endothelium
+CTTGGCTAGTGCCAGA.2	Cardiac neural crest cells & Schwann progenitor cells
+CTTGGCTGTATTAGCC.2	Myoz2-enriched cardiomyocytes
+CTTGGCTTCCAAGTAC.2	Capillary endothelium
+CTTTGCGAGGGCTTGA.2	Ventricular cardiomyocytes
+CTTTGCGCACTACAGT.2	Fibroblast-like (related to larger vascular development)
+CTTTGCGGTTTCCACC.2	Fibroblast-like (related to smaller vascular development)
+GAAACTCAGCTGAACG.2	Capillary endothelium
+GAAACTCAGGATGCGT.2	Epicardium-derived cells
+GAAACTCGTCATTAGC.2	Ventricular cardiomyocytes
+GAAACTCGTCCGAACC.2	Fibroblast-like (related to smaller vascular development)
+GAAATGAGTCACAAGG.2	Fibroblast-like (related to larger vascular development)
+GAACATCCAGGCAGTA.2	Capillary endothelium
+GAACCTAAGACAGAGA.2	Epicardium-derived cells
+GAACCTAAGAGAACAG.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GAACCTAAGGAGTTTA.2	Fibroblast-like (related to smaller vascular development)
+GAACCTAGTCAGATAA.2	Epicardium-derived cells
+GAACCTATCACTGGGC.2	Fibroblast-like (related to larger vascular development)
+GAACCTATCATGGTCA.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GAACCTATCCTACAGA.2	Fibroblast-like (related to larger vascular development)
+GAACGGAAGAAGGGTA.2	Endothelium / pericytes / adventitia
+GAACGGAGTAACGTTC.2	Fibroblast-like (related to larger vascular development)
+GAAGCAGAGTCAAGGC.2	Myoz2-enriched cardiomyocytes
+GAAGCAGGTTACAGAA.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GAATAAGGTAATTGGA.2	Endothelium / pericytes / adventitia
+GAATAAGGTGTGAAAT.2	Fibroblast-like (related to smaller vascular development)
+GAATAAGTCACTATTC.2	Ventricular cardiomyocytes
+GAATAAGTCTGCTGCT.2	Ventricular cardiomyocytes
+GAATGAAAGCCCAACC.2	Ventricular cardiomyocytes
+GAATGAAGTTTGACAC.2	Ventricular cardiomyocytes
+GACACGCTCTTGCATT.2	Capillary endothelium
+GACAGAGTCGTTGACA.2	Fibroblast-like (related to smaller vascular development)
+GACCAATAGAGTGACC.2	Ventricular cardiomyocytes
+GACCAATGTATAAACG.2	Fibroblast-like (related to smaller vascular development)
+GACCAATGTCATATCG.2	Ventricular cardiomyocytes
+GACCTGGAGTACGCGA.2	Ventricular cardiomyocytes
+GACCTGGAGTACGTTC.2	Epicardium-derived cells
+GACCTGGGTCAGAATA.2	Capillary endothelium
+GACCTGGGTTGACGTT.2	Ventricular cardiomyocytes
+GACCTGGTCTTTACAC.2	Ventricular cardiomyocytes
+GACGCGTAGGTAGCTG.2	Myoz2-enriched cardiomyocytes
+GACGCGTCAGCAGTTT.2	Capillary endothelium
+GACGCGTGTTTACTCT.2	Epicardium-derived cells
+GACGGCTAGATCCTGT.2	Ventricular cardiomyocytes
+GACGGCTCATCGTCGG.2	Fibroblast-like (related to larger vascular development)
+GACGGCTTCAGGATCT.2	Fibroblast-like (related to smaller vascular development)
+GACGGCTTCCATGAGT.2	Capillary endothelium
+GACGTGCAGAGTACCG.2	Fibroblast-like (related to smaller vascular development)
+GACGTGCCAGTCAGAG.2	Ventricular cardiomyocytes
+GACGTGCGTTGGACCC.2	Ventricular cardiomyocytes
+GACGTGCTCCTAGTGA.2	Fibroblast-like (related to larger vascular development)
+GACGTTAAGGCAGGTT.2	Capillary endothelium
+GACGTTAAGGTAAACT.2	Ventricular cardiomyocytes
+GACGTTAAGGTGGGTT.2	Capillary endothelium
+GACGTTACACGAAATA.2	Epicardium-derived cells
+GACGTTACACTTAACG.2	Ventricular cardiomyocytes
+GACGTTACATGATCCA.2	Ventricular cardiomyocytes
+GACGTTATCTTAGCCC.2	Ventricular cardiomyocytes
+GACTAACAGAGCCTAG.2	Ventricular cardiomyocytes
+GACTAACGTGTTGAGG.2	Fibroblast-like (related to smaller vascular development)
+GACTACAAGGGCTTGA.2	Capillary endothelium
+GACTACACAGATAATG.2	Capillary endothelium
+GACTACACATGGATGG.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GACTACAGTCGTTGTA.2	Epicardium-derived cells
+GACTACATCTGTTTGT.2	Capillary endothelium
+GACTACATCTTACCTA.2	Ventricular cardiomyocytes
+GACTGCGAGACACGAC.2	Ventricular cardiomyocytes
+GACTGCGAGCCACCTG.2	Ventricular cardiomyocytes
+GACTGCGCACGCCAGT.2	Epicardium-derived cells
+GACTGCGGTAGCTCCG.2	Ventricular cardiomyocytes
+GACTGCGTCGAGAGCA.2	Fibroblast-like (related to larger vascular development)
+GAGCAGAAGGCGACAT.2	Fibroblast-like (related to smaller vascular development)
+GAGCAGACAATGGAGC.2	Fibroblast-like (related to smaller vascular development)
+GAGCAGACACCCATGG.2	Epicardium-derived cells
+GAGCAGAGTCATTAGC.2	Epicardium-derived cells
+GAGCAGAGTTCGGGCT.2	Myoz2-enriched cardiomyocytes
+GAGCAGATCGGTGTCG.2	Fibroblast-like (related to larger vascular development)
+GAGGTGAAGTCGTACT.2	Capillary endothelium
+GAGGTGACAAACCTAC.2	Ventricular cardiomyocytes
+GAGGTGACAGTTAACC.2	Atrial cardiomyocytes
+GAGGTGATCACAGGCC.2	Capillary endothelium
+GAGGTGATCCGGCACA.2	Endothelium / pericytes / adventitia
+GAGTCCGCAGGGTATG.2	Capillary endothelium
+GAGTCCGGTTAGTGGG.2	Fibroblast-like (related to smaller vascular development)
+GATCAGTCAAGGTGTG.2	Ventricular cardiomyocytes
+GATCAGTCAGCCTTTC.2	Fibroblast-like (related to smaller vascular development)
+GATCAGTCATCCGGGT.2	Fibroblast-like (related to smaller vascular development)
+GATCAGTGTAAGTGTA.2	Ventricular cardiomyocytes
+GATCAGTGTCGCATAT.2	Capillary endothelium
+GATCGATAGGATGGTC.2	Fibroblast-like (related to smaller vascular development)
+GATCGATCACATCCAA.2	Ventricular cardiomyocytes
+GATCGCGGTGTCGCTG.2	Endothelium / pericytes / adventitia
+GATCGCGTCACATGCA.2	Cardiac neural crest cells & Schwann progenitor cells
+GATCGTAAGGGATCTG.2	Ventricular cardiomyocytes
+GATCGTACAGCTATTG.2	Fibroblast-like (related to smaller vascular development)
+GATCGTAGTCTTTCAT.2	Ventricular cardiomyocytes
+GATCGTAGTTCCGGCA.2	Fibroblast-like (related to smaller vascular development)
+GATCTAGCACAGCGTC.2	Epicardium-derived cells
+GATCTAGGTAACGCGA.2	Ventricular cardiomyocytes
+GATGAAACAGTGAGTG.2	Fibroblast-like (related to smaller vascular development)
+GATGAAATCAGCTTAG.2	Fibroblast-like (related to smaller vascular development)
+GATGAAATCCTTCAAT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GATGAGGAGGTCATCT.2	Epicardium-derived cells
+GATGAGGCACGTCTCT.2	Endothelium / pericytes / adventitia
+GATGAGGGTCGGCACT.2	Endothelium / pericytes / adventitia
+GATGAGGGTTCGGCAC.2	Capillary endothelium
+GATGCTAAGGATGGAA.2	Capillary endothelium
+GATGCTAAGGCAGGTT.2	Fibroblast-like (related to smaller vascular development)
+GATGCTAGTATTCGTG.2	Fibroblast-like (related to smaller vascular development)
+GATTCAGAGTCACGCC.2	Fibroblast-like (related to smaller vascular development)
+GATTCAGGTCCTGCTT.2	Capillary endothelium
+GATTCAGGTCTTCAAG.2	Fibroblast-like (related to smaller vascular development)
+GATTCAGGTTGTCTTT.2	Epicardium-derived cells
+GATTCAGTCCAACCAA.2	Endothelium / pericytes / adventitia
+GCAAACTCAAGCTGAG.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCAAACTCAAGTTGTC.2	Capillary endothelium
+GCACATACAAGCGAGT.2	Capillary endothelium
+GCACATAGTAGGCATG.2	Fibroblast-like (related to larger vascular development)
+GCACATAGTGGTCCGT.2	Fibroblast-like (related to larger vascular development)
+GCACATATCACAACGT.2	Fibroblast-like (related to smaller vascular development)
+GCACTCTAGCAGGCTA.2	Capillary endothelium
+GCACTCTCAGCGAACA.2	Myoz2-enriched cardiomyocytes
+GCACTCTCATGCATGT.2	Fibroblast-like (related to larger vascular development)
+GCACTCTTCATCGGAT.2	Fibroblast-like (related to smaller vascular development)
+GCACTCTTCATTATCC.2	Ventricular cardiomyocytes
+GCACTCTTCCATGAGT.2	Ventricular cardiomyocytes
+GCAGCCAAGTTACGGG.2	Capillary endothelium
+GCAGTTAAGCGAGAAA.2	Endothelium / pericytes / adventitia
+GCAGTTAAGGTAGCCA.2	Ventricular cardiomyocytes
+GCAGTTAAGTGATCGG.2	Fibroblast-like (related to larger vascular development)
+GCAGTTAAGTGTTTGC.2	Capillary endothelium
+GCAGTTACATTAACCG.2	Capillary endothelium
+GCAGTTAGTGCAACTT.2	Fibroblast-like (related to smaller vascular development)
+GCAGTTATCGGCTACG.2	Ventricular cardiomyocytes
+GCAGTTATCTGGTGTA.2	Ventricular cardiomyocytes
+GCATACACAATCTACG.2	Epicardium-derived cells
+GCATACAGTCAGCTAT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCATACAGTGTCTGAT.2	Fibroblast-like (related to smaller vascular development)
+GCATGATAGCCAGTTT.2	Fibroblast-like (related to smaller vascular development)
+GCATGATAGGGTGTGT.2	Capillary endothelium
+GCATGATCACCCAGTG.2	Capillary endothelium
+GCATGATGTACTCAAC.2	Ventricular cardiomyocytes
+GCATGATTCTCACATT.2	Capillary endothelium
+GCATGCGAGTCACGCC.2	Capillary endothelium
+GCATGCGCAGCCAATT.2	Fibroblast-like (related to smaller vascular development)
+GCATGCGTCCTTTCGG.2	Ventricular cardiomyocytes
+GCATGTAAGCACGCCT.2	Endothelium / pericytes / adventitia
+GCATGTAAGCCAACAG.2	Myoz2-enriched cardiomyocytes
+GCATGTACAAGTTGTC.2	Ventricular cardiomyocytes
+GCATGTACACAGACAG.2	Ventricular cardiomyocytes
+GCATGTACACATCTTT.2	Epicardium-derived cells
+GCATGTAGTCGCTTCT.2	Ventricular cardiomyocytes
+GCATGTATCCTTAATC.2	Fibroblast-like (related to smaller vascular development)
+GCCAAATCACTTCTGC.2	Epicardium-derived cells
+GCCAAATTCTACTCAT.2	Capillary endothelium
+GCCTCTAAGCGTCAAG.2	Cardiac neural crest cells & Schwann progenitor cells
+GCCTCTACATGCGCAC.2	Ventricular cardiomyocytes
+GCCTCTATCATGTGGT.2	Epicardium-derived cells
+GCCTCTATCTACGAGT.2	Fibroblast-like (related to smaller vascular development)
+GCCTCTATCTTTACGT.2	Epicardium-derived cells
+GCGACCAAGGAATGGA.2	Ventricular cardiomyocytes
+GCGACCACACCTCGGA.2	Epicardium-derived cells
+GCGACCACAGCTGGCT.2	Ventricular cardiomyocytes
+GCGACCACATCTCCCA.2	Ventricular cardiomyocytes
+GCGACCAGTCTCTTAT.2	Myoz2-enriched cardiomyocytes
+GCGACCAGTTCTGTTT.2	Fibroblast-like (related to smaller vascular development)
+GCGACCATCAATCACG.2	Capillary endothelium
+GCGAGAAAGACAAAGG.2	Epicardium-derived cells
+GCGAGAACAAGGCTCC.2	Capillary endothelium
+GCGAGAACACCCTATC.2	Capillary endothelium
+GCGAGAAGTAGGCTGA.2	Ventricular cardiomyocytes
+GCGCAACAGCAATCTC.2	Ventricular cardiomyocytes
+GCGCAACGTGTGCCTG.2	Ventricular cardiomyocytes
+GCGCAACTCATAACCG.2	Fibroblast-like (related to smaller vascular development)
+GCGCAACTCTACTCAT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCGCAGTAGATAGGAG.2	Fibroblast-like (related to smaller vascular development)
+GCGCAGTAGGGTGTGT.2	Endothelium / pericytes / adventitia
+GCGCAGTCAAGGACAC.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GCGCAGTCACCCAGTG.2	Fibroblast-like (related to smaller vascular development)
+GCGCAGTCAGCGTCCA.2	Ventricular cardiomyocytes
+GCGCAGTCATGCCTAA.2	Capillary endothelium
+GCGCAGTGTCGCATCG.2	Capillary endothelium
+GCGCAGTGTTCCCTTG.2	Ventricular cardiomyocytes
+GCGCCAAAGATCACGG.2	Ventricular cardiomyocytes
+GCGCCAAGTATTACCG.2	Ventricular cardiomyocytes
+GCGCCAATCTAACCGA.2	Ventricular cardiomyocytes
+GCGCCAATCTCATTCA.2	Capillary endothelium
+GCGCCAATCTGATACG.2	Fibroblast-like (related to smaller vascular development)
+GCGCGATCACCAGCAC.2	Ventricular cardiomyocytes
+GCGCGATGTAGAGCTG.2	Fibroblast-like (related to smaller vascular development)
+GCGCGATTCAGCTCGG.2	Fibroblast-like (related to larger vascular development)
+GCGGGTTAGTGATCGG.2	Epicardium-derived cells
+GCGGGTTTCCCTTGTG.2	Epicardium-derived cells
+GCGGGTTTCTGCTGCT.2	Ventricular cardiomyocytes
+GCTCCTAGTGATAAAC.2	Epicardium-derived cells
+GCTCCTATCGGCCGAT.2	Ventricular cardiomyocytes
+GCTCCTATCTCGATGA.2	Capillary endothelium
+GCTCTGTAGATGCCTT.2	Capillary endothelium
+GCTCTGTAGTCGAGTG.2	Epicardium-derived cells
+GCTCTGTGTCTAGCGC.2	Ventricular cardiomyocytes
+GCTCTGTGTCTCACCT.2	Capillary endothelium
+GCTCTGTTCGCAGGCT.2	Atrial cardiomyocytes
+GCTGCAGAGACCCACC.2	Ventricular cardiomyocytes
+GCTGCAGAGCACACAG.2	Capillary endothelium
+GCTGCAGCACAGCCCA.2	Capillary endothelium
+GCTGCAGCAGACGTAG.2	Capillary endothelium
+GCTGCGAAGCATCATC.2	Fibroblast-like (related to smaller vascular development)
+GCTGCGAAGGCTCTTA.2	Ventricular cardiomyocytes
+GCTGCGACAGCGATCC.2	Fibroblast-like (related to smaller vascular development)
+GCTGCGACATAAAGGT.2	Ventricular cardiomyocytes
+GCTGCGAGTACTCTCC.2	Capillary endothelium
+GCTGCGAGTAGTAGTA.2	Epicardium-derived cells
+GCTGCGATCACGAAGG.2	Fibroblast-like (related to smaller vascular development)
+GCTGCTTCAACTGCTA.2	Fibroblast-like (related to smaller vascular development)
+GCTGCTTCAATCTACG.2	Ventricular cardiomyocytes
+GCTGCTTGTTGATTCG.2	Epicardium-derived cells
+GCTGCTTTCTGTTTGT.2	Endothelium / pericytes / adventitia
+GCTGGGTTCCGTTGTC.2	Capillary endothelium
+GCTTCCATCAACCAAC.2	Myoz2-enriched cardiomyocytes
+GCTTGAAGTAGCAAAT.2	Ventricular cardiomyocytes
+GCTTGAAGTTCGTGAT.2	Fibroblast-like (related to smaller vascular development)
+GGAAAGCCAGACGCTC.2	Fibroblast-like (related to smaller vascular development)
+GGAACTTCACGAAGCA.2	Capillary endothelium
+GGAATAACAATCAGAA.2	Endothelium / pericytes / adventitia
+GGAATAAGTCGGCATC.2	Epicardium-derived cells
+GGACAAGAGAGGACGG.2	Ventricular cardiomyocytes
+GGACAAGCAATGTAAG.2	Epicardium-derived cells
+GGACAAGCAGTCGATT.2	Epicardium-derived cells
+GGACAAGTCGGAATCT.2	Capillary endothelium
+GGACAGAAGCCTTGAT.2	Ventricular cardiomyocytes
+GGACAGAAGGACACCA.2	Ventricular cardiomyocytes
+GGACAGACAGCTCCGA.2	Fibroblast-like (related to smaller vascular development)
+GGACATTAGACAAGCC.2	Fibroblast-like (related to smaller vascular development)
+GGACATTAGCTGCGAA.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGACATTAGGCATGGT.2	Ventricular cardiomyocytes
+GGACATTCAGGAACGT.2	Ventricular cardiomyocytes
+GGACGTCAGGCTACGA.2	Ventricular cardiomyocytes
+GGACGTCTCAAGAAGT.2	Fibroblast-like (related to smaller vascular development)
+GGAGCAAAGCACGCCT.2	Capillary endothelium
+GGAGCAACACATCTTT.2	Fibroblast-like (related to smaller vascular development)
+GGAGCAAGTCGATTGT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGAGCAATCGATCCCT.2	Fibroblast-like (related to smaller vascular development)
+GGATGTTAGATGCCAG.2	Ventricular cardiomyocytes
+GGATGTTGTAACGCGA.2	Epicardium-derived cells
+GGATGTTGTTGCGTTA.2	Epicardium-derived cells
+GGATGTTTCCCTTGTG.2	Ventricular cardiomyocytes
+GGATTACAGCGTTTAC.2	Fibroblast-like (related to smaller vascular development)
+GGATTACCAGCTGCTG.2	Fibroblast-like (related to smaller vascular development)
+GGATTACCATGGTTGT.2	Capillary endothelium
+GGATTACGTAGCGTCC.2	Myoz2-enriched cardiomyocytes
+GGATTACGTCCTCTTG.2	Fibroblast-like (related to smaller vascular development)
+GGCAATTGTTCTCATT.2	Ventricular cardiomyocytes
+GGCAATTTCTTCTGGC.2	Epicardium-derived cells
+GGCCGATAGCGTGAAC.2	Epicardial cells
+GGCCGATAGGAACTGC.2	Capillary endothelium
+GGCCGATCAGCTGTAT.2	Fibroblast-like (related to smaller vascular development)
+GGCCGATGTACGAAAT.2	Fibroblast-like (related to smaller vascular development)
+GGCCGATTCCCTAATT.2	Fibroblast-like (related to larger vascular development)
+GGCCGATTCCTTAATC.2	Myoz2-enriched cardiomyocytes
+GGCGTGTAGCGTGAGT.2	Epicardium-derived cells
+GGCGTGTAGGACAGAA.2	Epicardial cells
+GGCGTGTCAAGCGCTC.2	Capillary endothelium
+GGCGTGTCACACCGAC.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGCGTGTGTTATCCGA.2	Fibroblast-like (related to smaller vascular development)
+GGCGTGTTCATTGCCC.2	Ventricular cardiomyocytes
+GGCTCGACACAAGTAA.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGCTCGACATTACCTT.2	Fibroblast-like (related to larger vascular development)
+GGCTCGAGTTTGTTGG.2	Epicardium-derived cells
+GGCTCGATCCGTACAA.2	Fibroblast-like (related to smaller vascular development)
+GGCTCGATCTCTAAGG.2	Ventricular cardiomyocytes
+GGCTGGTCATGCCACG.2	Epicardium-derived cells
+GGCTGGTGTGGTGTAG.2	Fibroblast-like (related to smaller vascular development)
+GGCTGGTTCAACGGGA.2	Ventricular cardiomyocytes
+GGCTGGTTCCTCGCAT.2	Epicardium-derived cells
+GGGAATGTCGCGTTTC.2	Epicardium-derived cells
+GGGAATGTCGTAGATC.2	Ventricular cardiomyocytes
+GGGACCTAGGTGACCA.2	Endothelium / pericytes / adventitia
+GGGACCTCACACCGCA.2	Epicardium-derived cells
+GGGACCTCACATGGGA.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGGACCTGTTACCAGT.2	Endothelium / pericytes / adventitia
+GGGACCTTCATAGCAC.2	Cardiac neural crest cells & Schwann progenitor cells
+GGGACCTTCCGAACGC.2	Ventricular cardiomyocytes
+GGGACCTTCTGGCGTG.2	Ventricular cardiomyocytes
+GGGAGATAGATCGATA.2	Epicardium-derived cells
+GGGAGATAGATGCCTT.2	Epicardium-derived cells
+GGGAGATCAAGTACCT.2	Ventricular cardiomyocytes
+GGGAGATCATTTGCTT.2	Ventricular cardiomyocytes
+GGGAGATGTCTCCACT.2	Capillary endothelium
+GGGATGACACGAAAGC.2	Capillary endothelium
+GGGATGAGTACCGGCT.2	Epicardium-derived cells
+GGGCACTAGCTACCTA.2	Ventricular cardiomyocytes
+GGGCACTCATGGTCAT.2	Epicardium-derived cells
+GGGCACTGTGCACGAA.2	Epicardium-derived cells
+GGGCACTTCAACGGCC.2	Endothelium / pericytes / adventitia
+GGGCATCTCGATCCCT.2	Fibroblast-like (related to smaller vascular development)
+GGGCATCTCTGCCAGG.2	Fibroblast-like (related to larger vascular development)
+GGGTCTGAGCATCATC.2	Fibroblast-like (related to larger vascular development)
+GGGTCTGGTAGGCATG.2	Fibroblast-like (related to smaller vascular development)
+GGGTCTGGTCGCCATG.2	Epicardium-derived cells
+GGGTTGCAGTAGGTGC.2	Fibroblast-like (related to larger vascular development)
+GGGTTGCTCTGGCGAC.2	Ventricular cardiomyocytes
+GGTATTGAGAGTACAT.2	Ventricular cardiomyocytes
+GGTGAAGAGATTACCC.2	Cardiac neural crest cells & Schwann progenitor cells
+GGTGAAGAGCCTATGT.2	Capillary endothelium
+GGTGAAGCACAGGAGT.2	Ventricular cardiomyocytes
+GGTGAAGTCACTTATC.2	Endothelium / pericytes / adventitia
+GGTGAAGTCTGGGCCA.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GGTGCGTGTACCGTTA.2	Endothelium / pericytes / adventitia
+GGTGTTAAGATCTGCT.2	Fibroblast-like (related to smaller vascular development)
+GGTGTTAGTCATACTG.2	Ventricular cardiomyocytes
+GGTGTTAGTGACAAAT.2	Capillary endothelium
+GGTGTTATCATTTGGG.2	Atrial cardiomyocytes
+GTAACGTCACACTGCG.2	Fibroblast-like (related to smaller vascular development)
+GTAACGTCATGACATC.2	Ventricular cardiomyocytes
+GTAACGTGTCATGCAT.2	Epicardium-derived cells
+GTAACGTTCTGCGGCA.2	Fibroblast-like (related to smaller vascular development)
+GTAACTGCACGAGGTA.2	Fibroblast-like (related to smaller vascular development)
+GTAACTGGTCGAAAGC.2	Capillary endothelium
+GTAACTGGTGGACGAT.2	Ventricular cardiomyocytes
+GTAACTGTCTTACCTA.2	Capillary endothelium
+GTACGTAAGCTGTCTA.2	Epicardium-derived cells
+GTACGTACATCCCACT.2	Fibroblast-like (related to smaller vascular development)
+GTACGTATCTGGTGTA.2	Fibroblast-like (related to larger vascular development)
+GTACTCCAGGAATCGC.2	Fibroblast-like (related to smaller vascular development)
+GTACTCCGTAGCGCTC.2	Capillary endothelium
+GTACTCCGTGTGTGCC.2	Myoz2-enriched cardiomyocytes
+GTACTCCTCTTGACGA.2	Capillary endothelium
+GTACTTTAGAAACGCC.2	Fibroblast-like (related to smaller vascular development)
+GTACTTTCAAGTAGTA.2	Endothelium / pericytes / adventitia
+GTACTTTCACCAGGTC.2	Ventricular cardiomyocytes
+GTACTTTCAGGGCATA.2	Fibroblast-like (related to smaller vascular development)
+GTACTTTGTGTCGCTG.2	Ventricular cardiomyocytes
+GTAGGCCTCGCTGATA.2	Ventricular cardiomyocytes
+GTAGTCAAGGAGTACC.2	Ventricular cardiomyocytes
+GTAGTCAGTCGTGGCT.2	Epicardium-derived cells
+GTAGTCATCATCGCTC.2	Fibroblast-like (related to smaller vascular development)
+GTATCTTAGAGCTGCA.2	Ventricular cardiomyocytes
+GTATCTTCAGCTGGCT.2	Ventricular cardiomyocytes
+GTATCTTTCGGTTCGG.2	Ventricular cardiomyocytes
+GTATTCTCACGTCAGC.2	Cardiac neural crest cells & Schwann progenitor cells
+GTATTCTCATAAAGGT.2	Ventricular cardiomyocytes
+GTCAAGTAGTCATGCT.2	Fibroblast-like (related to smaller vascular development)
+GTCAAGTCACCTTGTC.2	Epicardium-derived cells
+GTCACAACAATGTAAG.2	Ventricular cardiomyocytes
+GTCACAACACACCGAC.2	Epicardium-derived cells
+GTCACAATCTCGGACG.2	Epicardium-derived cells
+GTCACGGAGACAAGCC.2	Epicardium-derived cells
+GTCACGGCAAGCTGTT.2	Epicardial cells
+GTCACGGTCGGGAGTA.2	Fibroblast-like (related to smaller vascular development)
+GTCATTTAGACGCACA.2	Ventricular cardiomyocytes
+GTCATTTCAATCGGTT.2	Capillary endothelium
+GTCATTTCACTAGTAC.2	Fibroblast-like (related to smaller vascular development)
+GTCCTCAGTTTGGCGC.2	Ventricular cardiomyocytes
+GTCGGGTCATGACGGA.2	Endothelium / pericytes / adventitia
+GTCGGGTGTTCGGCAC.2	Capillary endothelium
+GTCGTAACACCGAAAG.2	Fibroblast-like (related to larger vascular development)
+GTCGTAAGTACAGTGG.2	Fibroblast-like (related to smaller vascular development)
+GTCGTAAGTGGTCCGT.2	Capillary endothelium
+GTCGTAATCCTTGACC.2	Ventricular cardiomyocytes
+GTCTCGTCATCACAAC.2	Fibroblast-like (related to smaller vascular development)
+GTCTCGTGTAAGTTCC.2	Ventricular cardiomyocytes
+GTCTCGTGTTCCGGCA.2	Epicardium-derived cells
+GTCTCGTTCCGCATCT.2	Capillary endothelium
+GTCTTCGAGGTACTCT.2	Ventricular cardiomyocytes
+GTCTTCGGTAAAGTCA.2	Epicardium-derived cells
+GTCTTCGGTCGTCTTC.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTCTTCGGTGCTGTAT.2	Capillary endothelium
+GTCTTCGTCATTCACT.2	Capillary endothelium
+GTGAAGGCAAGAAGAG.2	Ventricular cardiomyocytes
+GTGAAGGCATCGGGTC.2	Fibroblast-like (related to larger vascular development)
+GTGAAGGTCAGAGGTG.2	Fibroblast-like (related to smaller vascular development)
+GTGAAGGTCGTGACAT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTGCAGCCATCCTTGC.2	Epicardium-derived cells
+GTGCATAAGCCCTAAT.2	Fibroblast-like (related to smaller vascular development)
+GTGCATAAGGGTGTGT.2	Cardiac neural crest cells & Schwann progenitor cells
+GTGCATAAGTAGGCCA.2	Ventricular cardiomyocytes
+GTGCATACAGATGAGC.2	Ventricular cardiomyocytes
+GTGCATATCCTAGGGC.2	Fibroblast-like (related to larger vascular development)
+GTGCGGTCACCGAAAG.2	Ventricular cardiomyocytes
+GTGCGGTGTACCATCA.2	Capillary endothelium
+GTGCGGTTCGTAGATC.2	Ventricular cardiomyocytes
+GTGCTTCAGCATGGCA.2	Cardiac neural crest cells & Schwann progenitor cells
+GTGGGTCCACTTCGAA.2	Ventricular cardiomyocytes
+GTGGGTCGTACTTAGC.2	Fibroblast-like (related to smaller vascular development)
+GTGTGCGGTAGCGCTC.2	Fibroblast-like (related to larger vascular development)
+GTGTGCGTCGCAAGCC.2	Capillary endothelium
+GTGTGCGTCTTGGGTA.2	Fibroblast-like (related to smaller vascular development)
+GTGTTAGAGACTAGGC.2	Capillary endothelium
+GTGTTAGAGTTCGATC.2	Cardiac neural crest cells & Schwann progenitor cells
+GTGTTAGTCGGAAACG.2	Ventricular cardiomyocytes
+GTTAAGCTCCCAACGG.2	Fibroblast-like (related to smaller vascular development)
+GTTACAGAGCTGCGAA.2	Capillary endothelium
+GTTACAGGTCTTGCGG.2	Capillary endothelium
+GTTACAGGTGAACCTT.2	Capillary endothelium
+GTTACAGGTGCCTGGT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTTACAGTCGGCGCTA.2	Ventricular cardiomyocytes
+GTTCATTCAAGAGTCG.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+GTTCGGGAGGACAGCT.2	Ventricular cardiomyocytes
+GTTCGGGCAATCACAC.2	Fibroblast-like (related to larger vascular development)
+GTTCGGGCACATTAGC.2	Ventricular cardiomyocytes
+GTTCTCGGTGCTGTAT.2	Ventricular cardiomyocytes
+GTTCTCGTCTACTATC.2	Capillary endothelium
+GTTTCTAAGCTATGCT.2	Capillary endothelium
+GTTTCTAAGCTCTCGG.2	Ventricular cardiomyocytes
+GTTTCTAAGTCGTTTG.2	Ventricular cardiomyocytes
+GTTTCTACAGAAGCAC.2	Myoz2-enriched cardiomyocytes
+GTTTCTACAGGATCGA.2	Ventricular cardiomyocytes
+GTTTCTAGTACCATCA.2	Ventricular cardiomyocytes
+TAAACCGAGGAGTAGA.2	Myoz2-enriched cardiomyocytes
+TAAACCGCATGGTCTA.2	Capillary endothelium
+TAAGAGACAGCTGGCT.2	Epicardial cells
+TAAGAGAGTTCAGACT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TAAGCGTAGGAATGGA.2	Atrial cardiomyocytes
+TAAGCGTTCATAACCG.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TAAGCGTTCCTATGTT.2	Cardiac neural crest cells & Schwann progenitor cells
+TAAGCGTTCGCCATAA.2	Capillary endothelium
+TAAGTGCGTGACAAAT.2	Ventricular cardiomyocytes
+TAAGTGCTCTGGTGTA.2	Fibroblast-like (related to smaller vascular development)
+TACACGACAATAAGCA.2	Ventricular cardiomyocytes
+TACACGACAGCTCGAC.2	Myoz2-enriched cardiomyocytes
+TACACGACATCCCATC.2	Capillary endothelium
+TACACGACATGGGACA.2	Epicardium-derived cells
+TACACGATCAGCGATT.2	Ventricular cardiomyocytes
+TACAGTGAGTCCCACG.2	Endothelium / pericytes / adventitia
+TACAGTGGTCAGCTAT.2	Capillary endothelium
+TACCTATAGTGGACGT.2	Fibroblast-like (related to larger vascular development)
+TACCTATTCTGAGTGT.2	Ventricular cardiomyocytes
+TACCTTACAAGCCGCT.2	Myoz2-enriched cardiomyocytes
+TACCTTACAATTGCTG.2	Epicardium-derived cells
+TACCTTACATTCTCAT.2	Ventricular cardiomyocytes
+TACCTTATCCGCGGTA.2	Ventricular cardiomyocytes
+TACGGATCACTCTGTC.2	Fibroblast-like (related to smaller vascular development)
+TACGGATCACTTAACG.2	Capillary endothelium
+TACGGATCAGCCAATT.2	Ventricular cardiomyocytes
+TACGGATGTGTGGTTT.2	Endothelium / pericytes / adventitia
+TACGGATTCGTACGGC.2	Ventricular cardiomyocytes
+TACGGGCAGATGCGAC.2	Ventricular cardiomyocytes
+TACGGGCAGCTCAACT.2	Capillary endothelium
+TACGGGCCACGGCTAC.2	Ventricular cardiomyocytes
+TACGGGCCATTGTGCA.2	Myoz2-enriched cardiomyocytes
+TACGGTACAGCTCGCA.2	Fibroblast-like (related to larger vascular development)
+TACTCATAGGTACTCT.2	Ventricular cardiomyocytes
+TACTCATTCGGCGCTA.2	Capillary endothelium
+TACTCGCAGAGAACAG.2	Capillary endothelium
+TACTCGCAGATCGGGT.2	Fibroblast-like (related to smaller vascular development)
+TACTCGCAGCCCAACC.2	Capillary endothelium
+TACTCGCGTGTTTGTG.2	Ventricular cardiomyocytes
+TACTTACTCCCAACGG.2	Capillary endothelium
+TACTTGTCACAGACAG.2	Ventricular cardiomyocytes
+TACTTGTCACTCGACG.2	Ventricular cardiomyocytes
+TACTTGTCATATGAGA.2	Ventricular cardiomyocytes
+TACTTGTCATTCCTGC.2	Ventricular cardiomyocytes
+TACTTGTGTAAATACG.2	Capillary endothelium
+TACTTGTTCCAGGGCT.2	Myoz2-enriched cardiomyocytes
+TAGACCAGTCTAGAGG.2	Ventricular cardiomyocytes
+TAGACCATCTCCAGGG.2	Capillary endothelium
+TAGAGCTAGTCTTGCA.2	Fibroblast-like (related to smaller vascular development)
+TAGAGCTGTCGGCTCA.2	Epicardial cells
+TAGAGCTGTGTGTGCC.2	Atrial cardiomyocytes
+TAGAGCTGTTCGTTGA.2	Epicardium-derived cells
+TAGAGCTTCAGCCTAA.2	Ventricular cardiomyocytes
+TAGCCGGAGGTTCCTA.2	Capillary endothelium
+TAGCCGGAGTGGGTTG.2	Ventricular cardiomyocytes
+TAGCCGGAGTTGAGAT.2	Ventricular cardiomyocytes
+TAGCCGGCAGGTTTCA.2	Fibroblast-like (related to smaller vascular development)
+TAGCCGGGTTTAAGCC.2	Endothelium / pericytes / adventitia
+TAGCCGGTCAGTTCGA.2	Fibroblast-like (related to larger vascular development)
+TAGCCGGTCTTCTGGC.2	Epicardial cells
+TAGGCATAGTAGATGT.2	Ventricular cardiomyocytes
+TAGGCATCATGAAGTA.2	Fibroblast-like (related to larger vascular development)
+TAGGCATGTGGCGAAT.2	Endothelium / pericytes / adventitia
+TAGGCATGTGTATGGG.2	Ventricular cardiomyocytes
+TAGGCATGTTAAGACA.2	Ventricular cardiomyocytes
+TAGTGGTCACAGAGGT.2	Epicardium-derived cells
+TAGTGGTTCAACCAAC.2	Ventricular cardiomyocytes
+TAGTGGTTCTGCTTGC.2	Fibroblast-like (related to larger vascular development)
+TAGTTGGAGTGTTGAA.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TAGTTGGTCTGACCTC.2	Ventricular cardiomyocytes
+TATCAGGAGAAGGGTA.2	Epicardium-derived cells
+TATCAGGGTAGCGCTC.2	Ventricular cardiomyocytes
+TATCAGGGTTCCACTC.2	Epicardial cells
+TATCAGGTCTCGTATT.2	Atrial cardiomyocytes
+TATCTCAAGAAGGCCT.2	Capillary endothelium
+TATCTCAAGTCGTTTG.2	Capillary endothelium
+TATCTCAGTTCTGGTA.2	Ventricular cardiomyocytes
+TATCTCATCCTGTAGA.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TATCTCATCGTCTGCT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TATGCCCAGAACTGTA.2	Ventricular cardiomyocytes
+TATGCCCAGAATTGTG.2	Fibroblast-like (related to smaller vascular development)
+TATGCCCAGCAGATCG.2	Ventricular cardiomyocytes
+TATGCCCAGGCGCTCT.2	Epicardium-derived cells
+TATGCCCAGTGTCTCA.2	Fibroblast-like (related to larger vascular development)
+TATGCCCGTATTCTCT.2	Capillary endothelium
+TATGCCCGTGTGACGA.2	Capillary endothelium
+TATTACCCACAACGTT.2	Epicardium-derived cells
+TATTACCGTCAAAGCG.2	Fibroblast-like (related to larger vascular development)
+TATTACCGTCTCCATC.2	Ventricular cardiomyocytes
+TATTACCTCGACGGAA.2	Fibroblast-like (related to smaller vascular development)
+TCAATCTCACCTTGTC.2	Fibroblast-like (related to smaller vascular development)
+TCAATCTTCCACGAAT.2	Fibroblast-like (related to larger vascular development)
+TCACAAGAGTGGACGT.2	Ventricular cardiomyocytes
+TCACAAGGTAGAAGGA.2	Ventricular cardiomyocytes
+TCACAAGTCGATGAGG.2	Ventricular cardiomyocytes
+TCACGAACAATGAAAC.2	Epicardium-derived cells
+TCACGAACACGTTGGC.2	Ventricular cardiomyocytes
+TCAGATGGTCACTTCC.2	Capillary endothelium
+TCAGATGTCACCGGGT.2	Epicardium-derived cells
+TCAGCAAAGGTGACCA.2	Ventricular cardiomyocytes
+TCAGCTCAGACACGAC.2	Ventricular cardiomyocytes
+TCAGCTCCAAACAACA.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCAGGATAGAACTCGG.2	Capillary endothelium
+TCAGGATCACCCATGG.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCAGGATGTGACTCAT.2	Ventricular cardiomyocytes
+TCAGGATTCACGACTA.2	Capillary endothelium
+TCAGGATTCGTACGGC.2	Fibroblast-like (related to smaller vascular development)
+TCAGGTAAGCAATATG.2	Ventricular cardiomyocytes
+TCAGGTAGTAGAGTGC.2	Fibroblast-like (related to smaller vascular development)
+TCAGGTAGTGAGTATA.2	Capillary endothelium
+TCAGGTATCTAGCACA.2	Ventricular cardiomyocytes
+TCATTACAGGCCCGTT.2	Fibroblast-like (related to smaller vascular development)
+TCATTACCACGACGAA.2	Ventricular cardiomyocytes
+TCATTACCATAGTAAG.2	Ventricular cardiomyocytes
+TCATTACCATATGCTG.2	Ventricular cardiomyocytes
+TCATTACTCCGAGCCA.2	Endothelium / pericytes / adventitia
+TCATTTGAGGGCACTA.2	Ventricular cardiomyocytes
+TCATTTGCAAGTAATG.2	Fibroblast-like (related to larger vascular development)
+TCATTTGGTAAACACA.2	Epicardium-derived cells
+TCATTTGGTCGAATCT.2	Capillary endothelium
+TCCACACAGAGTACCG.2	Epicardium-derived cells
+TCCACACCAAGTCTGT.2	Capillary endothelium
+TCCACACCAATAACGA.2	Capillary endothelium
+TCCACACCACGTAAGG.2	Ventricular cardiomyocytes
+TCCACACCATCCAACA.2	Atrial cardiomyocytes
+TCCACACCATGCCCGA.2	Atrial cardiomyocytes
+TCCACACGTGCAGGTA.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCCACACGTTCCAACA.2	Ventricular cardiomyocytes
+TCCACACTCCGCAAGC.2	Fibroblast-like (related to smaller vascular development)
+TCCCGATTCTCCGGTT.2	Capillary endothelium
+TCGAGGCAGCAGACTG.2	Capillary endothelium
+TCGAGGCAGCCCAATT.2	Capillary endothelium
+TCGAGGCCACATGACT.2	Fibroblast-like (related to smaller vascular development)
+TCGAGGCTCGTAGGTT.2	Epicardial cells
+TCGAGGCTCTACCAGA.2	Myoz2-enriched cardiomyocytes
+TCGAGGCTCTCATTCA.2	Epicardium-derived cells
+TCGCGAGTCATCTGTT.2	Epicardium-derived cells
+TCGCGTTCAGCATACT.2	Ventricular cardiomyocytes
+TCGCGTTGTATTCTCT.2	Cardiac neural crest cells & Schwann progenitor cells
+TCGCGTTTCCGGGTGT.2	Capillary endothelium
+TCGGGACAGAGGGATA.2	Endothelium / pericytes / adventitia
+TCGGGACAGTACGACG.2	Ventricular cardiomyocytes
+TCGGGACCAGAGCCAA.2	Capillary endothelium
+TCGGGACGTGCAACTT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCGGGACGTTCTGTTT.2	Fibroblast-like (related to larger vascular development)
+TCGGTAAAGGCTCATT.2	Fibroblast-like (related to larger vascular development)
+TCGGTAACACTACAGT.2	Epicardial cells
+TCGGTAACATTAGGCT.2	Fibroblast-like (related to larger vascular development)
+TCGGTAAGTCATCCCT.2	Ventricular cardiomyocytes
+TCGGTAATCCACTCCA.2	Capillary endothelium
+TCGGTAATCTCAAGTG.2	Ventricular cardiomyocytes
+TCGTACCAGCTAGGCA.2	Ventricular cardiomyocytes
+TCGTACCCACCGAAAG.2	Capillary endothelium
+TCGTACCTCCCTCAGT.2	Endothelium / pericytes / adventitia
+TCGTAGAAGCGCTCCA.2	Fibroblast-like (related to smaller vascular development)
+TCGTAGAAGGCATGGT.2	Epicardium-derived cells
+TCGTAGATCAGTTTGG.2	Ventricular cardiomyocytes
+TCGTAGATCGCAAGCC.2	Fibroblast-like (related to larger vascular development)
+TCTATTGAGCGAAGGG.2	Capillary endothelium
+TCTATTGCAGGGTTAG.2	Fibroblast-like (related to smaller vascular development)
+TCTCATAAGAGGTAGA.2	Fibroblast-like (related to smaller vascular development)
+TCTCATAGTTCGTTGA.2	Ventricular cardiomyocytes
+TCTCTAAAGAGGTTAT.2	Myoz2-enriched cardiomyocytes
+TCTCTAAAGCTCTCGG.2	Capillary endothelium
+TCTCTAAAGGAGTTGC.2	Fibroblast-like (related to smaller vascular development)
+TCTCTAAAGGATGGTC.2	Cardiac neural crest cells & Schwann progenitor cells
+TCTCTAACAATCACAC.2	Fibroblast-like (related to smaller vascular development)
+TCTCTAACATATACCG.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCTCTAATCCAGTATG.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TCTCTAATCGTCTGCT.2	Epicardial cells
+TCTGAGACAATGGAGC.2	Epicardium-derived cells
+TCTGAGACATATACGC.2	Fibroblast-like (related to smaller vascular development)
+TCTGAGAGTCCGAGTC.2	Fibroblast-like (related to larger vascular development)
+TCTGAGAGTGAGGGTT.2	Capillary endothelium
+TCTGAGATCAGCACAT.2	Epicardium-derived cells
+TCTGGAAGTTAGTGGG.2	Epicardium-derived cells
+TCTTCGGAGCCACCTG.2	Fibroblast-like (related to smaller vascular development)
+TCTTCGGAGCTGGAAC.2	Capillary endothelium
+TCTTCGGCAATCACAC.2	Endothelium / pericytes / adventitia
+TCTTTCCAGACGCAAC.2	Capillary endothelium
+TCTTTCCTCATTATCC.2	Fibroblast-like (related to smaller vascular development)
+TGAAAGAAGTGTGGCA.2	Capillary endothelium
+TGAAAGACACGAAAGC.2	Fibroblast-like (related to smaller vascular development)
+TGAAAGATCGAACGGA.2	Epicardium-derived cells
+TGAAAGATCGCCAAAT.2	Ventricular cardiomyocytes
+TGAAAGATCTCAACTT.2	Ventricular cardiomyocytes
+TGACAACCAGTCGTGC.2	Myoz2-enriched cardiomyocytes
+TGACAACCATGAAGTA.2	Endothelium / pericytes / adventitia
+TGACGGCTCCCATTTA.2	Capillary endothelium
+TGACTTTAGTCCATAC.2	Capillary endothelium
+TGACTTTGTACTCAAC.2	Capillary endothelium
+TGACTTTTCAAACAAG.2	Ventricular cardiomyocytes
+TGACTTTTCCCTTGTG.2	Capillary endothelium
+TGACTTTTCTCCTATA.2	Capillary endothelium
+TGAGAGGAGGCATGGT.2	Ventricular cardiomyocytes
+TGAGAGGGTCAACTGT.2	Ventricular cardiomyocytes
+TGAGCATCACCAGGTC.2	Capillary endothelium
+TGAGCATCATTATCTC.2	Ventricular cardiomyocytes
+TGAGCCGAGAGTAATC.2	Capillary endothelium
+TGAGCCGAGGATGGAA.2	Ventricular cardiomyocytes
+TGAGCCGTCACCATAG.2	Fibroblast-like (related to smaller vascular development)
+TGAGCCGTCCTGTAGA.2	Capillary endothelium
+TGAGCCGTCTTGTACT.2	Capillary endothelium
+TGATTTCCACGCCAGT.2	Capillary endothelium
+TGATTTCGTCTTGCGG.2	Endothelium / pericytes / adventitia
+TGATTTCGTTCCACGG.2	Ventricular cardiomyocytes
+TGATTTCTCGCAAGCC.2	Capillary endothelium
+TGCACCTAGTACGACG.2	Epicardium-derived cells
+TGCACCTTCACCCTCA.2	Ventricular cardiomyocytes
+TGCACCTTCAGTACGT.2	Epicardium-derived cells
+TGCACCTTCCCTGACT.2	Ventricular cardiomyocytes
+TGCACCTTCCTCGCAT.2	Ventricular cardiomyocytes
+TGCCAAAAGCGTGAGT.2	Ventricular cardiomyocytes
+TGCCCATAGACTAGAT.2	Fibroblast-like (related to smaller vascular development)
+TGCCCATAGGTGACCA.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGCCCATCATGCAATC.2	Fibroblast-like (related to smaller vascular development)
+TGCCCATGTTGCGCAC.2	Endothelium / pericytes / adventitia
+TGCCCTAAGATATGCA.2	Fibroblast-like (related to smaller vascular development)
+TGCCCTAAGATGTGGC.2	Ventricular cardiomyocytes
+TGCCCTAAGCGTGAGT.2	Capillary endothelium
+TGCCCTAGTACCTACA.2	Myoz2-enriched cardiomyocytes
+TGCGCAGGTGCTGTAT.2	Fibroblast-like (related to larger vascular development)
+TGCGGGTTCCCTCTTT.2	Ventricular cardiomyocytes
+TGCGTGGAGGTGATTA.2	Atrial cardiomyocytes
+TGCGTGGGTACATCCA.2	Endothelium / pericytes / adventitia
+TGCGTGGGTAGGAGTC.2	Fibroblast-like (related to smaller vascular development)
+TGCGTGGTCGAACTGT.2	Ventricular cardiomyocytes
+TGCGTGGTCGCGGATC.2	Cardiac neural crest cells & Schwann progenitor cells
+TGCTACCAGCTGAAAT.2	Epicardium-derived cells
+TGCTACCCACTGTCGG.2	Fibroblast-like (related to smaller vascular development)
+TGCTACCCAGTATCTG.2	Capillary endothelium
+TGCTACCGTTCAACCA.2	Epicardium-derived cells
+TGCTACCTCCGCGCAA.2	Endothelium / pericytes / adventitia
+TGCTGCTAGAGGTACC.2	Endothelium / pericytes / adventitia
+TGCTGCTAGGAATTAC.2	Capillary endothelium
+TGCTGCTAGGCTAGAC.2	Ventricular cardiomyocytes
+TGCTGCTCAAACAACA.2	Capillary endothelium
+TGCTGCTCAGCTTCGG.2	Capillary endothelium
+TGCTGCTGTACAGTGG.2	Epicardium-derived cells
+TGGACGCCAAGCGTAG.2	Fibroblast-like (related to smaller vascular development)
+TGGACGCGTGCATCTA.2	Myoz2-enriched cardiomyocytes
+TGGACGCTCAGTCAGT.2	Ventricular cardiomyocytes
+TGGCCAGCACAGGTTT.2	Fibroblast-like (related to smaller vascular development)
+TGGCCAGTCATGTAGC.2	Epicardium-derived cells
+TGGCGCACATGGGACA.2	Ventricular cardiomyocytes
+TGGCGCAGTCGGGTCT.2	Myoz2-enriched cardiomyocytes
+TGGCGCAGTCTCTTAT.2	Fibroblast-like (related to larger vascular development)
+TGGCGCAGTTCGTCTC.2	Endothelium / pericytes / adventitia
+TGGCTGGAGCTAGTGG.2	Epicardium-derived cells
+TGGCTGGCATGCGCAC.2	Capillary endothelium
+TGGCTGGGTACGACCC.2	Capillary endothelium
+TGGCTGGGTTAAAGTG.2	Capillary endothelium
+TGGCTGGTCCTAGTGA.2	Fibroblast-like (related to smaller vascular development)
+TGGCTGGTCTCGTATT.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TGGGAAGAGCTCCTCT.2	Capillary endothelium
+TGGGAAGCAGTTCCCT.2	Ventricular cardiomyocytes
+TGGGAAGGTGTAACGG.2	Myoz2-enriched cardiomyocytes
+TGGGAAGTCGCGATCG.2	Fibroblast-like (related to smaller vascular development)
+TGGGCGTAGGTTACCT.2	Ventricular cardiomyocytes
+TGGGCGTGTGCTGTAT.2	Fibroblast-like (related to smaller vascular development)
+TGGTTAGGTGAGGGTT.2	Capillary endothelium
+TGGTTAGTCGCACTCT.2	Fibroblast-like (related to smaller vascular development)
+TGTATTCCATCCGCGA.2	Ventricular cardiomyocytes
+TGTATTCGTGTAACGG.2	Fibroblast-like (related to smaller vascular development)
+TGTCCCAAGCTATGCT.2	Fibroblast-like (related to smaller vascular development)
+TGTCCCACAGCCAATT.2	Fibroblast-like (related to smaller vascular development)
+TGTCCCACATATACCG.2	Endothelium / pericytes / adventitia
+TGTGGTACAAGCGCTC.2	Capillary endothelium
+TGTGGTACACGACGAA.2	Capillary endothelium
+TGTGGTACATTGGCGC.2	Capillary endothelium
+TGTGGTATCCGCTGTT.2	Ventricular cardiomyocytes
+TGTGTTTAGAAAGTGG.2	Epicardium-derived cells
+TGTGTTTAGAACAACT.2	Ventricular cardiomyocytes
+TGTGTTTAGGATTCGG.2	Ventricular cardiomyocytes
+TGTGTTTCAGTCTTCC.2	Epicardium-derived cells
+TTAACTCAGACTGTAA.2	Ventricular cardiomyocytes
+TTAACTCAGTGTACCT.2	Ventricular cardiomyocytes
+TTAACTCCAAGTCTGT.2	Capillary endothelium
+TTAGGACAGGTGATTA.2	Fibroblast-like (related to smaller vascular development)
+TTAGGACCACAGACTT.2	Fibroblast-like (related to smaller vascular development)
+TTAGGACCACAGGCCT.2	Epicardium-derived cells
+TTAGGACGTCTAAACC.2	Ventricular cardiomyocytes
+TTAGGACGTTACGTCA.2	Fibroblast-like (related to smaller vascular development)
+TTAGGACGTTCCACGG.2	Endothelium / pericytes / adventitia
+TTAGGCAAGTGCAAGC.2	Capillary endothelium
+TTAGGCACATTCCTCG.2	Myoz2-enriched cardiomyocytes
+TTAGTTCAGGAGTCTG.2	Fibroblast-like (related to larger vascular development)
+TTAGTTCCAAAGGAAG.2	Ventricular cardiomyocytes
+TTAGTTCCAATAAGCA.2	Capillary endothelium
+TTAGTTCGTAACGTTC.2	Fibroblast-like (related to smaller vascular development)
+TTAGTTCGTCCGAGTC.2	Fibroblast-like (related to smaller vascular development)
+TTAGTTCTCAACGGCC.2	Ventricular cardiomyocytes
+TTAGTTCTCAGCGATT.2	Ventricular cardiomyocytes
+TTATGCTGTGACGCCT.2	Capillary endothelium
+TTATGCTGTTACGCGC.2	Capillary endothelium
+TTATGCTTCGTAGGAG.2	Epicardium-derived cells
+TTCCCAGCAGCCACCA.2	Fibroblast-like (related to smaller vascular development)
+TTCCCAGCATTACGAC.2	Fibroblast-like (related to larger vascular development)
+TTCCCAGCATTGTGCA.2	Capillary endothelium
+TTCCCAGTCACCAGGC.2	Ventricular cardiomyocytes
+TTCGAAGAGTGAACAT.2	Fibroblast-like (related to smaller vascular development)
+TTCGAAGCATATGAGA.2	Ventricular cardiomyocytes
+TTCGAAGGTAAGGGAA.2	Capillary endothelium
+TTCGAAGGTTTAGGAA.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTCGGTCGTAGAAGGA.2	Ventricular cardiomyocytes
+TTCGGTCGTTACGACT.2	Fibroblast-like (related to smaller vascular development)
+TTCGGTCTCCACTGGG.2	Capillary endothelium
+TTCTACAAGACAAAGG.2	Capillary endothelium
+TTCTACAAGGCTATCT.2	Capillary endothelium
+TTCTACAAGGTGATTA.2	Capillary endothelium
+TTCTACACAGTATAAG.2	Epicardial cells
+TTCTACATCATGTGGT.2	Fibroblast-like (related to smaller vascular development)
+TTCTCAACACCAACCG.2	Epicardium-derived cells
+TTCTCAATCTGCGACG.2	Ventricular cardiomyocytes
+TTCTCCTCATGTTGAC.2	Fibroblast-like (related to smaller vascular development)
+TTCTCCTTCGGCTTGG.2	Capillary endothelium
+TTCTCCTTCTCAAGTG.2	Ventricular cardiomyocytes
+TTCTTAGAGTGGTCCC.2	Capillary endothelium
+TTCTTAGGTCCAGTTA.2	Fibroblast-like (related to smaller vascular development)
+TTCTTAGTCAAGAAGT.2	Ventricular cardiomyocytes
+TTGAACGCAGGGAGAG.2	Epicardium-derived cells
+TTGAACGTCGCCAGCA.2	Fibroblast-like (related to larger vascular development)
+TTGACTTAGCAATATG.2	Fibroblast-like (related to smaller vascular development)
+TTGACTTCAGCGTCCA.2	Epicardium-derived cells
+TTGACTTGTTATTCTC.2	Fibroblast-like (related to larger vascular development)
+TTGACTTGTTTGTTTC.2	Epicardium-derived cells
+TTGACTTTCTACCTGC.2	Ventricular cardiomyocytes
+TTGACTTTCTTAGCCC.2	Epicardium-derived cells
+TTGCCGTCAATACGCT.2	Capillary endothelium
+TTGCCGTGTTCTCATT.2	Capillary endothelium
+TTGCGTCGTACAGCAG.2	Capillary endothelium
+TTGCGTCTCCTCTAGC.2	Fibroblast-like (related to smaller vascular development)
+TTGCGTCTCGGTTCGG.2	Epicardium-derived cells
+TTGGAACGTGTGACGA.2	Epicardium-derived cells
+TTGGCAAAGTTGTCGT.2	Ventricular cardiomyocytes
+TTGGCAACAACACGCC.2	Myoz2-enriched cardiomyocytes
+TTGGCAAGTCTCCATC.2	Capillary endothelium
+TTGGCAAGTCTTCAAG.2	Capillary endothelium
+TTGGCAAGTTTGGCGC.2	Capillary endothelium
+TTGGCAATCTCCGGTT.2	Ventricular cardiomyocytes
+TTGGCAATCTGGTTCC.2	Ventricular cardiomyocytes
+TTGTAGGAGACGCACA.2	Fibroblast-like (related to smaller vascular development)
+TTGTAGGAGCAAATCA.2	Myoz2-enriched cardiomyocytes
+TTGTAGGCAAGCGCTC.2	Capillary endothelium
+TTGTAGGCATCTACGA.2	Capillary endothelium
+TTGTAGGGTCCGAGTC.2	Ventricular cardiomyocytes
+TTTACTGCAAGTACCT.2	Capillary endothelium
+TTTACTGGTACCATCA.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTTACTGGTGATGTGG.2	Ventricular cardiomyocytes
+TTTACTGTCTAGCACA.2	Fibroblast-like (related to smaller vascular development)
+TTTATGCAGTCATCCA.2	Capillary endothelium
+TTTATGCCATCGTCGG.2	Ventricular cardiomyocytes
+TTTATGCCATTGCGGC.2	Endothelium / pericytes / adventitia
+TTTATGCGTCTCATCC.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTTATGCGTGCTCTTC.2	Fibroblast-like (related to smaller vascular development)
+TTTATGCTCACATACG.2	Capillary endothelium
+TTTCCTCAGATGCCTT.2	Capillary endothelium
+TTTCCTCAGTCCAGGA.2	Capillary endothelium
+TTTCCTCCAACTGGCC.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTTCCTCCACTTACGA.2	Capillary endothelium
+TTTGCGCGTATCAGTC.2	Ventricular cardiomyocytes
+TTTGCGCTCCGTCATC.2	Capillary endothelium
+TTTGCGCTCGGCGCTA.2	Fibroblast-like (related to smaller vascular development)
+TTTGGTTAGTGTCCAT.2	Epicardium-derived cells
+TTTGTCAAGGAATCGC.2	Fibroblast-like (related to cardiac skeleton connective tissue)
+TTTGTCACACGGTAAG.2	Fibroblast-like (related to cardiac skeleton connective tissue)
