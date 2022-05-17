@@ -1,0 +1,1951 @@
+cell	bio_celltype
+cell1	Astrocytes
+cell2	Interneuron
+cell3	Interneuron
+cell4	Neuroblast
+cell5	Interneuron
+cell6	Oligodendrocytes
+cell7	Interneuron
+cell8	Astrocytes
+cell9	Mitral/Tufted Cells
+cell10	Neuroblast
+cell11	Mitral/Tufted Cells
+cell12	Astrocytes
+cell13	Astrocytes
+cell14	Interneuron
+cell15	Interneuron
+cell16	Neuroblast
+cell17	Neuroblast
+cell18	Endothelial cells
+cell19	Mitral/Tufted Cells
+cell20	Astrocytes
+cell21	Mitral/Tufted Cells
+cell22	Interneuron
+cell23	Mitral/Tufted Cells
+cell24	Astrocytes
+cell25	Interneuron
+cell26	Interneuron
+cell27	Endothelial cells
+cell28	Endothelial cells
+cell29	Olfactory Ensheathing cells
+cell30	Interneuron
+cell33	Olfactory Ensheathing cells
+cell34	Astrocytes
+cell36	Astrocytes
+cell37	Olfactory Ensheathing cells
+cell38	Microglia
+cell39	Pia
+cell40	Pia
+cell41	Pia
+cell42	Pia
+cell43	Pia
+cell44	Microglia
+cell45	Pia
+cell46	Pia
+cell47	Pia
+cell48	Pia
+cell49	Pia
+cell51	Pia
+cell52	Pia
+cell53	Pia
+cell54	Pia
+cell55	Pia
+cell56	Olfactory Ensheathing cells
+cell57	Pia
+cell58	Endothelial cells
+cell59	Pia
+cell61	Olfactory Ensheathing cells
+cell62	Olfactory Ensheathing cells
+cell64	Endothelial cells
+cell65	Olfactory Ensheathing cells
+cell66	Olfactory Ensheathing cells
+cell67	Oligodendrocytes
+cell68	Interneuron
+cell69	Interneuron
+cell70	Neuroblast
+cell71	Astrocytes
+cell72	Interneuron
+cell73	Astrocytes
+cell74	Interneuron
+cell75	Endothelial cells
+cell76	Interneuron
+cell77	Astrocytes
+cell78	Interneuron
+cell79	Neuroblast
+cell80	Neuroblast
+cell81	Neuroblast
+cell82	Endothelial cells
+cell83	Interneuron
+cell84	Interneuron
+cell85	Astrocytes
+cell86	Interneuron
+cell87	Interneuron
+cell88	Endothelial cells
+cell89	Olfactory Ensheathing cells
+cell90	Interneuron
+cell91	Interneuron
+cell92	Astrocytes
+cell93	Astrocytes
+cell94	Interneuron
+cell95	Olfactory Ensheathing cells
+cell99	Olfactory Ensheathing cells
+cell100	Olfactory Ensheathing cells
+cell101	Olfactory Ensheathing cells
+cell102	Olfactory Ensheathing cells
+cell103	Astrocytes
+cell105	Olfactory Ensheathing cells
+cell107	Olfactory Ensheathing cells
+cell108	Olfactory Ensheathing cells
+cell109	Endothelial cells
+cell110	Olfactory Ensheathing cells
+cell111	Olfactory Ensheathing cells
+cell112	Olfactory Ensheathing cells
+cell113	Olfactory Ensheathing cells
+cell114	Interneuron
+cell115	Interneuron
+cell116	Interneuron
+cell117	Interneuron
+cell118	Astrocytes
+cell119	Interneuron
+cell121	Endothelial cells
+cell122	Neuroblast
+cell123	Interneuron
+cell124	Endothelial cells
+cell125	Interneuron
+cell127	Neuroblast
+cell128	Interneuron
+cell129	Interneuron
+cell130	Interneuron
+cell131	Neuroblast
+cell132	Interneuron
+cell135	Astrocytes
+cell137	Interneuron
+cell138	Neuroblast
+cell139	Interneuron
+cell140	Neuroblast
+cell141	Interneuron
+cell142	Interneuron
+cell144	Interneuron
+cell145	Neuroblast
+cell146	Interneuron
+cell147	Interneuron
+cell148	Neuroblast
+cell149	Interneuron
+cell150	Neuroblast
+cell151	Endothelial cells
+cell152	Microglia
+cell153	Interneuron
+cell154	Interneuron
+cell155	Interneuron
+cell156	Interneuron
+cell157	Astrocytes
+cell158	Olfactory Ensheathing cells
+cell159	Neuroblast
+cell160	Microglia
+cell161	Interneuron
+cell162	Interneuron
+cell163	Endothelial cells
+cell164	Olfactory Ensheathing cells
+cell166	Olfactory Ensheathing cells
+cell167	Pia
+cell168	Pia
+cell169	Olfactory Ensheathing cells
+cell170	Astrocytes
+cell171	Interneuron
+cell172	Interneuron
+cell173	Astrocytes
+cell174	Astrocytes
+cell175	Astrocytes
+cell176	Endothelial cells
+cell177	Oligodendrocytes
+cell178	Interneuron
+cell179	Interneuron
+cell180	Interneuron
+cell181	Astrocytes
+cell182	Microglia
+cell183	Microglia
+cell184	Astrocytes
+cell185	Interneuron
+cell186	Interneuron
+cell187	Interneuron
+cell188	Mitral/Tufted Cells
+cell189	Interneuron
+cell190	Astrocytes
+cell191	Neuroblast
+cell192	Interneuron
+cell193	Astrocytes
+cell194	Interneuron
+cell195	Interneuron
+cell196	Astrocytes
+cell197	Endothelial cells
+cell198	Astrocytes
+cell199	Interneuron
+cell200	Interneuron
+cell201	Interneuron
+cell202	Endothelial cells
+cell203	Interneuron
+cell204	Endothelial cells
+cell205	Endothelial cells
+cell206	Interneuron
+cell207	Olfactory Ensheathing cells
+cell208	Astrocytes
+cell210	Astrocytes
+cell211	Neuroblast
+cell212	Olfactory Ensheathing cells
+cell213	Olfactory Ensheathing cells
+cell214	Olfactory Ensheathing cells
+cell215	Olfactory Ensheathing cells
+cell216	Olfactory Ensheathing cells
+cell218	Olfactory Ensheathing cells
+cell219	Olfactory Ensheathing cells
+cell220	Olfactory Ensheathing cells
+cell221	Interneuron
+cell222	Microglia
+cell223	Endothelial cells
+cell224	Endothelial cells
+cell225	Pia
+cell226	Pia
+cell228	Endothelial cells
+cell229	Olfactory Ensheathing cells
+cell230	Olfactory Ensheathing cells
+cell231	Endothelial cells
+cell232	Olfactory Ensheathing cells
+cell233	Pia
+cell234	Astrocytes
+cell235	Pia
+cell236	Olfactory Ensheathing cells
+cell237	Pia
+cell238	Olfactory Ensheathing cells
+cell240	Interneuron
+cell241	Olfactory Ensheathing cells
+cell242	Interneuron
+cell244	Olfactory Ensheathing cells
+cell245	Interneuron
+cell246	Olfactory Ensheathing cells
+cell247	Interneuron
+cell248	Olfactory Ensheathing cells
+cell249	Interneuron
+cell251	Interneuron
+cell252	Mitral/Tufted Cells
+cell255	Interneuron
+cell256	Interneuron
+cell257	Oligodendrocytes
+cell258	Oligodendrocytes
+cell259	Neuroblast
+cell262	Neuroblast
+cell263	Neuroblast
+cell264	Astrocytes
+cell265	Interneuron
+cell266	Interneuron
+cell267	Oligodendrocytes
+cell268	Interneuron
+cell269	Interneuron
+cell272	Interneuron
+cell274	Neuroblast
+cell275	Astrocytes
+cell277	Astrocytes
+cell278	Neuroblast
+cell280	Interneuron
+cell281	Interneuron
+cell282	Neuroblast
+cell284	Interneuron
+cell285	Interneuron
+cell286	Neuroblast
+cell287	Neuroblast
+cell289	Neuroblast
+cell291	Interneuron
+cell292	Interneuron
+cell293	Neuroblast
+cell294	Interneuron
+cell295	Neuroblast
+cell296	Interneuron
+cell299	Interneuron
+cell300	Astrocytes
+cell302	Neuroblast
+cell303	Neuroblast
+cell304	Neuroblast
+cell306	Interneuron
+cell308	Interneuron
+cell309	Interneuron
+cell311	Interneuron
+cell312	Interneuron
+cell313	Interneuron
+cell314	Neuroblast
+cell315	Neuroblast
+cell316	Interneuron
+cell317	Neuroblast
+cell318	Neuroblast
+cell319	Interneuron
+cell320	Neuroblast
+cell322	Interneuron
+cell324	Interneuron
+cell325	Interneuron
+cell326	Neuroblast
+cell327	Interneuron
+cell328	Interneuron
+cell329	Interneuron
+cell330	Interneuron
+cell331	Interneuron
+cell332	Neuroblast
+cell334	Neuroblast
+cell335	Neuroblast
+cell336	Interneuron
+cell337	Interneuron
+cell338	Interneuron
+cell340	Interneuron
+cell341	Neuroblast
+cell342	Interneuron
+cell343	Neuroblast
+cell344	Oligodendrocytes
+cell345	Neuroblast
+cell347	Neuroblast
+cell348	Interneuron
+cell349	Astrocytes
+cell350	Interneuron
+cell351	Interneuron
+cell352	Interneuron
+cell353	Interneuron
+cell354	Interneuron
+cell355	Neuroblast
+cell356	Neuroblast
+cell357	Interneuron
+cell358	Neuroblast
+cell359	Interneuron
+cell360	Interneuron
+cell361	Neuroblast
+cell362	Interneuron
+cell363	Interneuron
+cell364	Interneuron
+cell365	Neuroblast
+cell366	Interneuron
+cell367	Microglia
+cell368	Interneuron
+cell369	Interneuron
+cell370	Interneuron
+cell371	Neuroblast
+cell373	Neuroblast
+cell374	Neuroblast
+cell375	Neuroblast
+cell376	Microglia
+cell377	Interneuron
+cell378	Interneuron
+cell379	Interneuron
+cell380	Interneuron
+cell381	Interneuron
+cell382	Astrocytes
+cell383	Interneuron
+cell384	Interneuron
+cell385	Interneuron
+cell386	Neuroblast
+cell387	Interneuron
+cell388	Interneuron
+cell389	Interneuron
+cell390	Neuroblast
+cell391	Neuroblast
+cell392	Interneuron
+cell393	Interneuron
+cell395	Interneuron
+cell396	Neuroblast
+cell398	Interneuron
+cell399	Interneuron
+cell400	Interneuron
+cell401	Interneuron
+cell402	Interneuron
+cell403	Interneuron
+cell404	Interneuron
+cell405	Interneuron
+cell406	Interneuron
+cell407	Neuroblast
+cell408	Neuroblast
+cell410	Interneuron
+cell411	Interneuron
+cell412	Interneuron
+cell413	Endothelial cells
+cell414	Interneuron
+cell415	Interneuron
+cell416	Neuroblast
+cell417	Interneuron
+cell418	Interneuron
+cell419	Interneuron
+cell420	Neuroblast
+cell421	Astrocytes
+cell422	Interneuron
+cell424	Endothelial cells
+cell425	Astrocytes
+cell426	Neuroblast
+cell427	Interneuron
+cell428	Interneuron
+cell429	Interneuron
+cell430	Neuroblast
+cell431	Interneuron
+cell432	Interneuron
+cell433	Interneuron
+cell434	Interneuron
+cell435	Interneuron
+cell436	Interneuron
+cell437	Neuroblast
+cell438	Neuroblast
+cell439	Interneuron
+cell440	Interneuron
+cell441	Interneuron
+cell442	Microglia
+cell443	Neuroblast
+cell444	Interneuron
+cell445	Astrocytes
+cell446	Interneuron
+cell447	Interneuron
+cell448	Interneuron
+cell449	Astrocytes
+cell450	Neuroblast
+cell451	Interneuron
+cell452	Neuroblast
+cell453	Interneuron
+cell454	Oligodendrocytes
+cell455	Interneuron
+cell457	Neuroblast
+cell458	Interneuron
+cell459	Interneuron
+cell460	Oligodendrocytes
+cell461	Interneuron
+cell464	Neuroblast
+cell465	Neuroblast
+cell466	Interneuron
+cell467	Interneuron
+cell468	Neuroblast
+cell469	Neuroblast
+cell470	Neuroblast
+cell471	Neuroblast
+cell472	Endothelial cells
+cell473	Neuroblast
+cell474	Astrocytes
+cell475	Neuroblast
+cell476	Neuroblast
+cell477	Interneuron
+cell478	Neuroblast
+cell479	Interneuron
+cell480	Interneuron
+cell481	Interneuron
+cell482	Interneuron
+cell483	Interneuron
+cell484	Neuroblast
+cell485	Neuroblast
+cell486	Interneuron
+cell487	Neuroblast
+cell488	Interneuron
+cell489	Interneuron
+cell490	Interneuron
+cell491	Astrocytes
+cell492	Interneuron
+cell495	Interneuron
+cell498	Interneuron
+cell499	Neuroblast
+cell500	Microglia
+cell501	Astrocytes
+cell502	Interneuron
+cell503	Interneuron
+cell504	Interneuron
+cell505	Neuroblast
+cell506	Astrocytes
+cell507	Interneuron
+cell508	Interneuron
+cell509	Neuroblast
+cell510	Neuroblast
+cell511	Interneuron
+cell512	Neuroblast
+cell513	Interneuron
+cell516	Interneuron
+cell517	Astrocytes
+cell518	Interneuron
+cell519	Interneuron
+cell520	Neuroblast
+cell521	Neuroblast
+cell522	Interneuron
+cell524	Interneuron
+cell525	Interneuron
+cell526	Astrocytes
+cell527	Interneuron
+cell528	Neuroblast
+cell529	Interneuron
+cell530	Neuroblast
+cell531	Interneuron
+cell532	Interneuron
+cell533	Neuroblast
+cell534	Interneuron
+cell535	Neuroblast
+cell536	Astrocytes
+cell537	Neuroblast
+cell538	Interneuron
+cell539	Interneuron
+cell540	Interneuron
+cell541	Neuroblast
+cell542	Interneuron
+cell543	Interneuron
+cell544	Interneuron
+cell545	Interneuron
+cell546	Astrocytes
+cell547	Interneuron
+cell548	Astrocytes
+cell549	Neuroblast
+cell550	Interneuron
+cell551	Interneuron
+cell552	Interneuron
+cell553	Interneuron
+cell555	Oligodendrocytes
+cell556	Interneuron
+cell557	Interneuron
+cell558	Neuroblast
+cell559	Interneuron
+cell560	Interneuron
+cell561	Interneuron
+cell562	Neuroblast
+cell563	Interneuron
+cell564	Interneuron
+cell565	Interneuron
+cell566	Neuroblast
+cell567	Interneuron
+cell568	Neuroblast
+cell569	Neuroblast
+cell570	Interneuron
+cell571	Interneuron
+cell572	Interneuron
+cell573	Neuroblast
+cell574	Astrocytes
+cell575	Interneuron
+cell576	Interneuron
+cell577	Neuroblast
+cell578	Interneuron
+cell579	Interneuron
+cell580	Interneuron
+cell581	Astrocytes
+cell582	Interneuron
+cell583	Interneuron
+cell584	Interneuron
+cell585	Interneuron
+cell586	Interneuron
+cell587	Interneuron
+cell588	Interneuron
+cell589	Interneuron
+cell590	Interneuron
+cell591	Interneuron
+cell592	Interneuron
+cell593	Interneuron
+cell594	Interneuron
+cell595	Interneuron
+cell596	Neuroblast
+cell597	Neuroblast
+cell598	Neuroblast
+cell599	Neuroblast
+cell600	Interneuron
+cell601	Interneuron
+cell602	Neuroblast
+cell603	Interneuron
+cell604	Interneuron
+cell605	Microglia
+cell606	Interneuron
+cell607	Neuroblast
+cell608	Interneuron
+cell609	Interneuron
+cell610	Interneuron
+cell611	Interneuron
+cell612	Interneuron
+cell613	Interneuron
+cell614	Interneuron
+cell615	Astrocytes
+cell616	Interneuron
+cell617	Neuroblast
+cell618	Interneuron
+cell619	Neuroblast
+cell620	Neuroblast
+cell621	Interneuron
+cell622	Interneuron
+cell623	Interneuron
+cell624	Interneuron
+cell625	Interneuron
+cell626	Interneuron
+cell627	Interneuron
+cell628	Interneuron
+cell629	Interneuron
+cell630	Interneuron
+cell631	Interneuron
+cell632	Endothelial cells
+cell633	Interneuron
+cell634	Interneuron
+cell635	Interneuron
+cell636	Astrocytes
+cell637	Interneuron
+cell638	Neuroblast
+cell639	Interneuron
+cell640	Interneuron
+cell641	Interneuron
+cell642	Interneuron
+cell643	Interneuron
+cell644	Interneuron
+cell645	Interneuron
+cell646	Interneuron
+cell647	Interneuron
+cell648	Neuroblast
+cell649	Astrocytes
+cell650	Interneuron
+cell652	Neuroblast
+cell653	Oligodendrocytes
+cell654	Neuroblast
+cell655	Interneuron
+cell656	Interneuron
+cell657	Interneuron
+cell658	Neuroblast
+cell659	Neuroblast
+cell660	Neuroblast
+cell661	Neuroblast
+cell662	Neuroblast
+cell663	Interneuron
+cell664	Interneuron
+cell665	Astrocytes
+cell666	Interneuron
+cell667	Neuroblast
+cell668	Astrocytes
+cell669	Neuroblast
+cell670	Neuroblast
+cell671	Astrocytes
+cell672	Astrocytes
+cell673	Interneuron
+cell674	Interneuron
+cell675	Neuroblast
+cell676	Astrocytes
+cell677	Interneuron
+cell678	Interneuron
+cell679	Neuroblast
+cell680	Interneuron
+cell681	Interneuron
+cell682	Neuroblast
+cell683	Neuroblast
+cell684	Interneuron
+cell685	Interneuron
+cell686	Interneuron
+cell687	Astrocytes
+cell688	Interneuron
+cell689	Neuroblast
+cell690	Neuroblast
+cell691	Neuroblast
+cell692	Interneuron
+cell693	Interneuron
+cell694	Interneuron
+cell695	Interneuron
+cell696	Interneuron
+cell697	Interneuron
+cell698	Interneuron
+cell699	Interneuron
+cell700	Neuroblast
+cell701	Neuroblast
+cell702	Neuroblast
+cell703	Astrocytes
+cell704	Interneuron
+cell705	Interneuron
+cell706	Interneuron
+cell707	Neuroblast
+cell708	Interneuron
+cell709	Interneuron
+cell710	Interneuron
+cell711	Neuroblast
+cell712	Interneuron
+cell713	Interneuron
+cell714	Interneuron
+cell715	Neuroblast
+cell716	Interneuron
+cell717	Interneuron
+cell718	Endothelial cells
+cell719	Neuroblast
+cell720	Interneuron
+cell721	Interneuron
+cell722	Neuroblast
+cell723	Interneuron
+cell724	Astrocytes
+cell725	Oligodendrocytes
+cell726	Interneuron
+cell727	Neuroblast
+cell728	Interneuron
+cell729	Astrocytes
+cell730	Neuroblast
+cell731	Interneuron
+cell732	Interneuron
+cell733	Astrocytes
+cell734	Astrocytes
+cell735	Interneuron
+cell736	Neuroblast
+cell737	Neuroblast
+cell738	Neuroblast
+cell739	Neuroblast
+cell740	Neuroblast
+cell741	Interneuron
+cell742	Neuroblast
+cell743	Neuroblast
+cell744	Neuroblast
+cell745	Interneuron
+cell746	Interneuron
+cell747	Neuroblast
+cell748	Neuroblast
+cell749	Astrocytes
+cell750	Interneuron
+cell751	Interneuron
+cell752	Neuroblast
+cell753	Astrocytes
+cell754	Interneuron
+cell755	Interneuron
+cell756	Interneuron
+cell757	Interneuron
+cell758	Interneuron
+cell759	Microglia
+cell760	Neuroblast
+cell761	Interneuron
+cell762	Neuroblast
+cell763	Interneuron
+cell764	Neuroblast
+cell765	Neuroblast
+cell766	Interneuron
+cell767	Interneuron
+cell768	Interneuron
+cell769	Interneuron
+cell770	Neuroblast
+cell771	Interneuron
+cell772	Interneuron
+cell773	Interneuron
+cell775	Interneuron
+cell776	Interneuron
+cell777	Interneuron
+cell778	Interneuron
+cell779	Interneuron
+cell780	Neuroblast
+cell781	Interneuron
+cell782	Interneuron
+cell783	Interneuron
+cell784	Interneuron
+cell785	Interneuron
+cell786	Interneuron
+cell787	Interneuron
+cell788	Neuroblast
+cell789	Neuroblast
+cell790	Endothelial cells
+cell791	Neuroblast
+cell792	Interneuron
+cell793	Interneuron
+cell794	Interneuron
+cell795	Neuroblast
+cell796	Neuroblast
+cell797	Interneuron
+cell798	Interneuron
+cell799	Neuroblast
+cell800	Interneuron
+cell801	Interneuron
+cell802	Astrocytes
+cell803	Interneuron
+cell804	Interneuron
+cell805	Neuroblast
+cell806	Interneuron
+cell807	Interneuron
+cell808	Endothelial cells
+cell809	Interneuron
+cell810	Microglia
+cell811	Endothelial cells
+cell812	Interneuron
+cell813	Interneuron
+cell814	Neuroblast
+cell815	Interneuron
+cell816	Interneuron
+cell817	Neuroblast
+cell818	Astrocytes
+cell819	Astrocytes
+cell820	Astrocytes
+cell821	Interneuron
+cell822	Astrocytes
+cell823	Astrocytes
+cell824	Neuroblast
+cell825	Interneuron
+cell826	Endothelial cells
+cell827	Interneuron
+cell828	Interneuron
+cell829	Interneuron
+cell830	Interneuron
+cell831	Interneuron
+cell832	Interneuron
+cell833	Neuroblast
+cell834	Interneuron
+cell835	Neuroblast
+cell836	Astrocytes
+cell837	Neuroblast
+cell838	Neuroblast
+cell839	Interneuron
+cell840	Neuroblast
+cell841	Neuroblast
+cell842	Neuroblast
+cell843	Astrocytes
+cell844	Astrocytes
+cell845	Interneuron
+cell846	Neuroblast
+cell847	Interneuron
+cell848	Interneuron
+cell849	Interneuron
+cell850	Interneuron
+cell851	Interneuron
+cell852	Neuroblast
+cell853	Interneuron
+cell854	Interneuron
+cell855	Interneuron
+cell856	Interneuron
+cell857	Microglia
+cell858	Neuroblast
+cell859	Neuroblast
+cell860	Interneuron
+cell861	Interneuron
+cell862	Neuroblast
+cell863	Interneuron
+cell864	Interneuron
+cell865	Neuroblast
+cell866	Interneuron
+cell867	Interneuron
+cell868	Interneuron
+cell869	Astrocytes
+cell870	Interneuron
+cell871	Interneuron
+cell872	Interneuron
+cell873	Neuroblast
+cell874	Neuroblast
+cell875	Interneuron
+cell876	Astrocytes
+cell877	Interneuron
+cell878	Interneuron
+cell879	Neuroblast
+cell880	Interneuron
+cell881	Interneuron
+cell882	Neuroblast
+cell883	Interneuron
+cell884	Interneuron
+cell885	Interneuron
+cell886	Interneuron
+cell887	Neuroblast
+cell888	Astrocytes
+cell889	Astrocytes
+cell890	Interneuron
+cell891	Interneuron
+cell892	Microglia
+cell893	Neuroblast
+cell894	Interneuron
+cell895	Neuroblast
+cell896	Interneuron
+cell897	Interneuron
+cell898	Neuroblast
+cell899	Neuroblast
+cell900	Interneuron
+cell901	Interneuron
+cell902	Neuroblast
+cell903	Neuroblast
+cell904	Interneuron
+cell905	Interneuron
+cell906	Interneuron
+cell907	Interneuron
+cell908	Interneuron
+cell909	Interneuron
+cell910	Interneuron
+cell911	Interneuron
+cell912	Interneuron
+cell913	Astrocytes
+cell914	Interneuron
+cell915	Interneuron
+cell916	Interneuron
+cell917	Interneuron
+cell918	Interneuron
+cell919	Astrocytes
+cell920	Interneuron
+cell921	Interneuron
+cell922	Interneuron
+cell923	Interneuron
+cell924	Neuroblast
+cell925	Neuroblast
+cell926	Neuroblast
+cell927	Interneuron
+cell928	Interneuron
+cell929	Interneuron
+cell930	Neuroblast
+cell931	Interneuron
+cell932	Neuroblast
+cell933	Interneuron
+cell934	Interneuron
+cell935	Neuroblast
+cell936	Interneuron
+cell937	Neuroblast
+cell938	Interneuron
+cell939	Neuroblast
+cell940	Interneuron
+cell941	Interneuron
+cell942	Interneuron
+cell943	Interneuron
+cell944	Neuroblast
+cell945	Neuroblast
+cell946	Neuroblast
+cell947	Interneuron
+cell948	Interneuron
+cell949	Neuroblast
+cell950	Interneuron
+cell951	Neuroblast
+cell952	Interneuron
+cell953	Interneuron
+cell954	Neuroblast
+cell955	Interneuron
+cell956	Neuroblast
+cell957	Neuroblast
+cell958	Interneuron
+cell959	Interneuron
+cell960	Interneuron
+cell961	Interneuron
+cell962	Interneuron
+cell963	Interneuron
+cell964	Interneuron
+cell965	Neuroblast
+cell966	Neuroblast
+cell967	Interneuron
+cell968	Neuroblast
+cell969	Neuroblast
+cell970	Interneuron
+cell971	Interneuron
+cell972	Interneuron
+cell974	Interneuron
+cell975	Neuroblast
+cell976	Interneuron
+cell977	Neuroblast
+cell978	Astrocytes
+cell979	Interneuron
+cell980	Neuroblast
+cell981	Neuroblast
+cell982	Neuroblast
+cell983	Interneuron
+cell984	Interneuron
+cell985	Interneuron
+cell986	Neuroblast
+cell987	Interneuron
+cell988	Interneuron
+cell989	Interneuron
+cell990	Neuroblast
+cell991	Interneuron
+cell992	Interneuron
+cell993	Neuroblast
+cell994	Interneuron
+cell995	Astrocytes
+cell996	Interneuron
+cell997	Interneuron
+cell998	Neuroblast
+cell999	Neuroblast
+cell1000	Interneuron
+cell1001	Microglia
+cell1002	Interneuron
+cell1003	Interneuron
+cell1004	Interneuron
+cell1005	Interneuron
+cell1006	Interneuron
+cell1007	Neuroblast
+cell1008	Interneuron
+cell1009	Interneuron
+cell1010	Interneuron
+cell1011	Interneuron
+cell1012	Interneuron
+cell1013	Interneuron
+cell1014	Interneuron
+cell1015	Interneuron
+cell1016	Endothelial cells
+cell1017	Neuroblast
+cell1018	Interneuron
+cell1019	Interneuron
+cell1020	Neuroblast
+cell1021	Interneuron
+cell1022	Neuroblast
+cell1023	Interneuron
+cell1025	Neuroblast
+cell1026	Neuroblast
+cell1027	Interneuron
+cell1028	Interneuron
+cell1029	Interneuron
+cell1030	Neuroblast
+cell1031	Neuroblast
+cell1032	Neuroblast
+cell1033	Interneuron
+cell1034	Endothelial cells
+cell1035	Astrocytes
+cell1036	Neuroblast
+cell1037	Interneuron
+cell1038	Interneuron
+cell1039	Neuroblast
+cell1040	Interneuron
+cell1041	Interneuron
+cell1042	Astrocytes
+cell1043	Astrocytes
+cell1044	Interneuron
+cell1045	Interneuron
+cell1046	Interneuron
+cell1047	Interneuron
+cell1048	Interneuron
+cell1049	Interneuron
+cell1050	Astrocytes
+cell1051	Interneuron
+cell1052	Interneuron
+cell1053	Interneuron
+cell1054	Interneuron
+cell1055	Neuroblast
+cell1056	Interneuron
+cell1057	Astrocytes
+cell1058	Endothelial cells
+cell1059	Interneuron
+cell1060	Interneuron
+cell1061	Interneuron
+cell1062	Astrocytes
+cell1063	Interneuron
+cell1064	Astrocytes
+cell1065	Interneuron
+cell1066	Interneuron
+cell1067	Neuroblast
+cell1068	Interneuron
+cell1069	Interneuron
+cell1070	Astrocytes
+cell1071	Astrocytes
+cell1072	Neuroblast
+cell1073	Interneuron
+cell1074	Interneuron
+cell1075	Interneuron
+cell1076	Neuroblast
+cell1077	Astrocytes
+cell1078	Astrocytes
+cell1080	Interneuron
+cell1081	Neuroblast
+cell1082	Neuroblast
+cell1083	Interneuron
+cell1084	Interneuron
+cell1085	Interneuron
+cell1086	Interneuron
+cell1087	Interneuron
+cell1088	Interneuron
+cell1089	Interneuron
+cell1090	Interneuron
+cell1091	Interneuron
+cell1092	Interneuron
+cell1093	Neuroblast
+cell1094	Neuroblast
+cell1095	Endothelial cells
+cell1096	Neuroblast
+cell1097	Neuroblast
+cell1098	Interneuron
+cell1099	Neuroblast
+cell1100	Interneuron
+cell1101	Endothelial cells
+cell1102	Interneuron
+cell1103	Neuroblast
+cell1104	Interneuron
+cell1105	Neuroblast
+cell1106	Interneuron
+cell1107	Neuroblast
+cell1108	Interneuron
+cell1109	Neuroblast
+cell1110	Interneuron
+cell1111	Interneuron
+cell1112	Neuroblast
+cell1113	Interneuron
+cell1114	Interneuron
+cell1115	Interneuron
+cell1116	Interneuron
+cell1117	Astrocytes
+cell1118	Neuroblast
+cell1119	Interneuron
+cell1121	Neuroblast
+cell1122	Interneuron
+cell1123	Interneuron
+cell1124	Astrocytes
+cell1125	Interneuron
+cell1126	Neuroblast
+cell1127	Interneuron
+cell1128	Interneuron
+cell1129	Astrocytes
+cell1131	Interneuron
+cell1132	Astrocytes
+cell1133	Astrocytes
+cell1134	Interneuron
+cell1135	Neuroblast
+cell1136	Neuroblast
+cell1137	Astrocytes
+cell1138	Neuroblast
+cell1139	Interneuron
+cell1140	Interneuron
+cell1141	Interneuron
+cell1142	Interneuron
+cell1143	Interneuron
+cell1144	Interneuron
+cell1145	Interneuron
+cell1146	Interneuron
+cell1147	Interneuron
+cell1148	Interneuron
+cell1149	Interneuron
+cell1150	Astrocytes
+cell1151	Interneuron
+cell1152	Neuroblast
+cell1153	Astrocytes
+cell1154	Interneuron
+cell1156	Interneuron
+cell1157	Interneuron
+cell1158	Neuroblast
+cell1159	Interneuron
+cell1160	Interneuron
+cell1161	Interneuron
+cell1162	Interneuron
+cell1163	Neuroblast
+cell1164	Interneuron
+cell1165	Astrocytes
+cell1166	Interneuron
+cell1167	Neuroblast
+cell1168	Neuroblast
+cell1169	Neuroblast
+cell1170	Interneuron
+cell1171	Interneuron
+cell1172	Interneuron
+cell1173	Neuroblast
+cell1174	Interneuron
+cell1175	Interneuron
+cell1176	Interneuron
+cell1177	Neuroblast
+cell1178	Interneuron
+cell1179	Interneuron
+cell1180	Interneuron
+cell1181	Interneuron
+cell1182	Interneuron
+cell1183	Neuroblast
+cell1184	Neuroblast
+cell1185	Interneuron
+cell1186	Interneuron
+cell1187	Interneuron
+cell1188	Interneuron
+cell1189	Interneuron
+cell1190	Neuroblast
+cell1191	Interneuron
+cell1192	Interneuron
+cell1193	Interneuron
+cell1194	Interneuron
+cell1195	Interneuron
+cell1196	Interneuron
+cell1197	Endothelial cells
+cell1198	Interneuron
+cell1199	Interneuron
+cell1200	Interneuron
+cell1201	Interneuron
+cell1202	Astrocytes
+cell1203	Interneuron
+cell1204	Interneuron
+cell1205	Neuroblast
+cell1206	Interneuron
+cell1207	Interneuron
+cell1208	Interneuron
+cell1209	Astrocytes
+cell1210	Neuroblast
+cell1211	Interneuron
+cell1212	Interneuron
+cell1213	Interneuron
+cell1214	Interneuron
+cell1215	Interneuron
+cell1216	Interneuron
+cell1217	Interneuron
+cell1218	Interneuron
+cell1219	Microglia
+cell1220	Interneuron
+cell1221	Interneuron
+cell1222	Interneuron
+cell1223	Interneuron
+cell1224	Interneuron
+cell1225	Interneuron
+cell1226	Interneuron
+cell1227	Interneuron
+cell1228	Interneuron
+cell1229	Interneuron
+cell1230	Interneuron
+cell1232	Interneuron
+cell1233	Interneuron
+cell1234	Interneuron
+cell1235	Neuroblast
+cell1236	Interneuron
+cell1237	Interneuron
+cell1238	Neuroblast
+cell1239	Interneuron
+cell1240	Interneuron
+cell1241	Interneuron
+cell1242	Interneuron
+cell1243	Neuroblast
+cell1244	Interneuron
+cell1245	Interneuron
+cell1246	Interneuron
+cell1247	Interneuron
+cell1248	Interneuron
+cell1249	Microglia
+cell1250	Neuroblast
+cell1251	Interneuron
+cell1252	Neuroblast
+cell1253	Interneuron
+cell1254	Interneuron
+cell1255	Interneuron
+cell1256	Interneuron
+cell1257	Interneuron
+cell1258	Interneuron
+cell1259	Interneuron
+cell1260	Neuroblast
+cell1261	Neuroblast
+cell1262	Interneuron
+cell1263	Interneuron
+cell1264	Interneuron
+cell1265	Oligodendrocytes
+cell1266	Interneuron
+cell1267	Neuroblast
+cell1268	Neuroblast
+cell1269	Endothelial cells
+cell1270	Interneuron
+cell1271	Interneuron
+cell1272	Interneuron
+cell1273	Interneuron
+cell1275	Interneuron
+cell1276	Interneuron
+cell1277	Interneuron
+cell1278	Interneuron
+cell1279	Interneuron
+cell1280	Interneuron
+cell1281	Interneuron
+cell1282	Interneuron
+cell1283	Astrocytes
+cell1284	Interneuron
+cell1285	Interneuron
+cell1286	Interneuron
+cell1287	Interneuron
+cell1288	Interneuron
+cell1289	Interneuron
+cell1290	Endothelial cells
+cell1291	Neuroblast
+cell1292	Interneuron
+cell1293	Interneuron
+cell1294	Astrocytes
+cell1295	Interneuron
+cell1296	Interneuron
+cell1297	Interneuron
+cell1298	Interneuron
+cell1300	Interneuron
+cell1301	Interneuron
+cell1302	Astrocytes
+cell1303	Astrocytes
+cell1304	Interneuron
+cell1305	Interneuron
+cell1306	Interneuron
+cell1307	Interneuron
+cell1308	Interneuron
+cell1309	Neuroblast
+cell1310	Interneuron
+cell1311	Interneuron
+cell1312	Interneuron
+cell1313	Astrocytes
+cell1314	Neuroblast
+cell1315	Interneuron
+cell1316	Interneuron
+cell1317	Neuroblast
+cell1318	Interneuron
+cell1319	Interneuron
+cell1320	Interneuron
+cell1321	Neuroblast
+cell1322	Interneuron
+cell1323	Microglia
+cell1324	Interneuron
+cell1325	Interneuron
+cell1326	Interneuron
+cell1327	Interneuron
+cell1328	Interneuron
+cell1329	Astrocytes
+cell1330	Interneuron
+cell1331	Interneuron
+cell1332	Interneuron
+cell1333	Interneuron
+cell1334	Interneuron
+cell1335	Microglia
+cell1336	Interneuron
+cell1337	Interneuron
+cell1338	Interneuron
+cell1339	Neuroblast
+cell1340	Neuroblast
+cell1341	Astrocytes
+cell1342	Interneuron
+cell1343	Interneuron
+cell1344	Microglia
+cell1345	Interneuron
+cell1346	Neuroblast
+cell1347	Neuroblast
+cell1348	Interneuron
+cell1349	Interneuron
+cell1350	Microglia
+cell1351	Astrocytes
+cell1352	Interneuron
+cell1353	Interneuron
+cell1354	Microglia
+cell1355	Astrocytes
+cell1356	Astrocytes
+cell1357	Interneuron
+cell1358	Interneuron
+cell1359	Interneuron
+cell1360	Interneuron
+cell1361	Interneuron
+cell1362	Interneuron
+cell1363	Interneuron
+cell1364	Interneuron
+cell1365	Interneuron
+cell1366	Interneuron
+cell1367	Astrocytes
+cell1368	Interneuron
+cell1369	Interneuron
+cell1370	Astrocytes
+cell1371	Interneuron
+cell1372	Neuroblast
+cell1373	Interneuron
+cell1374	Interneuron
+cell1375	Interneuron
+cell1376	Neuroblast
+cell1377	Neuroblast
+cell1378	Interneuron
+cell1379	Neuroblast
+cell1380	Interneuron
+cell1381	Interneuron
+cell1382	Interneuron
+cell1383	Interneuron
+cell1384	Interneuron
+cell1386	Astrocytes
+cell1387	Interneuron
+cell1388	Endothelial cells
+cell1389	Neuroblast
+cell1390	Interneuron
+cell1391	Neuroblast
+cell1392	Interneuron
+cell1393	Neuroblast
+cell1394	Neuroblast
+cell1395	Neuroblast
+cell1396	Neuroblast
+cell1397	Interneuron
+cell1398	Neuroblast
+cell1399	Interneuron
+cell1400	Neuroblast
+cell1401	Interneuron
+cell1402	Interneuron
+cell1403	Neuroblast
+cell1404	Interneuron
+cell1405	Neuroblast
+cell1406	Interneuron
+cell1407	Neuroblast
+cell1408	Interneuron
+cell1409	Interneuron
+cell1410	Interneuron
+cell1411	Astrocytes
+cell1412	Interneuron
+cell1413	Neuroblast
+cell1414	Neuroblast
+cell1415	Interneuron
+cell1416	Neuroblast
+cell1417	Interneuron
+cell1418	Microglia
+cell1419	Neuroblast
+cell1420	Neuroblast
+cell1421	Interneuron
+cell1422	Astrocytes
+cell1423	Interneuron
+cell1424	Interneuron
+cell1425	Interneuron
+cell1426	Interneuron
+cell1427	Astrocytes
+cell1428	Neuroblast
+cell1429	Interneuron
+cell1430	Astrocytes
+cell1431	Astrocytes
+cell1432	Interneuron
+cell1433	Neuroblast
+cell1434	Interneuron
+cell1435	Neuroblast
+cell1436	Neuroblast
+cell1437	Astrocytes
+cell1438	Astrocytes
+cell1439	Astrocytes
+cell1440	Neuroblast
+cell1441	Neuroblast
+cell1442	Neuroblast
+cell1444	Neuroblast
+cell1445	Interneuron
+cell1446	Interneuron
+cell1447	Interneuron
+cell1448	Neuroblast
+cell1449	Interneuron
+cell1450	Astrocytes
+cell1451	Microglia
+cell1452	Interneuron
+cell1453	Astrocytes
+cell1454	Interneuron
+cell1455	Neuroblast
+cell1456	Endothelial cells
+cell1457	Interneuron
+cell1458	Interneuron
+cell1459	Neuroblast
+cell1460	Astrocytes
+cell1461	Astrocytes
+cell1462	Astrocytes
+cell1463	Interneuron
+cell1464	Astrocytes
+cell1465	Interneuron
+cell1466	Endothelial cells
+cell1467	Interneuron
+cell1468	Interneuron
+cell1470	Interneuron
+cell1471	Astrocytes
+cell1472	Interneuron
+cell1473	Interneuron
+cell1474	Interneuron
+cell1475	Interneuron
+cell1476	Interneuron
+cell1477	Interneuron
+cell1478	Interneuron
+cell1479	Interneuron
+cell1480	Interneuron
+cell1481	Astrocytes
+cell1482	Interneuron
+cell1483	Interneuron
+cell1484	Interneuron
+cell1485	Interneuron
+cell1486	Astrocytes
+cell1487	Neuroblast
+cell1488	Interneuron
+cell1489	Astrocytes
+cell1490	Interneuron
+cell1491	Interneuron
+cell1492	Interneuron
+cell1493	Astrocytes
+cell1494	Interneuron
+cell1495	Neuroblast
+cell1496	Microglia
+cell1497	Interneuron
+cell1498	Interneuron
+cell1499	Neuroblast
+cell1500	Neuroblast
+cell1501	Interneuron
+cell1502	Interneuron
+cell1503	Astrocytes
+cell1504	Interneuron
+cell1505	Microglia
+cell1506	Interneuron
+cell1507	Interneuron
+cell1508	Interneuron
+cell1509	Endothelial cells
+cell1510	Interneuron
+cell1511	Neuroblast
+cell1512	Interneuron
+cell1513	Endothelial cells
+cell1514	Interneuron
+cell1515	Interneuron
+cell1516	Interneuron
+cell1517	Interneuron
+cell1518	Neuroblast
+cell1519	Interneuron
+cell1520	Interneuron
+cell1521	Neuroblast
+cell1522	Interneuron
+cell1523	Interneuron
+cell1524	Interneuron
+cell1525	Neuroblast
+cell1526	Interneuron
+cell1527	Interneuron
+cell1528	Interneuron
+cell1529	Interneuron
+cell1530	Interneuron
+cell1531	Interneuron
+cell1532	Interneuron
+cell1533	Interneuron
+cell1534	Interneuron
+cell1535	Interneuron
+cell1536	Interneuron
+cell1537	Neuroblast
+cell1538	Interneuron
+cell1539	Interneuron
+cell1540	Interneuron
+cell1541	Interneuron
+cell1542	Interneuron
+cell1543	Neuroblast
+cell1544	Neuroblast
+cell1545	Interneuron
+cell1546	Interneuron
+cell1547	Interneuron
+cell1548	Interneuron
+cell1549	Interneuron
+cell1550	Neuroblast
+cell1551	Interneuron
+cell1552	Interneuron
+cell1553	Neuroblast
+cell1554	Microglia
+cell1555	Interneuron
+cell1556	Interneuron
+cell1557	Interneuron
+cell1558	Neuroblast
+cell1559	Microglia
+cell1560	Interneuron
+cell1561	Interneuron
+cell1562	Neuroblast
+cell1563	Neuroblast
+cell1564	Interneuron
+cell1565	Interneuron
+cell1566	Interneuron
+cell1567	Neuroblast
+cell1568	Interneuron
+cell1569	Interneuron
+cell1570	Interneuron
+cell1571	Interneuron
+cell1572	Interneuron
+cell1574	Interneuron
+cell1575	Interneuron
+cell1576	Interneuron
+cell1577	Interneuron
+cell1578	Interneuron
+cell1579	Interneuron
+cell1580	Interneuron
+cell1581	Interneuron
+cell1582	Astrocytes
+cell1583	Endothelial cells
+cell1584	Neuroblast
+cell1585	Interneuron
+cell1586	Endothelial cells
+cell1587	Neuroblast
+cell1588	Interneuron
+cell1589	Interneuron
+cell1590	Microglia
+cell1591	Interneuron
+cell1592	Interneuron
+cell1593	Oligodendrocytes
+cell1594	Interneuron
+cell1595	Interneuron
+cell1596	Interneuron
+cell1597	Interneuron
+cell1598	Interneuron
+cell1599	Astrocytes
+cell1600	Interneuron
+cell1601	Neuroblast
+cell1602	Interneuron
+cell1603	Interneuron
+cell1604	Astrocytes
+cell1605	Interneuron
+cell1606	Interneuron
+cell1607	Interneuron
+cell1608	Interneuron
+cell1609	Interneuron
+cell1610	Endothelial cells
+cell1611	Endothelial cells
+cell1612	Neuroblast
+cell1613	Interneuron
+cell1614	Interneuron
+cell1615	Interneuron
+cell1616	Interneuron
+cell1617	Neuroblast
+cell1618	Interneuron
+cell1620	Interneuron
+cell1621	Neuroblast
+cell1622	Interneuron
+cell1623	Astrocytes
+cell1624	Interneuron
+cell1625	Interneuron
+cell1627	Interneuron
+cell1628	Microglia
+cell1629	Astrocytes
+cell1630	Interneuron
+cell1631	Mitral/Tufted Cells
+cell1632	Astrocytes
+cell1633	Mitral/Tufted Cells
+cell1634	Interneuron
+cell1635	Interneuron
+cell1636	Interneuron
+cell1637	Astrocytes
+cell1639	Astrocytes
+cell1640	Mitral/Tufted Cells
+cell1641	Endothelial cells
+cell1642	Endothelial cells
+cell1643	Mitral/Tufted Cells
+cell1644	Mitral/Tufted Cells
+cell1645	Neuroblast
+cell1646	Mitral/Tufted Cells
+cell1648	Interneuron
+cell1649	Astrocytes
+cell1650	Interneuron
+cell1651	Interneuron
+cell1652	Interneuron
+cell1654	Astrocytes
+cell1655	Interneuron
+cell1656	Astrocytes
+cell1657	Interneuron
+cell1658	Interneuron
+cell1659	Astrocytes
+cell1660	Interneuron
+cell1661	Oligodendrocytes
+cell1662	Interneuron
+cell1663	Interneuron
+cell1664	Interneuron
+cell1665	Interneuron
+cell1666	Interneuron
+cell1667	Interneuron
+cell1668	Neuroblast
+cell1669	Interneuron
+cell1670	Interneuron
+cell1671	Astrocytes
+cell1672	Oligodendrocytes
+cell1673	Interneuron
+cell1674	Interneuron
+cell1675	Interneuron
+cell1676	Astrocytes
+cell1677	Interneuron
+cell1678	Interneuron
+cell1679	Endothelial cells
+cell1680	Endothelial cells
+cell1681	Interneuron
+cell1682	Neuroblast
+cell1683	Neuroblast
+cell1684	Interneuron
+cell1685	Interneuron
+cell1686	Interneuron
+cell1687	Neuroblast
+cell1688	Mitral/Tufted Cells
+cell1689	Interneuron
+cell1690	Astrocytes
+cell1691	Interneuron
+cell1692	Neuroblast
+cell1693	Interneuron
+cell1694	Mitral/Tufted Cells
+cell1695	Interneuron
+cell1696	Mitral/Tufted Cells
+cell1697	Mitral/Tufted Cells
+cell1698	Interneuron
+cell1699	Mitral/Tufted Cells
+cell1700	Endothelial cells
+cell1701	Interneuron
+cell1703	Interneuron
+cell1704	Interneuron
+cell1705	Neuroblast
+cell1706	Interneuron
+cell1707	Interneuron
+cell1708	Interneuron
+cell1709	Neuroblast
+cell1710	Interneuron
+cell1711	Interneuron
+cell1712	Interneuron
+cell1713	Oligodendrocytes
+cell1714	Interneuron
+cell1715	Interneuron
+cell1716	Neuroblast
+cell1717	Interneuron
+cell1718	Astrocytes
+cell1719	Interneuron
+cell1720	Interneuron
+cell1721	Interneuron
+cell1722	Neuroblast
+cell1723	Neuroblast
+cell1724	Interneuron
+cell1725	Neuroblast
+cell1726	Neuroblast
+cell1727	Interneuron
+cell1728	Microglia
+cell1729	Interneuron
+cell1730	Interneuron
+cell1731	Interneuron
+cell1732	Interneuron
+cell1733	Interneuron
+cell1734	Microglia
+cell1735	Interneuron
+cell1736	Interneuron
+cell1737	Interneuron
+cell1738	Interneuron
+cell1739	Mitral/Tufted Cells
+cell1740	Interneuron
+cell1741	Mitral/Tufted Cells
+cell1742	Interneuron
+cell1743	Astrocytes
+cell1744	Astrocytes
+cell1745	Interneuron
+cell1746	Astrocytes
+cell1747	Endothelial cells
+cell1749	Astrocytes
+cell1751	Mitral/Tufted Cells
+cell1752	Interneuron
+cell1753	Interneuron
+cell1754	Astrocytes
+cell1755	Interneuron
+cell1756	Interneuron
+cell1757	Astrocytes
+cell1758	Interneuron
+cell1759	Interneuron
+cell1760	Interneuron
+cell1761	Oligodendrocytes
+cell1762	Interneuron
+cell1763	Interneuron
+cell1764	Interneuron
+cell1765	Interneuron
+cell1766	Interneuron
+cell1767	Endothelial cells
+cell1768	Interneuron
+cell1769	Interneuron
+cell1770	Interneuron
+cell1771	Interneuron
+cell1772	Mitral/Tufted Cells
+cell1773	Interneuron
+cell1774	Astrocytes
+cell1775	Interneuron
+cell1776	Interneuron
+cell1777	Interneuron
+cell1778	Interneuron
+cell1779	Interneuron
+cell1780	Interneuron
+cell1781	Interneuron
+cell1782	Interneuron
+cell1783	Interneuron
+cell1784	Interneuron
+cell1785	Interneuron
+cell1786	Interneuron
+cell1788	Neuroblast
+cell1789	Interneuron
+cell1790	Interneuron
+cell1791	Interneuron
+cell1792	Interneuron
+cell1793	Neuroblast
+cell1794	Interneuron
+cell1795	Astrocytes
+cell1796	Interneuron
+cell1797	Interneuron
+cell1798	Interneuron
+cell1799	Oligodendrocytes
+cell1800	Astrocytes
+cell1801	Interneuron
+cell1802	Interneuron
+cell1803	Interneuron
+cell1804	Neuroblast
+cell1805	Interneuron
+cell1806	Astrocytes
+cell1807	Microglia
+cell1808	Interneuron
+cell1809	Interneuron
+cell1810	Astrocytes
+cell1811	Interneuron
+cell1812	Astrocytes
+cell1813	Interneuron
+cell1814	Interneuron
+cell1815	Interneuron
+cell1816	Interneuron
+cell1817	Astrocytes
+cell1818	Endothelial cells
+cell1819	Astrocytes
+cell1820	Oligodendrocytes
+cell1821	Astrocytes
+cell1822	Interneuron
+cell1823	Astrocytes
+cell1824	Interneuron
+cell1825	Interneuron
+cell1826	Interneuron
+cell1827	Mitral/Tufted Cells
+cell1828	Interneuron
+cell1829	Interneuron
+cell1830	Interneuron
+cell1831	Interneuron
+cell1832	Oligodendrocytes
+cell1833	Mitral/Tufted Cells
+cell1834	Interneuron
+cell1835	Interneuron
+cell1836	Interneuron
+cell1837	Interneuron
+cell1838	Endothelial cells
+cell1839	Interneuron
+cell1840	Interneuron
+cell1841	Interneuron
+cell1842	Interneuron
+cell1843	Neuroblast
+cell1844	Interneuron
+cell1845	Interneuron
+cell1846	Interneuron
+cell1847	Interneuron
+cell1849	Interneuron
+cell1850	Interneuron
+cell1852	Endothelial cells
+cell1854	Neuroblast
+cell1855	Neuroblast
+cell1856	Interneuron
+cell1857	Interneuron
+cell1858	Mitral/Tufted Cells
+cell1859	Interneuron
+cell1860	Interneuron
+cell1861	Interneuron
+cell1863	Neuroblast
+cell1865	Neuroblast
+cell1866	Interneuron
+cell1867	Interneuron
+cell1869	Endothelial cells
+cell1870	Interneuron
+cell1871	Interneuron
+cell1872	Interneuron
+cell1873	Interneuron
+cell1874	Interneuron
+cell1875	Interneuron
+cell1876	Interneuron
+cell1877	Interneuron
+cell1878	Interneuron
+cell1879	Interneuron
+cell1880	Interneuron
+cell1881	Interneuron
+cell1882	Interneuron
+cell1883	Endothelial cells
+cell1884	Astrocytes
+cell1885	Olfactory Ensheathing cells
+cell1886	Olfactory Ensheathing cells
+cell1887	Olfactory Ensheathing cells
+cell1888	Olfactory Ensheathing cells
+cell1889	Olfactory Ensheathing cells
+cell1890	Olfactory Ensheathing cells
+cell1891	Olfactory Ensheathing cells
+cell1892	Olfactory Ensheathing cells
+cell1893	Olfactory Ensheathing cells
+cell1894	Olfactory Ensheathing cells
+cell1895	Mitral/Tufted Cells
+cell1896	Mitral/Tufted Cells
+cell1897	Astrocytes
+cell1898	Microglia
+cell1899	Interneuron
+cell1900	Interneuron
+cell1901	Astrocytes
+cell1902	Endothelial cells
+cell1903	Endothelial cells
+cell1904	Endothelial cells
+cell1905	Neuroblast
+cell1906	Neuroblast
+cell1907	Mitral/Tufted Cells
+cell1908	Astrocytes
+cell1910	Mitral/Tufted Cells
+cell1911	Interneuron
+cell1912	Astrocytes
+cell1913	Interneuron
+cell1914	Mitral/Tufted Cells
+cell1915	Mitral/Tufted Cells
+cell1916	Interneuron
+cell1917	Interneuron
+cell1918	Interneuron
+cell1919	Interneuron
+cell1920	Mitral/Tufted Cells
+cell1921	Astrocytes
+cell1922	Neuroblast
+cell1923	Astrocytes
+cell1924	Astrocytes
+cell1925	Neuroblast
+cell1926	Neuroblast
+cell1927	Interneuron
+cell1928	Interneuron
+cell1929	Interneuron
+cell1930	Interneuron
+cell1931	Endothelial cells
+cell1932	Interneuron
+cell1933	Interneuron
+cell1934	Interneuron
+cell1935	Astrocytes
+cell1936	Interneuron
+cell1937	Astrocytes
+cell1938	Interneuron
+cell1939	Interneuron
+cell1941	Interneuron
+cell1942	Endothelial cells
+cell1943	Interneuron
+cell1944	Interneuron
+cell1946	Interneuron
+cell1947	Neuroblast
+cell1948	Interneuron
+cell1949	Endothelial cells
+cell1950	Interneuron
+cell1951	Interneuron
+cell1952	Interneuron
+cell1953	Interneuron
+cell1954	Olfactory Ensheathing cells
+cell1955	Astrocytes
+cell1956	Endothelial cells
+cell1957	Olfactory Ensheathing cells
+cell1958	Interneuron
+cell1959	Olfactory Ensheathing cells
+cell1960	Olfactory Ensheathing cells
+cell1961	Olfactory Ensheathing cells
+cell1962	Olfactory Ensheathing cells
+cell1963	Interneuron
+cell1964	Endothelial cells
+cell1965	Olfactory Ensheathing cells
+cell1966	Olfactory Ensheathing cells
+cell1967	Olfactory Ensheathing cells
+cell1968	Olfactory Ensheathing cells
+cell1969	Olfactory Ensheathing cells
+cell1970	Olfactory Ensheathing cells
+cell1971	Olfactory Ensheathing cells
+cell1972	Olfactory Ensheathing cells
+cell1973	Astrocytes
+cell1974	Astrocytes
+cell1975	Endothelial cells
+cell1976	Mitral/Tufted Cells
+cell1977	Mitral/Tufted Cells
+cell1978	Interneuron
+cell1979	Mitral/Tufted Cells
+cell1980	Endothelial cells
+cell1981	Interneuron
+cell1982	Neuroblast
+cell1983	Endothelial cells
+cell1984	Astrocytes
+cell1985	Interneuron
+cell1986	Interneuron
+cell1987	Interneuron
+cell1988	Interneuron
+cell1989	Interneuron
+cell1990	Interneuron
+cell1991	Interneuron
+cell1992	Interneuron
+cell1993	Interneuron
+cell1994	Interneuron
+cell1995	Interneuron
+cell1996	Endothelial cells
+cell1997	Astrocytes
+cell1998	Microglia
+cell1999	Astrocytes
+cell2000	Interneuron
+cell2001	Interneuron
+cell2002	Astrocytes
+cell2003	Interneuron
+cell2004	Olfactory Ensheathing cells
+cell2005	Interneuron
+cell2006	Olfactory Ensheathing cells
+cell2007	Olfactory Ensheathing cells
+cell2008	Olfactory Ensheathing cells
+cell2009	Olfactory Ensheathing cells
+cell2011	Olfactory Ensheathing cells
+cell2012	Olfactory Ensheathing cells
+cell2013	Olfactory Ensheathing cells
+cell2014	Olfactory Ensheathing cells
+cell2015	Olfactory Ensheathing cells
+cell2016	Olfactory Ensheathing cells
+cell2018	Olfactory Ensheathing cells
+cell2019	Interneuron
+cell2020	Mitral/Tufted Cells
+cell2021	Astrocytes
+cell2022	Mitral/Tufted Cells
+cell2023	Mitral/Tufted Cells
+cell2024	Mitral/Tufted Cells
+cell2025	Mitral/Tufted Cells
+cell2026	Endothelial cells
+cell2027	Neuroblast
+cell2028	Interneuron
+cell2030	Interneuron
+cell2031	Interneuron
+cell2032	Endothelial cells
+cell2033	Endothelial cells
+cell2034	Interneuron
+cell2035	Neuroblast
+cell2036	Interneuron
+cell2037	Interneuron
+cell2038	Endothelial cells
+cell2039	Interneuron
+cell2040	Interneuron
+cell2042	Olfactory Ensheathing cells
+cell2043	Olfactory Ensheathing cells
+cell2044	Endothelial cells
+cell2045	Olfactory Ensheathing cells
+cell2046	Olfactory Ensheathing cells
+cell2047	Olfactory Ensheathing cells
+cell2048	Olfactory Ensheathing cells
+cell2049	Olfactory Ensheathing cells
+cell2050	Olfactory Ensheathing cells

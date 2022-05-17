@@ -1,2 +1,5 @@
 
 .DS_Store
+processed_data/SSP/spot-level/slideseq/ssp.slideseq.cnt.tsv
+processed_data/MOB/ref/external/MOB.sc.cnt.tsv
+processed_data/SSP/spot-level/ref/external/sc_cnt.5392cell.genexrow.tsv
