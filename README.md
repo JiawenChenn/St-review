@@ -7,9 +7,9 @@ This repo includes the code and processed data used to reproduce results in
 * ``processed_data``: the processed data (mouse olfactory bulb (MOB), heart, mouse cortex) used in the analysis. The detailed reference about the data employed is in Table 2 of the [review paper](https://www.biorxiv.org/content/10.1101/2022.02.20.481171v1).
 * ``scripts``: 
   * ``evaluation_metric.R``: the code used to caluclate RMSE, distance correlation and difference.
-  * other folders named after the name of each method include the code used to perform MOB internal-referencing inference. Please refer to the github/website of each methods for the up-to-date pipeline.
+  * other folders named after the name of each method include the code used to perform MOB internal-referencing inference. Please refer to the following github/website of each methods for the up-to-date pipeline.
 
-### Pipeline
+### Related link
 * Adroit https://github.com/TaoYang-dev/AdRoit
 * cell2location https://cell2location.readthedocs.io/en/latest/index.html
 * destVI https://docs.scvi-tools.org/en/stable/user_guide/models/destvi.html
