@@ -7,7 +7,6 @@ scRNA_anno_path="./processed_data/MOB/ref/internal/ob.sc.1950cell.mta.tsv"
 output_dir="MOB.Seqfish.int_hvg2000"
 
 st_path="./processed_data/MOB/seqfish.cnt.genexrow.tsv"
-#conda activate BAE
 
 mkdir -p ./scripts/cell2location/result/${output_dir}
 
