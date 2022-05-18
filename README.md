@@ -19,7 +19,7 @@ This repo includes the code and processed data used to reproduce results in
 * SpatialDWLS http://giottosuite.com/articles/analyses_deconvolution_Oct2021.html
 * SPOTlight https://github.com/MarcElosua/SPOTlight
 * DSTG https://github.com/Su-informatics-lab/DSTG
-* Tangram https://github.com/broadinstitute/Tangram
+* Tangram https://github.com/broadinstitute/Tangram  https://tangram-sc.readthedocs.io/en/latest/index.html
 
 ## Reference
 
