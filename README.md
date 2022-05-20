@@ -1,13 +1,13 @@
 # St-review
-This repo includes the code and processed data used to reproduce results in
+This repo includes codes and processed data used to produce results in 
 
 * [A comprehensive comparison on cell type composition inference for spatial transcriptomics data](https://www.biorxiv.org/content/10.1101/2022.02.20.481171v1)
 
 ## Repository structure
-* ``processed_data``: the processed data (mouse olfactory bulb (MOB), heart, mouse cortex) used in the analysis. The detailed reference about the data employed is in Table 2 of the [review paper](https://www.biorxiv.org/content/10.1101/2022.02.20.481171v1).
+* ``processed_data``: This folder contains processed data for the three datasets we used in our analysis: mouse olfactory bulb (MOB), human developing heart, and mouse cortex. Both spatial transcriptomics data that are subject to cell type deconvolution inference and reference single cell RNA-seq data are released. Details are described in Table 2 of our [review paper](https://www.biorxiv.org/content/10.1101/2022.02.20.481171v1).
 * ``scripts``: 
-  * ``evaluation_metric.R``: the code used to caluclate RMSE, distance correlation and difference.
-  * other folders named after the name of each method include the code used to perform MOB internal-referencing inference. Please refer to the following github/website of each methods for the up-to-date pipeline.
+  * ``evaluation_metric.R``: codes used to calculate evaluation metrics between inferred and true cell type proportions. We used the following three metrics: RMSE, distance correlation, and difference.
+  * other folders named after the name of each method include the code used to perform inference in the MOB data using the internal reference. Please refer to the following github/websites of each method for the most up-to-date pipeline.
 
 ### Related link
 * Adroit https://github.com/TaoYang-dev/AdRoit
@@ -44,7 +44,7 @@ This repo includes the code and processed data used to reproduce results in
 
 
 ## Contact
-For questions/comments, please contact Jiawen Chen (jiawenn@email.unc.edu). The processed MOB scRNA external reference with all genes, mouse SSp slide-seqV2, mouse SSp external reference with all genes exceed the file size limit, which can be accessed upon request.
+For questions/comments, please contact Jiawen Chen (jiawenn@email.unc.edu). The processed MOB scRNA-seq external reference with all genes, mouse SSp slide-seqV2, mouse SSp external reference with all genes exceed the file size limit, which can be accessed upon request.
 
 
 
