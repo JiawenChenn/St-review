@@ -6,7 +6,7 @@ module add gcc/4.9.1
 module add clang/6.0
 
 cd DSTG
-# converted ./processed_data/MOB/ref/internal/ob.sc_cnt.1950cell.tsv and ./processed_data/MOB/ref/internal/ob.sc.1950cell.mta.tsv to RDS
+# converted ./processed_data/MOB/seqfish.cnt.genexrow.tsv, ./processed_data/MOB/ref/internal/OB.sc.cnt.tsv and ./processed_data/MOB/ref/internal/OB.sc.mta.tsv to RDS
 Rscript convert_data.R ./processed_data/MOB/ref/internal/scRNA_seqfish_count.RDS ./processed_data/MOB/st_mob_seqfish_count.RDS ./processed_data/MOB/ref/internal/scRNA_seqfish_label.RDS
 python3 train.py 
 
