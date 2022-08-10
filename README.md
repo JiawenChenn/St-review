@@ -1,7 +1,7 @@
 # St-review
 This repo includes codes and processed data used to produce results in 
 
-* [A comprehensive comparison on cell type composition inference for spatial transcriptomics data](https://www.biorxiv.org/content/10.1101/2022.02.20.481171v1)
+* [A comprehensive comparison on cell type composition inference for spatial transcriptomics data](https://academic.oup.com/bib/article-abstract/23/4/bbac245/6618233?redirectedFrom=fulltext)
 
 ## Repository structure
 * ``processed_data``: This folder contains processed data for the three datasets we used in our analysis: mouse olfactory bulb (MOB), human developing heart, and mouse cortex. Both spatial transcriptomics data that are subject to cell type deconvolution inference and reference single cell RNA-seq data are released. Details are described in Table 2 of our [review paper](https://www.biorxiv.org/content/10.1101/2022.02.20.481171v1).
